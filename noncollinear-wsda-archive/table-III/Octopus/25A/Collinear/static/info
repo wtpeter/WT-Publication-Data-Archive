@@ -1,0 +1,95 @@
+
+******************************** Grid ********************************
+Simulation Box:
+  Type = minimum
+  Radius  [b] =   8.000
+Main mesh:
+  Spacing [b] = ( 0.300, 0.300, 0.300)    volume/point [b^3] =      0.02700
+  # inner mesh =     136356
+  # total mesh =     186618
+  Grid Cutoff [H] =    54.831136    Grid Cutoff [Ry] =   109.662271
+**********************************************************************
+
+
+***************************** Symmetries *****************************
+Symmetry elements : (C3) 3*(C2) (S3) 4*(sigma)
+Symmetry group    : D3h
+**********************************************************************
+
+
+**************************** Theory Level ****************************
+Input: [TheoryLevel = kohn_sham]
+
+Exchange-correlation:
+  Exchange
+    Slater exchange
+
+**********************************************************************
+
+SCF converged in   10 iterations
+
+Some of the states are not fully converged!
+Eigenvalues [H]
+ #st  Spin   Eigenvalue      Occupation
+   1   up    -0.540284       1.000000
+   1   dn    -0.001260       0.000000
+   2   up    -0.479622       1.000000
+   2   dn     0.068689       0.000000
+   3   up    -0.479618       1.000000
+   3   dn     0.068696       0.000000
+
+Energy [H]:
+      Total       =        -1.49144559
+      Free        =        -1.49144559
+      -----------
+      Ion-ion     =         0.63501265
+      Eigenvalues =        -1.49952423
+      Hartree     =         1.57037632
+      Int[n*v_xc] =        -1.88688462
+      Exchange    =        -0.94344231
+      Correlation =         0.00000000
+      vanderWaals =         0.00000000
+      Delta XC    =         0.00000000
+      Entropy     =         0.00000000
+      -TS         =        -0.00000000
+      Photon ex.  =         0.00000000
+      Kinetic     =         1.48068855
+      External    =        -4.23407889
+      Non-local   =         0.00000000
+      Int[n*v_E]  =         0.00000000
+
+Total Magnetic Moment:
+ mz =   3.000000
+Local Magnetic Moments (sphere radius [b] =   2.362):
+ Ion                    mz
+   1         H       0.863874
+   2         H       0.863877
+   3         H       0.863877
+
+Dipole:                 [b]          [Debye]
+      <x> =    2.05328E-15      5.21893E-15
+      <y> =    3.21901E-06      8.18190E-06
+      <z> =    4.28875E-15      1.09009E-14
+
+Virial relation for exchange [H]:
+Energy from the orbitals  -9.434423E-01
+Energy from the potential (virial)  -9.463247E-01
+
+Convergence:
+      abs_energy =  3.32671943E-07 ( 0.00000000E+00) [H]
+      rel_energy =  2.23053306E-07 ( 0.00000000E+00)
+      abs_dens =  6.66616288E-07 ( 0.00000000E+00)
+      rel_dens =  2.22205429E-07 ( 1.00000000E-06)
+      abs_evsum =  3.23054862E-07 ( 0.00000000E+00) [H]
+      rel_evsum =  2.15438241E-07 ( 0.00000000E+00)
+
+Forces on the ions [H/b]
+ Ion                        x              y              z
+   1         H   4.44585698E-17   3.87737979E-03   2.20031433E-15
+   2         H  -3.35787046E-03  -1.93853963E-03   3.37285095E-15
+   3         H   3.35787046E-03  -1.93853963E-03   3.17372189E-15
+ ----------------------------------------------------------
+ Max abs force   3.35787046E-03   3.87737979E-03   3.37285095E-15
+   Total force  -3.41740525E-16   3.00529216E-07   8.74688717E-15
+  Total torque  -2.92662227E-15   4.70374243E-16  -7.31019821E-16
+

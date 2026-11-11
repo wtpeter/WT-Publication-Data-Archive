@@ -1,0 +1,330 @@
+D2h
+Functional: SVWN
+converged SCF energy = -6028.34950320694  <S^2> = 2.0014766  2S+1 = 3.0009842
+Overwritten attributes  positive_eig_threshold  of <class 'pyscf.sftda.uks_sf.CasidaTDDFT'>
+50
+Excited State energies (eV)
+[-4.95497070e-02  7.94373545e-06  5.07346317e-01  6.56662743e-01
+  1.09939874e+00]
+Excited energy : -0.049549703058259946 eV.
+<S2> value : 0.0030741425519766885.
+The main and second norm:
+0.8210406604461254 0.15936677332307866
+The main and second norm to orbital pair:
+(82.0, 1.0) (81.0, 2.0)
+
+
+None
+Excited energy : 7.94373482271048e-06 eV.
+<S2> value : 2.0078791621757066.
+The main and second norm:
+0.49324956134906095 0.4870608920998607
+The main and second norm to orbital pair:
+(82.0, 2.0) (81.0, 1.0)
+
+
+None
+Excited energy : 0.507346277195507 eV.
+<S2> value : 0.030153507415831005.
+The main and second norm:
+0.5018093621800876 0.4963590979168452
+The main and second norm to orbital pair:
+(81.0, 1.0) (82.0, 2.0)
+
+
+None
+Excited energy : 0.6566626906208208 eV.
+<S2> value : 0.028088567533488096.
+The main and second norm:
+0.8184645605704632 0.17072514570848982
+The main and second norm to orbital pair:
+(81.0, 2.0) (82.0, 1.0)
+
+
+None
+Excited energy : 1.099398657679703 eV.
+<S2> value : 0.9870124325159471.
+The main and second norm:
+0.9856461026355936 0.011472830897902733
+The main and second norm to orbital pair:
+(80.0, 1.0) (81.0, 2.0)
+
+
+None
+
+-------------------------------------------
+
+Functional: BLYP
+converged SCF energy = -6042.85539528386  <S^2> = 2.0021165  2S+1 = 3.0014106
+50
+Excited State energies (eV)
+[-3.90379469e-02  1.60740331e-05  6.59295253e-01  8.12755019e-01
+  1.17858159e+00]
+Excited energy : -0.039037943793294956 eV.
+<S2> value : 0.003835704835988718.
+The main and second norm:
+0.7550121673371203 0.2070427813351259
+The main and second norm to orbital pair:
+(82.0, 1.0) (81.0, 2.0)
+
+
+None
+Excited energy : 1.6074031817991708e-05 eV.
+<S2> value : 2.011296440986369.
+The main and second norm:
+0.4861107783379253 0.4733714022407489
+The main and second norm to orbital pair:
+(82.0, 2.0) (81.0, 1.0)
+
+
+None
+Excited energy : 0.6592952001672575 eV.
+<S2> value : 0.06229979192725521.
+The main and second norm:
+0.5035090865577632 0.4923407902224242
+The main and second norm to orbital pair:
+(81.0, 1.0) (82.0, 2.0)
+
+
+None
+Excited energy : 0.8127549543765457 eV.
+<S2> value : 0.062463982787070105.
+The main and second norm:
+0.7498507195571219 0.23018879332149655
+The main and second norm to orbital pair:
+(81.0, 2.0) (82.0, 1.0)
+
+
+None
+Excited energy : 1.1785814988265848 eV.
+<S2> value : 0.9693817282055175.
+The main and second norm:
+0.9715700962388318 0.0227803487653783
+The main and second norm to orbital pair:
+(80.0, 1.0) (81.0, 2.0)
+
+
+None
+
+-------------------------------------------
+
+Functional: PBE
+converged SCF energy = -6041.08113708647  <S^2> = 2.0022672  2S+1 = 3.0015111
+50
+Excited State energies (eV)
+[-3.55367594e-02  1.23640328e-05  6.82382485e-01  8.32537482e-01
+  1.21335765e+00]
+Excited energy : -0.03553675656965411 eV.
+<S2> value : 0.003960730280066382.
+The main and second norm:
+0.7468224019844606 0.2145515171015382
+The main and second norm to orbital pair:
+(82.0, 1.0) (81.0, 2.0)
+
+
+None
+Excited energy : 1.2364031791247844e-05 eV.
+<S2> value : 2.012101824739138.
+The main and second norm:
+0.48593086953722103 0.4731210944327319
+The main and second norm to orbital pair:
+(82.0, 2.0) (81.0, 1.0)
+
+
+None
+Excited energy : 0.6823824303934465 eV.
+<S2> value : 0.06233679818332849.
+The main and second norm:
+0.5034205731751886 0.49251164598527714
+The main and second norm to orbital pair:
+(81.0, 1.0) (82.0, 2.0)
+
+
+None
+Excited energy : 0.8325374162682495 eV.
+<S2> value : 0.061282762307637295.
+The main and second norm:
+0.7437981672286421 0.23796330830434073
+The main and second norm to orbital pair:
+(81.0, 2.0) (82.0, 1.0)
+
+
+None
+Excited energy : 1.2133575491017488 eV.
+<S2> value : 0.9713250522012542.
+The main and second norm:
+0.9729008188971672 0.021007425099089212
+The main and second norm to orbital pair:
+(80.0, 1.0) (81.0, 2.0)
+
+
+None
+
+-------------------------------------------
+
+Functional: B3LYP
+/public1/home/scg0213/.conda/envs/pyscf-2.5/lib/python3.8/site-packages/pyscf/dft/libxc.py:1102: UserWarning: Since PySCF-2.3, B3LYP (and B3P86) are changed to the VWN-RPA variant, corresponding to the original definition by Stephens et al. (issue 1480) and the same as the B3LYP functional in Gaussian. To restore the VWN5 definition, you can put the setting "B3LYP_WITH_VWN5 = True" in pyscf_conf.py
+  warnings.warn('Since PySCF-2.3, B3LYP (and B3P86) are changed to the VWN-RPA variant, '
+converged SCF energy = -6042.8705555508  <S^2> = 2.0057292  2S+1 = 3.003817
+50
+TD-SCF states [2, 3, 4] not converged.
+Excited State energies (eV)
+[-6.82871414e-03  1.82848249e-05  1.49847756e+00  1.59199785e+00
+  1.65168375e+00]
+Excited energy : -0.0068287135992242745 eV.
+<S2> value : 0.007913876896401995.
+The main and second norm:
+0.48573264305389924 0.22297092336646068
+The main and second norm to orbital pair:
+(82.0, 1.0) (81.0, 2.0)
+
+
+None
+Excited energy : 1.828482342664269e-05 eV.
+<S2> value : 2.030615208809116.
+The main and second norm:
+0.3863070211629121 0.3064213444940078
+The main and second norm to orbital pair:
+(82.0, 2.0) (81.0, 1.0)
+
+
+None
+Excited energy : 1.4984774390556703 eV.
+<S2> value : 1.2304770397954308.
+The main and second norm:
+0.13680206573803755 0.12198575825755083
+The main and second norm to orbital pair:
+(78.0, 1.0) (82.0, 1.0)
+
+
+None
+Excited energy : 1.5919977249170643 eV.
+<S2> value : 1.005121924420631.
+The main and second norm:
+0.28369054451849585 0.22382179050782808
+The main and second norm to orbital pair:
+(78.0, 1.0) (77.0, 2.0)
+
+
+None
+Excited energy : 1.6516836167484348 eV.
+<S2> value : 0.9970128536079486.
+The main and second norm:
+0.21222099853252752 0.12538862058445563
+The main and second norm to orbital pair:
+(75.0, 1.0) (79.0, 1.0)
+
+
+None
+
+-------------------------------------------
+
+Functional: PBE0
+converged SCF energy = -6041.29433317128  <S^2> = 2.007224  2S+1 = 3.0048121
+50
+Excited State energies (eV)
+[-1.06510858e-03  1.36004886e-05  2.07589441e+00  2.08110053e+00
+  2.71801793e+00]
+Excited energy : -0.001065108499861574 eV.
+<S2> value : 0.009611089760730884.
+The main and second norm:
+0.4129743395017921 0.1975638319248825
+The main and second norm to orbital pair:
+(82.0, 1.0) (81.0, 2.0)
+
+
+None
+Excited energy : 1.3600487535700738e-05 eV.
+<S2> value : 2.0386214910253377.
+The main and second norm:
+0.3423784950910019 0.25349959138505646
+The main and second norm to orbital pair:
+(82.0, 2.0) (81.0, 1.0)
+
+
+None
+Excited energy : 2.0758942469883506 eV.
+<S2> value : 0.777649552187814.
+The main and second norm:
+0.4199242464249944 0.3390421487427575
+The main and second norm to orbital pair:
+(81.0, 1.0) (82.0, 2.0)
+
+
+None
+Excited energy : 2.0811003674533852 eV.
+<S2> value : 0.8630468404135239.
+The main and second norm:
+0.36025807478754573 0.3115756760995607
+The main and second norm to orbital pair:
+(80.0, 1.0) (81.0, 2.0)
+
+
+None
+Excited energy : 2.718017713718334 eV.
+<S2> value : 0.5133757449744012.
+The main and second norm:
+0.3585585191937255 0.3477696483051821
+The main and second norm to orbital pair:
+(80.0, 2.0) (76.0, 1.0)
+
+
+None
+
+-------------------------------------------
+
+Functional: TPSS
+converged SCF energy = -6042.88905446593  <S^2> = 2.0027852  2S+1 = 3.0018563
+50
+TD-SCF states [0, 2, 3, 4] not converged.
+Excited State energies (eV)
+[-2.89342773e-02  1.36916844e-05  8.39726777e-01  9.94640125e-01
+  1.34958794e+00]
+Excited energy : -0.028934274980434656 eV.
+<S2> value : 0.004477880726876826.
+The main and second norm:
+0.7001514536916517 0.2435867960547843
+The main and second norm to orbital pair:
+(82.0, 1.0) (81.0, 2.0)
+
+
+None
+Excited energy : 1.3691683345535612e-05 eV.
+<S2> value : 2.0148695889422745.
+The main and second norm:
+0.47915274587074885 0.4600174504340139
+The main and second norm to orbital pair:
+(82.0, 2.0) (81.0, 1.0)
+
+
+None
+Excited energy : 0.8397267106944818 eV.
+<S2> value : 0.09149654369979565.
+The main and second norm:
+0.5049313891371594 0.48872755310612803
+The main and second norm to orbital pair:
+(81.0, 1.0) (82.0, 2.0)
+
+
+None
+Excited energy : 0.9946400459882789 eV.
+<S2> value : 0.09294378560026573.
+The main and second norm:
+0.6982059332318206 0.27734541930026485
+The main and second norm to orbital pair:
+(81.0, 2.0) (82.0, 1.0)
+
+
+None
+Excited energy : 1.3495878315934526 eV.
+<S2> value : 0.9570996482058778.
+The main and second norm:
+0.9615904234494578 0.028086704984680768
+The main and second norm to orbital pair:
+(80.0, 1.0) (81.0, 2.0)
+
+
+None
+
+-------------------------------------------
+

@@ -1,0 +1,166 @@
+
+EnvironmentNameNotFound: Could not find conda environment: Opt_cont.py
+You can list all discoverable environments with `conda info --envs`.
+
+
+O           0.70399        0.01836        0.00000
+N          -0.51159        0.00020       -0.00000
+H          -1.43809       -0.37994        0.00000
+/data/home/db100401/db100401/pyscf/SFTD/pyscf/dft/libxc.py:1102: UserWarning: Since PySCF-2.3, B3LYP (and B3P86) are changed to the VWN-RPA variant, corresponding to the original definition by Stephens et al. (issue 1480) and the same as the B3LYP functional in Gaussian. To restore the VWN5 definition, you can put the setting "B3LYP_WITH_VWN5 = True" in pyscf_conf.py
+  warnings.warn('Since PySCF-2.3, B3LYP (and B3P86) are changed to the VWN-RPA variant, '
+converged SCF energy = -130.483521881884  <S^2> = 2.008602  2S+1 = 3.0057292
+0-th state with excitation energy = 1.6086, S^2 = 0.0064 Norms: 0.972@(9, 1), 0.025@(8, 2)
+2-th state with excitation energy = 1.8918, S^2 = 0.0092 Norms: 0.534@(9, 2), 0.464@(8, 1)
+3-th state with excitation energy = 2.4228, S^2 = 0.0074 Norms: 0.974@(8, 2), 0.025@(9, 1)
+1-th state with excitation energy = 1.6484, S^2 = 2.0125 Norms: 0.532@(8, 1), 0.464@(9, 2)
+14-th state with excitation energy = 12.3772, S^2 = 1.9963 Norms: 0.973@(7, 3), 0.017@(7, 4)
+15-th state with excitation energy = 12.4532, S^2 = 1.9952 Norms: 0.973@(6, 3), 0.017@(6, 4)
+16-th state with excitation energy = 14.2339, S^2 = 1.9990 Norms: 0.972@(5, 3), 0.017@(5, 4)
+17-th state with excitation energy = 15.4427, S^2 = 1.9495 Norms: 0.929@(7, 4), 0.048@(8, 5)
+--------- TDA_SF gradients for state 1 ----------
+         x                y                z
+0 O     0.0184233806     0.0499591688    -0.0000000000
+1 N    -0.0115267451    -0.1123211371     0.0000000000
+2 H    -0.0069026401     0.0623587793    -0.0000000000
+----------------------------------------------
+--------- TDA_SF gradients for state 2 ----------
+         x                y                z
+0 O     0.0082532111     0.0224138058    -0.0000000000
+1 N    -0.0052407612    -0.0504287205     0.0000000000
+2 H    -0.0030183587     0.0280115604    -0.0000000000
+----------------------------------------------
+O           0.71109        0.03754        0.00000
+N          -0.51591       -0.04287       -0.00000
+H          -1.44087       -0.35605        0.00000
+converged SCF energy = -130.477269884964  <S^2> = 2.0092767  2S+1 = 3.0061781
+1-th state with excitation energy = 1.7921, S^2 = 0.0066 Norms: 0.916@(9, 1), 0.082@(8, 2)
+2-th state with excitation energy = 1.8941, S^2 = 0.0071 Norms: 0.512@(9, 2), 0.486@(8, 1)
+3-th state with excitation energy = 2.2407, S^2 = 0.0072 Norms: 0.917@(8, 2), 0.082@(9, 1)
+0-th state with excitation energy = 1.6566, S^2 = 2.0158 Norms: 0.512@(8, 1), 0.486@(9, 2)
+14-th state with excitation energy = 12.2816, S^2 = 1.9954 Norms: 0.967@(7, 3), 0.025@(7, 4)
+15-th state with excitation energy = 12.3201, S^2 = 1.9949 Norms: 0.966@(6, 3), 0.025@(6, 4)
+16-th state with excitation energy = 14.2060, S^2 = 2.0003 Norms: 0.968@(5, 3), 0.025@(5, 4)
+17-th state with excitation energy = 15.0820, S^2 = 1.9855 Norms: 0.957@(7, 4), 0.026@(7, 3)
+18-th state with excitation energy = 15.1107, S^2 = 1.9784 Norms: 0.950@(6, 4), 0.026@(6, 3)
+--------- TDA_SF gradients for state 2 ----------
+         x                y                z
+0 O     0.0295132182     0.0368910133    -0.0000000000
+1 N    -0.0448689214    -0.0884666751     0.0000000000
+2 H     0.0153527491     0.0515736001    -0.0000000000
+----------------------------------------------
+--------- TDA_SF gradients for state 1 ----------
+         x                y                z
+0 O     0.0261568015     0.0193015455    -0.0000000000
+1 N    -0.0446819566    -0.0489109975     0.0000000000
+2 H     0.0185230930     0.0296067430    -0.0000000000
+----------------------------------------------
+O           0.70464        0.02011        0.00000
+N          -0.51199       -0.00373       -0.00000
+H          -1.43834       -0.37776        0.00000
+converged SCF energy = -130.482972151779  <S^2> = 2.0086633  2S+1 = 3.00577
+0-th state with excitation energy = 1.6286, S^2 = 0.0064 Norms: 0.969@(9, 1), 0.027@(8, 2)
+2-th state with excitation energy = 1.8921, S^2 = 0.0088 Norms: 0.531@(9, 2), 0.466@(8, 1)
+3-th state with excitation energy = 2.4032, S^2 = 0.0074 Norms: 0.971@(8, 2), 0.027@(9, 1)
+1-th state with excitation energy = 1.6492, S^2 = 2.0130 Norms: 0.530@(8, 1), 0.467@(9, 2)
+14-th state with excitation energy = 12.3693, S^2 = 1.9962 Norms: 0.972@(7, 3), 0.018@(7, 4)
+15-th state with excitation energy = 12.4415, S^2 = 1.9952 Norms: 0.972@(6, 3), 0.018@(6, 4)
+16-th state with excitation energy = 14.2317, S^2 = 1.9992 Norms: 0.972@(5, 3), 0.017@(5, 4)
+17-th state with excitation energy = 15.4105, S^2 = 1.9573 Norms: 0.936@(7, 4), 0.040@(8, 5)
+--------- TDA_SF gradients for state 1 ----------
+         x                y                z
+0 O     0.0191402464     0.0489920861    -0.0000000000
+1 N    -0.0140611143    -0.1107989127     0.0000000000
+2 H    -0.0050850812     0.0618029827    -0.0000000000
+----------------------------------------------
+--------- TDA_SF gradients for state 2 ----------
+         x                y                z
+0 O     0.0097159882     0.0221707010    -0.0000000000
+1 N    -0.0085169983    -0.0505614410     0.0000000000
+2 H    -0.0012047921     0.0283866300    -0.0000000000
+----------------------------------------------
+Delta F = 2.82e-02,  Delta E = 7.60e-04.
+O           0.70369        0.02058        0.00000
+N          -0.50983       -0.00434       -0.00000
+H          -1.43954       -0.37761        0.00000
+converged SCF energy = -130.482876878824  <S^2> = 2.0086361  2S+1 = 3.0057519
+0-th state with excitation energy = 1.6295, S^2 = 0.0064 Norms: 0.969@(9, 1), 0.027@(8, 2)
+2-th state with excitation energy = 1.8910, S^2 = 0.0090 Norms: 0.532@(9, 2), 0.465@(8, 1)
+3-th state with excitation energy = 2.3998, S^2 = 0.0074 Norms: 0.971@(8, 2), 0.027@(9, 1)
+1-th state with excitation energy = 1.6482, S^2 = 2.0128 Norms: 0.531@(8, 1), 0.466@(9, 2)
+14-th state with excitation energy = 12.3762, S^2 = 1.9962 Norms: 0.973@(7, 3), 0.017@(7, 4)
+15-th state with excitation energy = 12.4491, S^2 = 1.9952 Norms: 0.973@(6, 3), 0.017@(6, 4)
+16-th state with excitation energy = 14.2186, S^2 = 1.9991 Norms: 0.972@(5, 3), 0.017@(5, 4)
+18-th state with excitation energy = 15.4474, S^2 = 1.9421 Norms: 0.921@(7, 4), 0.056@(8, 5)
+--------- TDA_SF gradients for state 1 ----------
+         x                y                z
+0 O     0.0145415294     0.0491658010    -0.0000000000
+1 N    -0.0072073084    -0.1100116499     0.0000000000
+2 H    -0.0073400093     0.0608421035    -0.0000000000
+----------------------------------------------
+--------- TDA_SF gradients for state 2 ----------
+         x                y                z
+0 O     0.0050297798     0.0222327767    -0.0000000000
+1 N    -0.0013926067    -0.0496641641     0.0000000000
+2 H    -0.0036427992     0.0274273051    -0.0000000000
+----------------------------------------------
+Delta F = 4.85e-06,  Delta E = 6.88e-04.
+O           0.70443        0.02049        0.00000
+N          -0.51070       -0.00417       -0.00000
+H          -1.43941       -0.37770        0.00000
+converged SCF energy = -130.48290601502  <S^2> = 2.0086541  2S+1 = 3.0057638
+0-th state with excitation energy = 1.6297, S^2 = 0.0064 Norms: 0.969@(9, 1), 0.027@(8, 2)
+2-th state with excitation energy = 1.8915, S^2 = 0.0089 Norms: 0.532@(9, 2), 0.465@(8, 1)
+3-th state with excitation energy = 2.4006, S^2 = 0.0074 Norms: 0.971@(8, 2), 0.027@(9, 1)
+1-th state with excitation energy = 1.6487, S^2 = 2.0128 Norms: 0.531@(8, 1), 0.466@(9, 2)
+14-th state with excitation energy = 12.3659, S^2 = 1.9962 Norms: 0.973@(7, 3), 0.018@(7, 4)
+15-th state with excitation energy = 12.4384, S^2 = 1.9952 Norms: 0.972@(6, 3), 0.018@(6, 4)
+16-th state with excitation energy = 14.2175, S^2 = 1.9991 Norms: 0.972@(5, 3), 0.017@(5, 4)
+17-th state with excitation energy = 15.4270, S^2 = 1.9503 Norms: 0.929@(7, 4), 0.047@(8, 5)
+--------- TDA_SF gradients for state 1 ----------
+         x                y                z
+0 O     0.0169172656     0.0490724385    -0.0000000000
+1 N    -0.0102384497    -0.1101501169     0.0000000000
+2 H    -0.0066846701     0.0610738582    -0.0000000000
+----------------------------------------------
+--------- TDA_SF gradients for state 2 ----------
+         x                y                z
+0 O     0.0074678027     0.0222157516    -0.0000000000
+1 N    -0.0045502023    -0.0499183201     0.0000000000
+2 H    -0.0029232977     0.0276984424    -0.0000000000
+----------------------------------------------
+Delta F = 5.26e-06,  Delta E = 6.96e-04.
+O           0.70460        0.02050        0.00000
+N          -0.51074       -0.00413       -0.00000
+H          -1.43954       -0.37774        0.00000
+converged SCF energy = -130.482909609611  <S^2> = 2.0086566  2S+1 = 3.0057655
+0-th state with excitation energy = 1.6297, S^2 = 0.0064 Norms: 0.969@(9, 1), 0.027@(8, 2)
+2-th state with excitation energy = 1.8915, S^2 = 0.0090 Norms: 0.532@(9, 2), 0.465@(8, 1)
+3-th state with excitation energy = 2.4008, S^2 = 0.0074 Norms: 0.971@(8, 2), 0.027@(9, 1)
+1-th state with excitation energy = 1.6487, S^2 = 2.0128 Norms: 0.531@(8, 1), 0.466@(9, 2)
+14-th state with excitation energy = 12.3627, S^2 = 1.9962 Norms: 0.972@(7, 3), 0.018@(7, 4)
+15-th state with excitation energy = 12.4352, S^2 = 1.9952 Norms: 0.972@(6, 3), 0.018@(6, 4)
+16-th state with excitation energy = 14.2150, S^2 = 1.9991 Norms: 0.972@(5, 3), 0.017@(5, 4)
+17-th state with excitation energy = 15.4244, S^2 = 1.9510 Norms: 0.930@(7, 4), 0.047@(8, 5)
+--------- TDA_SF gradients for state 1 ----------
+         x                y                z
+0 O     0.0172081268     0.0490743643     0.0000000000
+1 N    -0.0104379181    -0.1101144999    -0.0000000000
+2 H    -0.0067760652     0.0610363085     0.0000000000
+----------------------------------------------
+--------- TDA_SF gradients for state 2 ----------
+         x                y                z
+0 O     0.0077605578     0.0222216776    -0.0000000000
+1 N    -0.0047508587    -0.0498891875     0.0000000000
+2 H    -0.0030153997     0.0276633806    -0.0000000000
+----------------------------------------------
+Delta F = 1.15e-07,  Delta E = 6.99e-04.
+Traceback (most recent call last):
+  File "Opt_cont.py", line 137, in <module>
+    minimize(fun=F, x0=R0, method='BFGS', jac=True, tol=1e-6, callback=callback)
+  File "/data/home/db100401/db100401/.conda/envs/pyscf_dev/lib/python3.8/site-packages/scipy/optimize/_minimize.py", line 691, in minimize
+    res = _minimize_bfgs(fun, x0, args, jac, callback, **options)
+  File "/data/home/db100401/db100401/.conda/envs/pyscf_dev/lib/python3.8/site-packages/scipy/optimize/_optimize.py", line 1407, in _minimize_bfgs
+    callback(xk)
+  File "Opt_cont.py", line 131, in callback
+    raise StopIteration(f"Converged at given sigma={sigma:.2f}.")
+StopIteration: Converged at given sigma=20.00.

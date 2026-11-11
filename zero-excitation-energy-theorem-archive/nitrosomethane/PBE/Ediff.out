@@ -1,0 +1,76 @@
+converged SCF energy = -169.645406267881  <S^2> = 2.0038546  2S+1 = 3.0025686
+200
+Excited energy : -0.652644493400301 eV.
+<S2> value : 0.006623058619766642.
+The main and second norm:
+0.971710785625407 0.0261455426576889
+The main and second norm to orbital pair:
+(13.0, 1.0) (12.0, 2.0)
+
+
+None
+Excited energy : -3.317331355998954e-06 eV.
+<S2> value : 2.020580285771516.
+The main and second norm:
+0.49651948745708635 0.4956231019512449
+The main and second norm to orbital pair:
+(12.0, 1.0) (13.0, 2.0)
+
+
+None
+Excited energy : 0.6609735636463406 eV.
+<S2> value : 0.0069893144942798635.
+The main and second norm:
+0.4977776062853181 0.4963654761268157
+The main and second norm to orbital pair:
+(12.0, 1.0) (13.0, 2.0)
+
+
+None
+Excited energy : 3.2833401406630967 eV.
+<S2> value : 0.012875789865359533.
+The main and second norm:
+0.967702294699569 0.027086053546939937
+The main and second norm to orbital pair:
+(12.0, 2.0) (13.0, 1.0)
+
+
+None
+converged SCF energy = -169.626368901311  <S^2> = 2.0049667  2S+1 = 3.0033093
+200
+Excited energy : -2.3756397459607917e-07 eV.
+<S2> value : 2.0265292876833008.
+The main and second norm:
+0.4956753205664882 0.4952477969210567
+The main and second norm to orbital pair:
+(13.0, 2.0) (12.0, 1.0)
+
+
+None
+Excited energy : 0.4740075478667416 eV.
+<S2> value : 0.006317128170783448.
+The main and second norm:
+0.80914824629416 0.1873099291879715
+The main and second norm to orbital pair:
+(13.0, 1.0) (12.0, 2.0)
+
+
+None
+Excited energy : 0.6899788350188725 eV.
+<S2> value : 0.005340100177608331.
+The main and second norm:
+0.49742759440397755 0.49678130336063636
+The main and second norm to orbital pair:
+(13.0, 2.0) (12.0, 1.0)
+
+
+None
+Excited energy : 2.095379507368802 eV.
+<S2> value : 0.010937361604100193.
+The main and second norm:
+0.8102507368556602 0.1890537493756129
+The main and second norm to orbital pair:
+(12.0, 2.0) (13.0, 1.0)
+
+
+None

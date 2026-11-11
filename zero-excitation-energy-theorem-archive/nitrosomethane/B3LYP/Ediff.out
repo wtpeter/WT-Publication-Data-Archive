@@ -1,0 +1,78 @@
+/home/peter/anaconda3/envs/sftdgrad/lib/python3.9/site-packages/pyscf/dft/libxc.py:512: UserWarning: Since PySCF-2.3, B3LYP (and B3P86) are changed to the VWN-RPA variant, corresponding to the original definition by Stephens et al. (issue 1480) and the same as the B3LYP functional in Gaussian. To restore the VWN5 definition, you can put the setting "B3LYP_WITH_VWN5 = True" in pyscf_conf.py
+  warnings.warn('Since PySCF-2.3, B3LYP (and B3P86) are changed to the VWN-RPA variant, '
+converged SCF energy = -169.838399409346  <S^2> = 2.0074342  2S+1 = 3.004952
+200
+Excited energy : -0.6165919716881844 eV.
+<S2> value : 0.011975124099332213.
+The main and second norm:
+0.964212940716005 0.023848504175255563
+The main and second norm to orbital pair:
+(13.0, 1.0) (12.0, 2.0)
+
+
+None
+Excited energy : -4.789919545430135e-07 eV.
+<S2> value : 2.0397287157571977.
+The main and second norm:
+0.48879427385939317 0.48707829279518633
+The main and second norm to orbital pair:
+(12.0, 1.0) (13.0, 2.0)
+
+
+None
+Excited energy : 0.7313203926117313 eV.
+<S2> value : 0.011734919761558604.
+The main and second norm:
+0.4902475182830261 0.4890347528031959
+The main and second norm to orbital pair:
+(12.0, 1.0) (13.0, 2.0)
+
+
+None
+Excited energy : 3.4380506756791904 eV.
+<S2> value : 0.016342551022908047.
+The main and second norm:
+0.9625704774216441 0.02598428616710897
+The main and second norm to orbital pair:
+(12.0, 2.0) (13.0, 1.0)
+
+
+None
+converged SCF energy = -169.818519896559  <S^2> = 2.0090246  2S+1 = 3.0060104
+200
+Excited energy : -6.030390343228244e-07 eV.
+<S2> value : 2.0482601453351705.
+The main and second norm:
+0.4861019835838538 0.4849867739515682
+The main and second norm to orbital pair:
+(13.0, 2.0) (12.0, 1.0)
+
+
+None
+Excited energy : 0.5587741607754728 eV.
+<S2> value : 0.009584550780983747.
+The main and second norm:
+0.8051160256221933 0.17634799227292766
+The main and second norm to orbital pair:
+(13.0, 1.0) (12.0, 2.0)
+
+
+None
+Excited energy : 0.7824319775093074 eV.
+<S2> value : 0.009155410334076297.
+The main and second norm:
+0.48935911751629596 0.48811217286954245
+The main and second norm to orbital pair:
+(13.0, 2.0) (12.0, 1.0)
+
+
+None
+Excited energy : 2.2028770333243175 eV.
+<S2> value : 0.01178266905966785.
+The main and second norm:
+0.8095124873870484 0.18074076430639968
+The main and second norm to orbital pair:
+(12.0, 2.0) (13.0, 1.0)
+
+
+None

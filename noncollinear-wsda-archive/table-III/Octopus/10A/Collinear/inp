@@ -1,0 +1,28 @@
+CalculationMode = gs
+
+BD = 1.0*angstrom
+a = BD / sqrt(3)
+%Coordinates
+ 'H' |  0 | a | 0
+ 'H' |  -sqrt(3)*a/2 | -0.5*a | 0
+ 'H' |  sqrt(3)*a/2 | -0.5*a | 0
+%
+
+Spacing = 0.3
+Radius = 8
+
+%Occupations
+ 1 | 1 | 1
+ 0 | 0 | 0
+%
+
+XCFunctional = slater_x
+
+SpinComponents = spin_polarized
+ExtraStates = 1
+GuessMagnetDensity = user_defined
+%AtomsMagnetDirection
+ 0.0 | 0.0 | 1.0
+ 0.0 | 0.0 | 1.0
+ 0.0 | 0.0 | 1.0
+%

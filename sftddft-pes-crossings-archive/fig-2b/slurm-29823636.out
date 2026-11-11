@@ -1,0 +1,2218 @@
+/public1/home/scg0213/.conda/envs/pyscf-2.5/lib/python3.8/site-packages/pyscf/dft/libxc.py:1102: UserWarning: Since PySCF-2.3, B3LYP (and B3P86) are changed to the VWN-RPA variant, corresponding to the original definition by Stephens et al. (issue 1480) and the same as the B3LYP functional in Gaussian. To restore the VWN5 definition, you can put the setting "B3LYP_WITH_VWN5 = True" in pyscf_conf.py
+  warnings.warn('Since PySCF-2.3, B3LYP (and B3P86) are changed to the VWN-RPA variant, '
+converged SCF energy = -78.4381432852715  <S^2> = 2.0035543  2S+1 = 3.0023686
+50
+1-th state with excitation energy = -0.0055, S^2 = 0.041 Norms: 0.82@(9, 1), 0.08@(8, 1)
+2-th state with excitation energy = 0.0029, S^2 = 0.019 Norms: 0.39@(9, 2), 0.39@(8, 1)
+3-th state with excitation energy = 0.1746, S^2 = 0.487 Norms: 0.56@(8, 2), 0.31@(9, 4)
+converged SCF energy = -78.4381371789715  <S^2> = 2.0035527  2S+1 = 3.0023675
+50
+1-th state with excitation energy = -0.0051, S^2 = 0.042 Norms: 0.85@(9, 1), 0.07@(8, 1)
+2-th state with excitation energy = 0.0026, S^2 = 0.018 Norms: 0.40@(9, 2), 0.40@(8, 1)
+3-th state with excitation energy = 0.1722, S^2 = 0.681 Norms: 0.59@(9, 4), 0.36@(8, 2)
+4-th state with excitation energy = 0.1746, S^2 = 0.526 Norms: 0.52@(8, 2), 0.35@(9, 4)
+converged SCF energy = -78.4381297764117  <S^2> = 2.0035512  2S+1 = 3.0023665
+50
+1-th state with excitation energy = -0.0047, S^2 = 0.043 Norms: 0.87@(9, 1), 0.06@(8, 1)
+2-th state with excitation energy = 0.0023, S^2 = 0.017 Norms: 0.41@(9, 2), 0.41@(8, 1)
+3-th state with excitation energy = 0.1722, S^2 = 0.644 Norms: 0.55@(9, 4), 0.40@(8, 2)
+4-th state with excitation energy = 0.1745, S^2 = 0.568 Norms: 0.48@(8, 2), 0.39@(9, 4)
+converged SCF energy = -78.4381210776501  <S^2> = 2.0035496  2S+1 = 3.0023655
+50
+1-th state with excitation energy = -0.0043, S^2 = 0.045 Norms: 0.90@(9, 1), 0.05@(8, 1)
+2-th state with excitation energy = 0.0020, S^2 = 0.016 Norms: 0.43@(9, 2), 0.42@(8, 1)
+3-th state with excitation energy = 0.1722, S^2 = 0.605 Norms: 0.50@(9, 4), 0.44@(8, 2)
+4-th state with excitation energy = 0.1745, S^2 = 0.611 Norms: 0.44@(9, 4), 0.43@(8, 2)
+converged SCF energy = -78.4381110828793  <S^2> = 2.0035482  2S+1 = 3.0023645
+50
+1-th state with excitation energy = -0.0039, S^2 = 0.046 Norms: 0.93@(9, 1), 0.03@(8, 1)
+2-th state with excitation energy = 0.0017, S^2 = 0.014 Norms: 0.44@(9, 2), 0.44@(8, 1)
+3-th state with excitation energy = 0.1721, S^2 = 0.568 Norms: 0.48@(8, 2), 0.46@(9, 4)
+4-th state with excitation energy = 0.1745, S^2 = 0.653 Norms: 0.48@(9, 4), 0.38@(8, 2)
+converged SCF energy = -78.4380997923873  <S^2> = 2.0035467  2S+1 = 3.0023635
+50
+1-th state with excitation energy = -0.0036, S^2 = 0.047 Norms: 0.96@(9, 1), 0.02@(8, 1)
+2-th state with excitation energy = 0.0015, S^2 = 0.013 Norms: 0.45@(9, 2), 0.45@(8, 1)
+3-th state with excitation energy = 0.1721, S^2 = 0.531 Norms: 0.52@(8, 2), 0.41@(9, 4)
+4-th state with excitation energy = 0.1745, S^2 = 0.694 Norms: 0.53@(9, 4), 0.34@(8, 2)
+converged SCF energy = -78.4380872065158  <S^2> = 2.0035452  2S+1 = 3.0023626
+50
+1-th state with excitation energy = -0.0034, S^2 = 0.048 Norms: 0.98@(9, 1), 0.01@(8, 1)
+2-th state with excitation energy = 0.0014, S^2 = 0.012 Norms: 0.47@(9, 2), 0.46@(8, 1)
+3-th state with excitation energy = 0.1721, S^2 = 0.497 Norms: 0.55@(8, 2), 0.37@(9, 4)
+converged SCF energy = -78.438073325616  <S^2> = 2.0035438  2S+1 = 3.0023616
+50
+1-th state with excitation energy = -0.0032, S^2 = 0.049 Norms: 0.99@(9, 1), 0.00@(6, 1)
+2-th state with excitation energy = 0.0013, S^2 = 0.012 Norms: 0.47@(9, 2), 0.47@(8, 1)
+3-th state with excitation energy = 0.1720, S^2 = 0.466 Norms: 0.59@(8, 2), 0.33@(9, 4)
+converged SCF energy = -78.4380581500249  <S^2> = 2.0035424  2S+1 = 3.0023607
+50
+1-th state with excitation energy = -0.0032, S^2 = 0.049 Norms: 0.98@(9, 1), 0.00@(9, 2)
+2-th state with excitation energy = 0.0013, S^2 = 0.012 Norms: 0.47@(9, 2), 0.46@(8, 1)
+3-th state with excitation energy = 0.1719, S^2 = 0.439 Norms: 0.62@(8, 2), 0.29@(9, 4)
+converged SCF energy = -78.4380416800191  <S^2> = 2.003541  2S+1 = 3.0023598
+50
+1-th state with excitation energy = -0.0032, S^2 = 0.047 Norms: 0.96@(9, 1), 0.02@(8, 1)
+2-th state with excitation energy = 0.0015, S^2 = 0.013 Norms: 0.46@(9, 2), 0.45@(8, 1)
+3-th state with excitation energy = 0.1719, S^2 = 0.415 Norms: 0.64@(8, 2), 0.26@(9, 4)
+converged SCF energy = -78.4380239157841  <S^2> = 2.0035397  2S+1 = 3.0023589
+50
+1-th state with excitation energy = -0.0034, S^2 = 0.046 Norms: 0.92@(9, 1), 0.03@(8, 1)
+2-th state with excitation energy = 0.0017, S^2 = 0.015 Norms: 0.44@(9, 2), 0.43@(8, 1)
+3-th state with excitation energy = 0.1718, S^2 = 0.395 Norms: 0.66@(8, 2), 0.23@(9, 4)
+converged SCF energy = -78.4380048574035  <S^2> = 2.0035384  2S+1 = 3.002358
+50
+1-th state with excitation energy = -0.0036, S^2 = 0.044 Norms: 0.88@(9, 1), 0.05@(8, 1)
+2-th state with excitation energy = 0.0020, S^2 = 0.017 Norms: 0.42@(9, 2), 0.41@(8, 1)
+3-th state with excitation energy = 0.1717, S^2 = 0.378 Norms: 0.68@(8, 2), 0.21@(9, 4)
+converged SCF energy = -78.4379845048295  <S^2> = 2.003537  2S+1 = 3.0023571
+50
+1-th state with excitation energy = -0.0038, S^2 = 0.042 Norms: 0.84@(9, 1), 0.07@(8, 1)
+2-th state with excitation energy = 0.0023, S^2 = 0.019 Norms: 0.40@(9, 2), 0.40@(8, 1)
+3-th state with excitation energy = 0.1716, S^2 = 0.365 Norms: 0.69@(8, 2), 0.18@(9, 4)
+converged SCF energy = -78.4379628578719  <S^2> = 2.0035358  2S+1 = 3.0023563
+50
+1-th state with excitation energy = -0.0041, S^2 = 0.040 Norms: 0.81@(9, 1), 0.09@(8, 1)
+2-th state with excitation energy = 0.0027, S^2 = 0.021 Norms: 0.39@(9, 2), 0.38@(8, 1)
+3-th state with excitation energy = 0.1715, S^2 = 0.354 Norms: 0.70@(8, 2), 0.16@(9, 4)
+converged SCF energy = -78.4379399161767  <S^2> = 2.0035345  2S+1 = 3.0023554
+50
+1-th state with excitation energy = -0.0044, S^2 = 0.039 Norms: 0.78@(9, 1), 0.10@(8, 1)
+2-th state with excitation energy = 0.0031, S^2 = 0.022 Norms: 0.37@(9, 2), 0.36@(8, 1)
+3-th state with excitation energy = 0.1714, S^2 = 0.346 Norms: 0.71@(8, 2), 0.14@(9, 4)
+converged SCF energy = -78.4379156792288  <S^2> = 2.0035333  2S+1 = 3.0023546
+50
+1-th state with excitation energy = -0.0048, S^2 = 0.037 Norms: 0.75@(9, 1), 0.11@(8, 1)
+2-th state with excitation energy = 0.0035, S^2 = 0.024 Norms: 0.36@(9, 2), 0.35@(8, 1)
+3-th state with excitation energy = 0.1713, S^2 = 0.341 Norms: 0.72@(8, 2), 0.13@(9, 4)
+converged SCF energy = -78.4378901463447  <S^2> = 2.0035321  2S+1 = 3.0023538
+50
+1-th state with excitation energy = -0.0052, S^2 = 0.036 Norms: 0.73@(9, 1), 0.12@(8, 1)
+2-th state with excitation energy = 0.0039, S^2 = 0.025 Norms: 0.35@(9, 2), 0.34@(8, 1)
+3-th state with excitation energy = 0.1712, S^2 = 0.338 Norms: 0.72@(8, 2), 0.12@(7, 1)
+converged SCF energy = -78.437863316676  <S^2> = 2.0035309  2S+1 = 3.002353
+50
+1-th state with excitation energy = -0.0055, S^2 = 0.035 Norms: 0.71@(9, 1), 0.13@(8, 1)
+2-th state with excitation energy = 0.0044, S^2 = 0.026 Norms: 0.34@(9, 2), 0.33@(8, 1)
+3-th state with excitation energy = 0.1710, S^2 = 0.336 Norms: 0.72@(8, 2), 0.13@(7, 1)
+converged SCF energy = -78.4378351892181  <S^2> = 2.0035297  2S+1 = 3.0023522
+50
+1-th state with excitation energy = -0.0059, S^2 = 0.034 Norms: 0.70@(9, 1), 0.14@(8, 1)
+2-th state with excitation energy = 0.0048, S^2 = 0.027 Norms: 0.34@(9, 2), 0.33@(8, 1)
+3-th state with excitation energy = 0.1709, S^2 = 0.336 Norms: 0.72@(8, 2), 0.14@(7, 1)
+converged SCF energy = -78.437805762803  <S^2> = 2.0035286  2S+1 = 3.0023515
+50
+1-th state with excitation energy = -0.0063, S^2 = 0.034 Norms: 0.69@(9, 1), 0.14@(8, 1)
+2-th state with excitation energy = 0.0053, S^2 = 0.028 Norms: 0.33@(9, 2), 0.32@(8, 1)
+3-th state with excitation energy = 0.1708, S^2 = 0.338 Norms: 0.72@(8, 2), 0.15@(7, 1)
+converged SCF energy = -78.437775036132  <S^2> = 2.0035275  2S+1 = 3.0023507
+50
+1-th state with excitation energy = -0.0067, S^2 = 0.033 Norms: 0.68@(9, 1), 0.15@(8, 1)
+2-th state with excitation energy = 0.0058, S^2 = 0.029 Norms: 0.33@(9, 2), 0.32@(8, 1)
+3-th state with excitation energy = 0.1707, S^2 = 0.341 Norms: 0.72@(8, 2), 0.16@(7, 1)
+converged SCF energy = -78.4385634990739  <S^2> = 2.0035453  2S+1 = 3.0023626
+50
+1-th state with excitation energy = -0.0053, S^2 = 0.040 Norms: 0.80@(9, 1), 0.09@(8, 1)
+2-th state with excitation energy = 0.0031, S^2 = 0.020 Norms: 0.38@(9, 2), 0.37@(8, 1)
+3-th state with excitation energy = 0.1722, S^2 = 0.632 Norms: 0.54@(9, 4), 0.41@(8, 2)
+4-th state with excitation energy = 0.1746, S^2 = 0.558 Norms: 0.49@(8, 2), 0.41@(9, 4)
+converged SCF energy = -78.4385581057901  <S^2> = 2.0035437  2S+1 = 3.0023616
+50
+1-th state with excitation energy = -0.0048, S^2 = 0.041 Norms: 0.82@(9, 1), 0.08@(8, 1)
+2-th state with excitation energy = 0.0028, S^2 = 0.019 Norms: 0.39@(9, 2), 0.38@(8, 1)
+3-th state with excitation energy = 0.1722, S^2 = 0.593 Norms: 0.50@(9, 4), 0.45@(8, 2)
+4-th state with excitation energy = 0.1746, S^2 = 0.599 Norms: 0.45@(9, 4), 0.44@(8, 2)
+converged SCF energy = -78.4385514172014  <S^2> = 2.0035422  2S+1 = 3.0023606
+50
+1-th state with excitation energy = -0.0044, S^2 = 0.042 Norms: 0.84@(9, 1), 0.07@(8, 1)
+2-th state with excitation energy = 0.0024, S^2 = 0.018 Norms: 0.40@(9, 2), 0.40@(8, 1)
+3-th state with excitation energy = 0.1722, S^2 = 0.556 Norms: 0.49@(8, 2), 0.45@(9, 4)
+4-th state with excitation energy = 0.1746, S^2 = 0.640 Norms: 0.49@(9, 4), 0.40@(8, 2)
+converged SCF energy = -78.4385434332542  <S^2> = 2.0035407  2S+1 = 3.0023596
+50
+1-th state with excitation energy = -0.0040, S^2 = 0.044 Norms: 0.87@(9, 1), 0.06@(8, 1)
+2-th state with excitation energy = 0.0021, S^2 = 0.017 Norms: 0.42@(9, 2), 0.41@(8, 1)
+3-th state with excitation energy = 0.1722, S^2 = 0.520 Norms: 0.53@(8, 2), 0.41@(9, 4)
+4-th state with excitation energy = 0.1746, S^2 = 0.680 Norms: 0.53@(9, 4), 0.36@(8, 2)
+converged SCF energy = -78.438534154021  <S^2> = 2.0035393  2S+1 = 3.0023586
+50
+1-th state with excitation energy = -0.0036, S^2 = 0.045 Norms: 0.90@(9, 1), 0.04@(8, 1)
+2-th state with excitation energy = 0.0018, S^2 = 0.015 Norms: 0.43@(9, 2), 0.42@(8, 1)
+3-th state with excitation energy = 0.1721, S^2 = 0.486 Norms: 0.57@(8, 2), 0.37@(9, 4)
+converged SCF energy = -78.4385235796707  <S^2> = 2.0035379  2S+1 = 3.0023577
+50
+1-th state with excitation energy = -0.0033, S^2 = 0.047 Norms: 0.94@(9, 1), 0.03@(8, 1)
+2-th state with excitation energy = 0.0016, S^2 = 0.014 Norms: 0.45@(9, 2), 0.44@(8, 1)
+3-th state with excitation energy = 0.1721, S^2 = 0.455 Norms: 0.60@(8, 2), 0.33@(9, 4)
+converged SCF energy = -78.4385117104174  <S^2> = 2.0035365  2S+1 = 3.0023567
+50
+1-th state with excitation energy = -0.0030, S^2 = 0.048 Norms: 0.97@(9, 1), 0.01@(8, 1)
+2-th state with excitation energy = 0.0014, S^2 = 0.013 Norms: 0.46@(9, 2), 0.46@(8, 1)
+3-th state with excitation energy = 0.1720, S^2 = 0.427 Norms: 0.63@(8, 2), 0.30@(9, 4)
+converged SCF energy = -78.438498546499  <S^2> = 2.0035351  2S+1 = 3.0023558
+50
+1-th state with excitation energy = -0.0028, S^2 = 0.049 Norms: 0.99@(9, 1), 0.00@(6, 1)
+2-th state with excitation energy = 0.0013, S^2 = 0.012 Norms: 0.47@(9, 2), 0.47@(8, 1)
+3-th state with excitation energy = 0.1719, S^2 = 0.402 Norms: 0.65@(8, 2), 0.26@(9, 4)
+converged SCF energy = -78.4384840881358  <S^2> = 2.0035337  2S+1 = 3.0023549
+50
+1-th state with excitation energy = -0.0027, S^2 = 0.049 Norms: 0.99@(9, 1), 0.00@(7, 1)
+2-th state with excitation energy = 0.0013, S^2 = 0.012 Norms: 0.47@(9, 2), 0.46@(8, 1)
+3-th state with excitation energy = 0.1718, S^2 = 0.381 Norms: 0.68@(8, 2), 0.24@(9, 4)
+converged SCF energy = -78.4384683355002  <S^2> = 2.0035324  2S+1 = 3.002354
+50
+1-th state with excitation energy = -0.0028, S^2 = 0.048 Norms: 0.96@(9, 1), 0.01@(8, 1)
+2-th state with excitation energy = 0.0014, S^2 = 0.013 Norms: 0.46@(9, 2), 0.45@(8, 1)
+3-th state with excitation energy = 0.1718, S^2 = 0.364 Norms: 0.70@(8, 2), 0.21@(9, 4)
+converged SCF energy = -78.4384512886806  <S^2> = 2.0035311  2S+1 = 3.0023531
+50
+1-th state with excitation energy = -0.0029, S^2 = 0.046 Norms: 0.92@(9, 1), 0.03@(8, 1)
+2-th state with excitation energy = 0.0016, S^2 = 0.015 Norms: 0.44@(9, 2), 0.43@(8, 1)
+3-th state with excitation energy = 0.1717, S^2 = 0.349 Norms: 0.71@(8, 2), 0.19@(9, 4)
+converged SCF energy = -78.4384329476766  <S^2> = 2.0035298  2S+1 = 3.0023523
+50
+1-th state with excitation energy = -0.0031, S^2 = 0.044 Norms: 0.87@(9, 1), 0.06@(8, 1)
+2-th state with excitation energy = 0.0019, S^2 = 0.017 Norms: 0.42@(9, 2), 0.41@(8, 1)
+3-th state with excitation energy = 0.1716, S^2 = 0.337 Norms: 0.72@(8, 2), 0.17@(9, 4)
+converged SCF energy = -78.4384133123697  <S^2> = 2.0035285  2S+1 = 3.0023514
+50
+1-th state with excitation energy = -0.0034, S^2 = 0.041 Norms: 0.83@(9, 1), 0.08@(8, 1)
+2-th state with excitation energy = 0.0022, S^2 = 0.020 Norms: 0.39@(9, 2), 0.39@(8, 1)
+3-th state with excitation energy = 0.1715, S^2 = 0.327 Norms: 0.73@(8, 2), 0.15@(9, 4)
+converged SCF energy = -78.4383923825064  <S^2> = 2.0035273  2S+1 = 3.0023506
+50
+1-th state with excitation energy = -0.0037, S^2 = 0.040 Norms: 0.79@(9, 1), 0.10@(8, 1)
+2-th state with excitation energy = 0.0026, S^2 = 0.021 Norms: 0.38@(9, 2), 0.37@(8, 1)
+3-th state with excitation energy = 0.1714, S^2 = 0.320 Norms: 0.74@(8, 2), 0.14@(9, 4)
+converged SCF energy = -78.4383701577007  <S^2> = 2.0035261  2S+1 = 3.0023498
+50
+1-th state with excitation energy = -0.0040, S^2 = 0.038 Norms: 0.76@(9, 1), 0.11@(8, 1)
+2-th state with excitation energy = 0.0030, S^2 = 0.023 Norms: 0.36@(9, 2), 0.36@(8, 1)
+3-th state with excitation energy = 0.1713, S^2 = 0.315 Norms: 0.75@(8, 2), 0.12@(9, 4)
+converged SCF energy = -78.4383466374118  <S^2> = 2.0035249  2S+1 = 3.002349
+50
+1-th state with excitation energy = -0.0044, S^2 = 0.037 Norms: 0.73@(9, 1), 0.12@(8, 1)
+2-th state with excitation energy = 0.0035, S^2 = 0.024 Norms: 0.35@(9, 2), 0.34@(8, 1)
+3-th state with excitation energy = 0.1712, S^2 = 0.311 Norms: 0.75@(8, 2), 0.11@(9, 4)
+converged SCF energy = -78.4383218209453  <S^2> = 2.0035237  2S+1 = 3.0023482
+50
+1-th state with excitation energy = -0.0048, S^2 = 0.036 Norms: 0.71@(9, 1), 0.13@(8, 1)
+2-th state with excitation energy = 0.0039, S^2 = 0.026 Norms: 0.34@(9, 2), 0.33@(8, 1)
+3-th state with excitation energy = 0.1711, S^2 = 0.309 Norms: 0.75@(8, 2), 0.11@(7, 1)
+converged SCF energy = -78.4382957074655  <S^2> = 2.0035226  2S+1 = 3.0023475
+50
+1-th state with excitation energy = -0.0051, S^2 = 0.035 Norms: 0.70@(9, 1), 0.14@(8, 1)
+2-th state with excitation energy = 0.0044, S^2 = 0.027 Norms: 0.34@(9, 2), 0.33@(8, 1)
+3-th state with excitation energy = 0.1709, S^2 = 0.308 Norms: 0.75@(8, 2), 0.11@(7, 1)
+converged SCF energy = -78.4382682959879  <S^2> = 2.0035215  2S+1 = 3.0023467
+50
+1-th state with excitation energy = -0.0055, S^2 = 0.034 Norms: 0.68@(9, 1), 0.15@(8, 1)
+2-th state with excitation energy = 0.0049, S^2 = 0.028 Norms: 0.33@(9, 2), 0.32@(8, 1)
+3-th state with excitation energy = 0.1708, S^2 = 0.309 Norms: 0.75@(8, 2), 0.12@(7, 1)
+converged SCF energy = -78.4382395853925  <S^2> = 2.0035204  2S+1 = 3.002346
+50
+1-th state with excitation energy = -0.0059, S^2 = 0.033 Norms: 0.67@(9, 1), 0.15@(8, 1)
+2-th state with excitation energy = 0.0053, S^2 = 0.028 Norms: 0.33@(9, 2), 0.32@(9, 1)
+3-th state with excitation energy = 0.1707, S^2 = 0.311 Norms: 0.75@(8, 2), 0.13@(7, 1)
+converged SCF energy = -78.4382095744345  <S^2> = 2.0035193  2S+1 = 3.0023453
+50
+1-th state with excitation energy = -0.0064, S^2 = 0.033 Norms: 0.66@(9, 1), 0.16@(8, 1)
+2-th state with excitation energy = 0.0058, S^2 = 0.029 Norms: 0.33@(9, 1), 0.32@(9, 2)
+3-th state with excitation energy = 0.1706, S^2 = 0.313 Norms: 0.75@(8, 2), 0.14@(7, 1)
+converged SCF energy = -78.4389785890523  <S^2> = 2.0035366  2S+1 = 3.0023568
+50
+1-th state with excitation energy = -0.0051, S^2 = 0.039 Norms: 0.77@(9, 1), 0.10@(8, 1)
+2-th state with excitation energy = 0.0033, S^2 = 0.022 Norms: 0.37@(9, 2), 0.36@(8, 1)
+3-th state with excitation energy = 0.1722, S^2 = 0.541 Norms: 0.51@(8, 2), 0.44@(9, 4)
+4-th state with excitation energy = 0.1747, S^2 = 0.638 Norms: 0.50@(9, 4), 0.40@(8, 2)
+converged SCF energy = -78.4389739051818  <S^2> = 2.0035351  2S+1 = 3.0023558
+50
+1-th state with excitation energy = -0.0046, S^2 = 0.040 Norms: 0.79@(9, 1), 0.10@(8, 1)
+2-th state with excitation energy = 0.0029, S^2 = 0.021 Norms: 0.38@(9, 2), 0.37@(8, 1)
+3-th state with excitation energy = 0.1722, S^2 = 0.505 Norms: 0.54@(8, 2), 0.40@(9, 4)
+4-th state with excitation energy = 0.1747, S^2 = 0.676 Norms: 0.55@(9, 4), 0.36@(8, 2)
+converged SCF energy = -78.4389679269592  <S^2> = 2.0035336  2S+1 = 3.0023548
+50
+1-th state with excitation energy = -0.0041, S^2 = 0.041 Norms: 0.81@(9, 1), 0.09@(8, 1)
+2-th state with excitation energy = 0.0026, S^2 = 0.019 Norms: 0.39@(9, 2), 0.38@(8, 1)
+3-th state with excitation energy = 0.1722, S^2 = 0.471 Norms: 0.58@(8, 2), 0.36@(9, 4)
+converged SCF energy = -78.4389606542166  <S^2> = 2.0035322  2S+1 = 3.0023539
+50
+1-th state with excitation energy = -0.0037, S^2 = 0.042 Norms: 0.84@(9, 1), 0.07@(8, 1)
+2-th state with excitation energy = 0.0022, S^2 = 0.018 Norms: 0.40@(9, 2), 0.39@(8, 1)
+3-th state with excitation energy = 0.1721, S^2 = 0.440 Norms: 0.61@(8, 2), 0.32@(9, 4)
+converged SCF energy = -78.4389520869102  <S^2> = 2.0035308  2S+1 = 3.0023529
+50
+1-th state with excitation energy = -0.0033, S^2 = 0.044 Norms: 0.87@(9, 1), 0.06@(8, 1)
+2-th state with excitation energy = 0.0019, S^2 = 0.017 Norms: 0.42@(9, 2), 0.41@(8, 1)
+3-th state with excitation energy = 0.1720, S^2 = 0.413 Norms: 0.64@(8, 2), 0.29@(9, 4)
+converged SCF energy = -78.4389422250874  <S^2> = 2.0035294  2S+1 = 3.002352
+50
+1-th state with excitation energy = -0.0029, S^2 = 0.046 Norms: 0.91@(9, 1), 0.04@(8, 1)
+2-th state with excitation energy = 0.0016, S^2 = 0.015 Norms: 0.43@(9, 2), 0.43@(8, 1)
+3-th state with excitation energy = 0.1720, S^2 = 0.389 Norms: 0.67@(8, 2), 0.26@(9, 4)
+converged SCF energy = -78.4389310688486  <S^2> = 2.003528  2S+1 = 3.0023511
+50
+1-th state with excitation energy = -0.0026, S^2 = 0.048 Norms: 0.95@(9, 1), 0.02@(8, 1)
+2-th state with excitation energy = 0.0014, S^2 = 0.013 Norms: 0.45@(9, 2), 0.45@(8, 1)
+3-th state with excitation energy = 0.1719, S^2 = 0.368 Norms: 0.69@(8, 2), 0.23@(9, 4)
+converged SCF energy = -78.4389186183113  <S^2> = 2.0035267  2S+1 = 3.0023502
+50
+1-th state with excitation energy = -0.0024, S^2 = 0.049 Norms: 0.98@(9, 1), 0.00@(8, 1)
+2-th state with excitation energy = 0.0012, S^2 = 0.012 Norms: 0.47@(9, 2), 0.46@(8, 1)
+3-th state with excitation energy = 0.1718, S^2 = 0.349 Norms: 0.71@(8, 2), 0.21@(9, 4)
+converged SCF energy = -78.4389048735836  <S^2> = 2.0035254  2S+1 = 3.0023493
+50
+1-th state with excitation energy = -0.0023, S^2 = 0.049 Norms: 0.99@(9, 1), 0.00@(6, 1)
+2-th state with excitation energy = 0.0012, S^2 = 0.012 Norms: 0.47@(9, 2), 0.47@(8, 1)
+3-th state with excitation energy = 0.1717, S^2 = 0.334 Norms: 0.73@(8, 2), 0.19@(9, 4)
+converged SCF energy = -78.4388898347316  <S^2> = 2.0035241  2S+1 = 3.0023485
+50
+1-th state with excitation energy = -0.0023, S^2 = 0.048 Norms: 0.96@(9, 1), 0.01@(9, 2)
+2-th state with excitation energy = 0.0013, S^2 = 0.013 Norms: 0.46@(9, 2), 0.45@(8, 1)
+3-th state with excitation energy = 0.1716, S^2 = 0.321 Norms: 0.74@(8, 2), 0.17@(9, 4)
+converged SCF energy = -78.4388735017513  <S^2> = 2.0035228  2S+1 = 3.0023476
+50
+1-th state with excitation energy = -0.0024, S^2 = 0.046 Norms: 0.91@(9, 1), 0.04@(8, 1)
+2-th state with excitation energy = 0.0015, S^2 = 0.015 Norms: 0.44@(9, 2), 0.43@(8, 1)
+3-th state with excitation energy = 0.1715, S^2 = 0.311 Norms: 0.75@(8, 2), 0.15@(9, 4)
+converged SCF energy = -78.4388558745574  <S^2> = 2.0035216  2S+1 = 3.0023468
+50
+1-th state with excitation energy = -0.0026, S^2 = 0.043 Norms: 0.86@(9, 1), 0.06@(8, 1)
+2-th state with excitation energy = 0.0018, S^2 = 0.018 Norms: 0.41@(9, 2), 0.41@(8, 1)
+3-th state with excitation energy = 0.1714, S^2 = 0.302 Norms: 0.76@(8, 2), 0.14@(9, 4)
+converged SCF energy = -78.4388369529564  <S^2> = 2.0035203  2S+1 = 3.002346
+50
+1-th state with excitation energy = -0.0029, S^2 = 0.041 Norms: 0.81@(9, 1), 0.08@(8, 1)
+2-th state with excitation energy = 0.0022, S^2 = 0.020 Norms: 0.39@(9, 2), 0.38@(8, 1)
+3-th state with excitation energy = 0.1714, S^2 = 0.296 Norms: 0.77@(8, 2), 0.13@(9, 4)
+converged SCF energy = -78.4388167366392  <S^2> = 2.0035191  2S+1 = 3.0023452
+50
+1-th state with excitation energy = -0.0032, S^2 = 0.039 Norms: 0.77@(9, 1), 0.10@(8, 1)
+2-th state with excitation energy = 0.0026, S^2 = 0.022 Norms: 0.37@(9, 2), 0.36@(8, 1)
+3-th state with excitation energy = 0.1712, S^2 = 0.291 Norms: 0.77@(8, 2), 0.12@(9, 4)
+converged SCF energy = -78.4387952251732  <S^2> = 2.003518  2S+1 = 3.0023444
+50
+1-th state with excitation energy = -0.0036, S^2 = 0.037 Norms: 0.74@(9, 1), 0.12@(8, 1)
+2-th state with excitation energy = 0.0030, S^2 = 0.024 Norms: 0.35@(9, 2), 0.35@(8, 1)
+3-th state with excitation energy = 0.1711, S^2 = 0.287 Norms: 0.78@(8, 2), 0.11@(9, 4)
+converged SCF energy = -78.4387724179931  <S^2> = 2.0035168  2S+1 = 3.0023436
+50
+1-th state with excitation energy = -0.0040, S^2 = 0.036 Norms: 0.71@(9, 1), 0.13@(8, 1)
+2-th state with excitation energy = 0.0035, S^2 = 0.025 Norms: 0.34@(9, 2), 0.33@(8, 1)
+3-th state with excitation energy = 0.1710, S^2 = 0.285 Norms: 0.78@(8, 2), 0.10@(9, 4)
+converged SCF energy = -78.4387483143957  <S^2> = 2.0035157  2S+1 = 3.0023429
+50
+1-th state with excitation energy = -0.0044, S^2 = 0.035 Norms: 0.69@(9, 1), 0.14@(8, 1)
+2-th state with excitation energy = 0.0039, S^2 = 0.026 Norms: 0.33@(9, 2), 0.32@(8, 1)
+3-th state with excitation energy = 0.1709, S^2 = 0.284 Norms: 0.78@(8, 2), 0.09@(7, 1)
+converged SCF energy = -78.4387229135465  <S^2> = 2.0035146  2S+1 = 3.0023421
+50
+1-th state with excitation energy = -0.0048, S^2 = 0.034 Norms: 0.68@(9, 1), 0.15@(8, 1)
+2-th state with excitation energy = 0.0044, S^2 = 0.027 Norms: 0.33@(9, 2), 0.32@(8, 1)
+3-th state with excitation energy = 0.1708, S^2 = 0.284 Norms: 0.78@(8, 2), 0.10@(7, 1)
+converged SCF energy = -78.4386962144851  <S^2> = 2.0035135  2S+1 = 3.0023414
+50
+1-th state with excitation energy = -0.0052, S^2 = 0.033 Norms: 0.67@(9, 1), 0.16@(8, 1)
+2-th state with excitation energy = 0.0049, S^2 = 0.028 Norms: 0.33@(9, 1), 0.32@(9, 2)
+3-th state with excitation energy = 0.1707, S^2 = 0.285 Norms: 0.78@(8, 2), 0.10@(7, 1)
+converged SCF energy = -78.4386682161296  <S^2> = 2.0035124  2S+1 = 3.0023407
+50
+1-th state with excitation energy = -0.0056, S^2 = 0.033 Norms: 0.66@(9, 1), 0.16@(8, 1)
+2-th state with excitation energy = 0.0053, S^2 = 0.029 Norms: 0.34@(9, 1), 0.32@(9, 2)
+3-th state with excitation energy = 0.1706, S^2 = 0.286 Norms: 0.78@(8, 2), 0.11@(7, 1)
+converged SCF energy = -78.4386389172869  <S^2> = 2.0035114  2S+1 = 3.00234
+50
+1-th state with excitation energy = -0.0060, S^2 = 0.032 Norms: 0.65@(9, 1), 0.16@(8, 1)
+2-th state with excitation energy = 0.0058, S^2 = 0.030 Norms: 0.34@(9, 1), 0.31@(9, 2)
+3-th state with excitation energy = 0.1705, S^2 = 0.289 Norms: 0.77@(8, 2), 0.12@(7, 1)
+converged SCF energy = -78.4393885398426  <S^2> = 2.0035282  2S+1 = 3.0023512
+50
+1-th state with excitation energy = -0.0049, S^2 = 0.038 Norms: 0.75@(9, 1), 0.12@(8, 1)
+2-th state with excitation energy = 0.0035, S^2 = 0.023 Norms: 0.36@(9, 2), 0.35@(8, 1)
+3-th state with excitation energy = 0.1722, S^2 = 0.455 Norms: 0.60@(8, 2), 0.35@(9, 4)
+converged SCF energy = -78.4393845619235  <S^2> = 2.0035268  2S+1 = 3.0023503
+50
+1-th state with excitation energy = -0.0044, S^2 = 0.039 Norms: 0.76@(9, 1), 0.11@(8, 1)
+2-th state with excitation energy = 0.0031, S^2 = 0.022 Norms: 0.37@(9, 2), 0.36@(8, 1)
+3-th state with excitation energy = 0.1721, S^2 = 0.425 Norms: 0.63@(8, 2), 0.31@(9, 4)
+converged SCF energy = -78.4393792905927  <S^2> = 2.0035253  2S+1 = 3.0023493
+50
+1-th state with excitation energy = -0.0039, S^2 = 0.040 Norms: 0.78@(9, 1), 0.10@(8, 1)
+2-th state with excitation energy = 0.0027, S^2 = 0.021 Norms: 0.37@(9, 2), 0.37@(8, 1)
+3-th state with excitation energy = 0.1721, S^2 = 0.398 Norms: 0.66@(8, 2), 0.28@(9, 4)
+converged SCF energy = -78.4393727255716  <S^2> = 2.0035239  2S+1 = 3.0023484
+50
+1-th state with excitation energy = -0.0035, S^2 = 0.041 Norms: 0.81@(9, 1), 0.09@(8, 1)
+2-th state with excitation energy = 0.0024, S^2 = 0.020 Norms: 0.39@(9, 2), 0.38@(8, 1)
+3-th state with excitation energy = 0.1720, S^2 = 0.374 Norms: 0.69@(8, 2), 0.25@(9, 4)
+converged SCF energy = -78.4393648667052  <S^2> = 2.0035226  2S+1 = 3.0023475
+50
+1-th state with excitation energy = -0.0030, S^2 = 0.043 Norms: 0.84@(9, 1), 0.07@(8, 1)
+2-th state with excitation energy = 0.0020, S^2 = 0.018 Norms: 0.40@(9, 2), 0.39@(8, 1)
+3-th state with excitation energy = 0.1719, S^2 = 0.353 Norms: 0.71@(8, 2), 0.23@(9, 4)
+converged SCF energy = -78.4393557139271  <S^2> = 2.0035212  2S+1 = 3.0023466
+50
+1-th state with excitation energy = -0.0026, S^2 = 0.044 Norms: 0.88@(9, 1), 0.05@(8, 1)
+2-th state with excitation energy = 0.0017, S^2 = 0.016 Norms: 0.42@(9, 2), 0.41@(8, 1)
+3-th state with excitation energy = 0.1718, S^2 = 0.335 Norms: 0.73@(8, 2), 0.21@(9, 4)
+converged SCF energy = -78.4393452672168  <S^2> = 2.0035199  2S+1 = 3.0023457
+50
+1-th state with excitation energy = -0.0023, S^2 = 0.047 Norms: 0.93@(9, 1), 0.03@(8, 1)
+2-th state with excitation energy = 0.0014, S^2 = 0.014 Norms: 0.44@(9, 2), 0.44@(8, 1)
+3-th state with excitation energy = 0.1718, S^2 = 0.320 Norms: 0.74@(8, 2), 0.19@(9, 4)
+converged SCF energy = -78.4393335265816  <S^2> = 2.0035186  2S+1 = 3.0023448
+50
+1-th state with excitation energy = -0.0020, S^2 = 0.048 Norms: 0.97@(9, 1), 0.01@(8, 1)
+2-th state with excitation energy = 0.0012, S^2 = 0.012 Norms: 0.46@(9, 2), 0.46@(8, 1)
+3-th state with excitation energy = 0.1717, S^2 = 0.307 Norms: 0.76@(8, 2), 0.17@(9, 4)
+converged SCF energy = -78.4393204920176  <S^2> = 2.0035173  2S+1 = 3.002344
+50
+1-th state with excitation energy = -0.0018, S^2 = 0.049 Norms: 0.99@(9, 1), 0.00@(6, 1)
+2-th state with excitation energy = 0.0012, S^2 = 0.012 Norms: 0.47@(9, 2), 0.47@(8, 1)
+3-th state with excitation energy = 0.1716, S^2 = 0.296 Norms: 0.77@(8, 2), 0.15@(9, 4)
+converged SCF energy = -78.439306163485  <S^2> = 2.0035161  2S+1 = 3.0023431
+50
+1-th state with excitation energy = -0.0018, S^2 = 0.048 Norms: 0.97@(9, 1), 0.01@(9, 2)
+2-th state with excitation energy = 0.0012, S^2 = 0.013 Norms: 0.46@(9, 2), 0.46@(8, 1)
+3-th state with excitation energy = 0.1715, S^2 = 0.287 Norms: 0.78@(8, 2), 0.14@(9, 4)
+converged SCF energy = -78.4392905408881  <S^2> = 2.0035148  2S+1 = 3.0023423
+50
+1-th state with excitation energy = -0.0019, S^2 = 0.046 Norms: 0.91@(9, 1), 0.04@(8, 1)
+2-th state with excitation energy = 0.0015, S^2 = 0.015 Norms: 0.43@(9, 2), 0.43@(8, 1)
+3-th state with excitation energy = 0.1714, S^2 = 0.280 Norms: 0.79@(8, 2), 0.13@(9, 4)
+converged SCF energy = -78.4392736240549  <S^2> = 2.0035136  2S+1 = 3.0023415
+50
+1-th state with excitation energy = -0.0022, S^2 = 0.043 Norms: 0.85@(9, 1), 0.07@(8, 1)
+2-th state with excitation energy = 0.0018, S^2 = 0.018 Norms: 0.40@(9, 2), 0.40@(8, 1)
+3-th state with excitation energy = 0.1713, S^2 = 0.274 Norms: 0.79@(8, 2), 0.12@(9, 4)
+converged SCF energy = -78.4392554127207  <S^2> = 2.0035124  2S+1 = 3.0023407
+50
+1-th state with excitation energy = -0.0025, S^2 = 0.040 Norms: 0.79@(9, 1), 0.09@(8, 1)
+2-th state with excitation energy = 0.0021, S^2 = 0.021 Norms: 0.38@(9, 2), 0.37@(8, 1)
+3-th state with excitation energy = 0.1712, S^2 = 0.269 Norms: 0.80@(8, 2), 0.11@(9, 4)
+converged SCF energy = -78.4392359065177  <S^2> = 2.0035113  2S+1 = 3.0023399
+50
+1-th state with excitation energy = -0.0028, S^2 = 0.038 Norms: 0.75@(9, 1), 0.11@(8, 1)
+2-th state with excitation energy = 0.0026, S^2 = 0.023 Norms: 0.36@(9, 2), 0.35@(8, 1)
+3-th state with excitation energy = 0.1711, S^2 = 0.266 Norms: 0.80@(8, 2), 0.10@(9, 4)
+converged SCF energy = -78.4392151049654  <S^2> = 2.0035101  2S+1 = 3.0023392
+50
+1-th state with excitation energy = -0.0032, S^2 = 0.037 Norms: 0.72@(9, 1), 0.13@(8, 1)
+2-th state with excitation energy = 0.0030, S^2 = 0.025 Norms: 0.34@(9, 2), 0.34@(8, 1)
+3-th state with excitation energy = 0.1710, S^2 = 0.264 Norms: 0.80@(8, 2), 0.09@(9, 4)
+converged SCF energy = -78.4391930074731  <S^2> = 2.003509  2S+1 = 3.0023384
+50
+1-th state with excitation energy = -0.0036, S^2 = 0.035 Norms: 0.69@(9, 1), 0.14@(8, 1)
+2-th state with excitation energy = 0.0035, S^2 = 0.026 Norms: 0.33@(9, 2), 0.32@(8, 1)
+3-th state with excitation energy = 0.1709, S^2 = 0.262 Norms: 0.80@(8, 2), 0.08@(9, 4)
+converged SCF energy = -78.4391696133231  <S^2> = 2.0035079  2S+1 = 3.0023377
+50
+1-th state with excitation energy = -0.0040, S^2 = 0.034 Norms: 0.67@(9, 1), 0.15@(8, 1)
+2-th state with excitation energy = 0.0039, S^2 = 0.027 Norms: 0.32@(9, 2), 0.32@(9, 1)
+3-th state with excitation energy = 0.1708, S^2 = 0.262 Norms: 0.80@(8, 2), 0.08@(7, 1)
+converged SCF energy = -78.4391449216816  <S^2> = 2.0035069  2S+1 = 3.002337
+50
+1-th state with excitation energy = -0.0044, S^2 = 0.033 Norms: 0.66@(9, 1), 0.16@(8, 1)
+2-th state with excitation energy = 0.0044, S^2 = 0.028 Norms: 0.33@(9, 1), 0.32@(9, 2)
+3-th state with excitation energy = 0.1707, S^2 = 0.262 Norms: 0.80@(8, 2), 0.08@(7, 1)
+converged SCF energy = -78.4391189316089  <S^2> = 2.0035058  2S+1 = 3.0023363
+50
+1-th state with excitation energy = -0.0048, S^2 = 0.033 Norms: 0.65@(9, 1), 0.16@(8, 1)
+2-th state with excitation energy = 0.0049, S^2 = 0.029 Norms: 0.34@(9, 1), 0.31@(9, 2)
+3-th state with excitation energy = 0.1706, S^2 = 0.263 Norms: 0.80@(8, 2), 0.09@(7, 1)
+converged SCF energy = -78.4390916420518  <S^2> = 2.0035048  2S+1 = 3.0023356
+50
+1-th state with excitation energy = -0.0052, S^2 = 0.032 Norms: 0.64@(9, 1), 0.17@(8, 1)
+2-th state with excitation energy = 0.0054, S^2 = 0.030 Norms: 0.35@(9, 1), 0.31@(9, 2)
+3-th state with excitation energy = 0.1705, S^2 = 0.265 Norms: 0.80@(8, 2), 0.10@(7, 1)
+converged SCF energy = -78.439063051868  <S^2> = 2.0035038  2S+1 = 3.002335
+50
+1-th state with excitation energy = -0.0056, S^2 = 0.031 Norms: 0.63@(9, 1), 0.17@(8, 1)
+2-th state with excitation energy = 0.0059, S^2 = 0.030 Norms: 0.36@(9, 1), 0.31@(9, 2)
+3-th state with excitation energy = 0.1703, S^2 = 0.268 Norms: 0.80@(8, 2), 0.10@(7, 1)
+converged SCF energy = -78.4397933372498  <S^2> = 2.0035202  2S+1 = 3.0023459
+50
+1-th state with excitation energy = -0.0047, S^2 = 0.037 Norms: 0.72@(9, 1), 0.13@(8, 1)
+2-th state with excitation energy = 0.0037, S^2 = 0.024 Norms: 0.35@(9, 2), 0.34@(8, 1)
+3-th state with excitation energy = 0.1721, S^2 = 0.381 Norms: 0.68@(8, 2), 0.27@(9, 4)
+converged SCF energy = -78.4397900619521  <S^2> = 2.0035188  2S+1 = 3.0023449
+50
+1-th state with excitation energy = -0.0042, S^2 = 0.037 Norms: 0.73@(9, 1), 0.12@(8, 1)
+2-th state with excitation energy = 0.0033, S^2 = 0.023 Norms: 0.35@(9, 2), 0.34@(8, 1)
+3-th state with excitation energy = 0.1720, S^2 = 0.358 Norms: 0.70@(8, 2), 0.24@(9, 4)
+converged SCF energy = -78.4397854941651  <S^2> = 2.0035174  2S+1 = 3.002344
+50
+1-th state with excitation energy = -0.0037, S^2 = 0.038 Norms: 0.75@(9, 1), 0.12@(8, 1)
+2-th state with excitation energy = 0.0029, S^2 = 0.022 Norms: 0.36@(9, 2), 0.35@(8, 1)
+3-th state with excitation energy = 0.1719, S^2 = 0.338 Norms: 0.72@(8, 2), 0.22@(9, 4)
+converged SCF energy = -78.4397796335116  <S^2> = 2.003516  2S+1 = 3.0023431
+50
+1-th state with excitation energy = -0.0032, S^2 = 0.040 Norms: 0.77@(9, 1), 0.11@(8, 1)
+2-th state with excitation energy = 0.0026, S^2 = 0.021 Norms: 0.37@(9, 2), 0.36@(8, 1)
+3-th state with excitation energy = 0.1719, S^2 = 0.321 Norms: 0.74@(8, 2), 0.20@(9, 4)
+converged SCF energy = -78.4397724797253  <S^2> = 2.0035147  2S+1 = 3.0023422
+50
+1-th state with excitation energy = -0.0028, S^2 = 0.041 Norms: 0.80@(9, 1), 0.09@(8, 1)
+2-th state with excitation energy = 0.0022, S^2 = 0.020 Norms: 0.38@(9, 2), 0.38@(8, 1)
+3-th state with excitation energy = 0.1718, S^2 = 0.306 Norms: 0.76@(8, 2), 0.18@(9, 4)
+converged SCF energy = -78.4397640326265  <S^2> = 2.0035134  2S+1 = 3.0023413
+50
+1-th state with excitation energy = -0.0023, S^2 = 0.043 Norms: 0.84@(9, 1), 0.07@(8, 1)
+2-th state with excitation energy = 0.0018, S^2 = 0.018 Norms: 0.40@(9, 2), 0.39@(8, 1)
+3-th state with excitation energy = 0.1717, S^2 = 0.293 Norms: 0.77@(8, 2), 0.16@(9, 4)
+converged SCF energy = -78.439754292083  <S^2> = 2.0035121  2S+1 = 3.0023405
+50
+1-th state with excitation energy = -0.0019, S^2 = 0.045 Norms: 0.89@(9, 1), 0.05@(8, 1)
+2-th state with excitation energy = 0.0015, S^2 = 0.016 Norms: 0.42@(9, 2), 0.42@(8, 1)
+3-th state with excitation energy = 0.1716, S^2 = 0.282 Norms: 0.78@(8, 2), 0.15@(9, 4)
+converged SCF energy = -78.4397432579874  <S^2> = 2.0035108  2S+1 = 3.0023396
+50
+1-th state with excitation energy = -0.0016, S^2 = 0.048 Norms: 0.95@(9, 1), 0.02@(8, 1)
+2-th state with excitation energy = 0.0013, S^2 = 0.013 Norms: 0.45@(9, 2), 0.45@(8, 1)
+3-th state with excitation energy = 0.1715, S^2 = 0.273 Norms: 0.79@(8, 2), 0.14@(9, 4)
+converged SCF energy = -78.4397309302304  <S^2> = 2.0035096  2S+1 = 3.0023388
+50
+1-th state with excitation energy = -0.0014, S^2 = 0.049 Norms: 0.99@(9, 1), 0.00@(6, 1)
+2-th state with excitation energy = 0.0011, S^2 = 0.012 Norms: 0.47@(9, 2), 0.47@(8, 1)
+3-th state with excitation energy = 0.1714, S^2 = 0.265 Norms: 0.80@(8, 2), 0.13@(9, 4)
+converged SCF energy = -78.4397173086688  <S^2> = 2.0035083  2S+1 = 3.002338
+50
+1-th state with excitation energy = -0.0014, S^2 = 0.048 Norms: 0.97@(9, 1), 0.01@(9, 2)
+2-th state with excitation energy = 0.0012, S^2 = 0.013 Norms: 0.46@(9, 2), 0.46@(8, 1)
+3-th state with excitation energy = 0.1713, S^2 = 0.259 Norms: 0.81@(8, 2), 0.12@(9, 4)
+converged SCF energy = -78.4397023931137  <S^2> = 2.0035071  2S+1 = 3.0023372
+50
+1-th state with excitation energy = -0.0015, S^2 = 0.046 Norms: 0.91@(9, 1), 0.04@(9, 2)
+2-th state with excitation energy = 0.0014, S^2 = 0.015 Norms: 0.43@(9, 2), 0.43@(8, 1)
+3-th state with excitation energy = 0.1712, S^2 = 0.254 Norms: 0.81@(8, 2), 0.11@(9, 4)
+converged SCF energy = -78.4396861833095  <S^2> = 2.003506  2S+1 = 3.0023364
+50
+1-th state with excitation energy = -0.0017, S^2 = 0.042 Norms: 0.83@(9, 1), 0.08@(8, 1)
+2-th state with excitation energy = 0.0017, S^2 = 0.019 Norms: 0.40@(9, 2), 0.39@(8, 1)
+3-th state with excitation energy = 0.1711, S^2 = 0.250 Norms: 0.82@(8, 2), 0.10@(9, 4)
+converged SCF energy = -78.43966867892  <S^2> = 2.0035048  2S+1 = 3.0023356
+50
+1-th state with excitation energy = -0.0020, S^2 = 0.040 Norms: 0.77@(9, 1), 0.10@(8, 1)
+2-th state with excitation energy = 0.0021, S^2 = 0.022 Norms: 0.37@(9, 2), 0.36@(8, 1)
+3-th state with excitation energy = 0.1710, S^2 = 0.247 Norms: 0.82@(8, 2), 0.09@(9, 4)
+converged SCF energy = -78.4396498795161  <S^2> = 2.0035037  2S+1 = 3.0023349
+50
+1-th state with excitation energy = -0.0024, S^2 = 0.037 Norms: 0.72@(9, 1), 0.13@(8, 1)
+2-th state with excitation energy = 0.0025, S^2 = 0.024 Norms: 0.35@(9, 2), 0.34@(8, 1)
+3-th state with excitation energy = 0.1709, S^2 = 0.245 Norms: 0.82@(8, 2), 0.08@(9, 4)
+converged SCF energy = -78.4396297845759  <S^2> = 2.0035026  2S+1 = 3.0023342
+50
+1-th state with excitation energy = -0.0028, S^2 = 0.036 Norms: 0.69@(9, 1), 0.14@(8, 1)
+2-th state with excitation energy = 0.0030, S^2 = 0.025 Norms: 0.33@(9, 2), 0.32@(8, 1)
+3-th state with excitation energy = 0.1708, S^2 = 0.244 Norms: 0.82@(8, 2), 0.08@(9, 4)
+converged SCF energy = -78.4396083934677  <S^2> = 2.0035015  2S+1 = 3.0023334
+50
+1-th state with excitation energy = -0.0032, S^2 = 0.035 Norms: 0.67@(9, 1), 0.15@(8, 1)
+2-th state with excitation energy = 0.0035, S^2 = 0.027 Norms: 0.32@(9, 1), 0.32@(9, 2)
+3-th state with excitation energy = 0.1707, S^2 = 0.243 Norms: 0.82@(8, 2), 0.07@(9, 4)
+converged SCF energy = -78.4395857054686  <S^2> = 2.0035005  2S+1 = 3.0023327
+50
+1-th state with excitation energy = -0.0036, S^2 = 0.034 Norms: 0.65@(9, 1), 0.16@(8, 1)
+2-th state with excitation energy = 0.0039, S^2 = 0.028 Norms: 0.34@(9, 1), 0.31@(9, 2)
+3-th state with excitation energy = 0.1706, S^2 = 0.243 Norms: 0.82@(8, 2), 0.07@(9, 4)
+converged SCF energy = -78.4395617197405  <S^2> = 2.0034994  2S+1 = 3.0023321
+50
+1-th state with excitation energy = -0.0040, S^2 = 0.033 Norms: 0.63@(9, 1), 0.17@(8, 1)
+2-th state with excitation energy = 0.0044, S^2 = 0.029 Norms: 0.36@(9, 1), 0.31@(9, 2)
+3-th state with excitation energy = 0.1705, S^2 = 0.244 Norms: 0.82@(8, 2), 0.07@(7, 1)
+converged SCF energy = -78.4395364353544  <S^2> = 2.0034984  2S+1 = 3.0023314
+50
+1-th state with excitation energy = -0.0044, S^2 = 0.032 Norms: 0.62@(9, 1), 0.17@(8, 1)
+2-th state with excitation energy = 0.0049, S^2 = 0.030 Norms: 0.37@(9, 1), 0.30@(9, 2)
+3-th state with excitation energy = 0.1704, S^2 = 0.245 Norms: 0.82@(8, 2), 0.08@(7, 1)
+converged SCF energy = -78.4395098512903  <S^2> = 2.0034974  2S+1 = 3.0023307
+50
+1-th state with excitation energy = -0.0049, S^2 = 0.031 Norms: 0.62@(9, 1), 0.18@(8, 1)
+2-th state with excitation energy = 0.0054, S^2 = 0.030 Norms: 0.37@(9, 1), 0.30@(9, 2)
+3-th state with excitation energy = 0.1703, S^2 = 0.247 Norms: 0.82@(8, 2), 0.08@(7, 1)
+converged SCF energy = -78.4394819664442  <S^2> = 2.0034965  2S+1 = 3.0023301
+50
+1-th state with excitation energy = -0.0053, S^2 = 0.031 Norms: 0.61@(9, 1), 0.18@(8, 1)
+2-th state with excitation energy = 0.0059, S^2 = 0.031 Norms: 0.38@(9, 1), 0.30@(9, 2)
+3-th state with excitation energy = 0.1702, S^2 = 0.250 Norms: 0.82@(8, 2), 0.09@(7, 1)
+converged SCF energy = -78.440192968218  <S^2> = 2.0035124  2S+1 = 3.0023407
+50
+1-th state with excitation energy = -0.0045, S^2 = 0.035 Norms: 0.69@(9, 1), 0.14@(8, 1)
+2-th state with excitation energy = 0.0040, S^2 = 0.025 Norms: 0.33@(9, 2), 0.32@(8, 1)
+3-th state with excitation energy = 0.1719, S^2 = 0.323 Norms: 0.74@(8, 2), 0.21@(9, 4)
+converged SCF energy = -78.4401903923362  <S^2> = 2.0035111  2S+1 = 3.0023398
+50
+1-th state with excitation energy = -0.0040, S^2 = 0.036 Norms: 0.70@(9, 1), 0.14@(8, 1)
+2-th state with excitation energy = 0.0036, S^2 = 0.025 Norms: 0.34@(9, 2), 0.33@(8, 1)
+3-th state with excitation energy = 0.1719, S^2 = 0.307 Norms: 0.76@(8, 2), 0.19@(9, 4)
+converged SCF energy = -78.440186524878  <S^2> = 2.0035097  2S+1 = 3.0023389
+50
+1-th state with excitation energy = -0.0035, S^2 = 0.037 Norms: 0.71@(9, 1), 0.13@(8, 1)
+2-th state with excitation energy = 0.0032, S^2 = 0.024 Norms: 0.34@(9, 2), 0.33@(8, 1)
+3-th state with excitation energy = 0.1718, S^2 = 0.292 Norms: 0.77@(8, 2), 0.17@(9, 4)
+converged SCF energy = -78.4401813653621  <S^2> = 2.0035084  2S+1 = 3.002338
+50
+1-th state with excitation energy = -0.0030, S^2 = 0.038 Norms: 0.73@(9, 1), 0.12@(8, 1)
+2-th state with excitation energy = 0.0028, S^2 = 0.023 Norms: 0.35@(9, 2), 0.34@(8, 1)
+3-th state with excitation energy = 0.1717, S^2 = 0.280 Norms: 0.79@(8, 2), 0.16@(9, 4)
+converged SCF energy = -78.440174913416  <S^2> = 2.0035071  2S+1 = 3.0023371
+50
+1-th state with excitation energy = -0.0026, S^2 = 0.039 Norms: 0.76@(9, 1), 0.11@(8, 1)
+2-th state with excitation energy = 0.0024, S^2 = 0.022 Norms: 0.36@(9, 2), 0.35@(8, 1)
+3-th state with excitation energy = 0.1716, S^2 = 0.269 Norms: 0.80@(8, 2), 0.14@(9, 4)
+converged SCF energy = -78.4401671687525  <S^2> = 2.0035058  2S+1 = 3.0023363
+50
+1-th state with excitation energy = -0.0021, S^2 = 0.041 Norms: 0.79@(9, 1), 0.10@(8, 1)
+2-th state with excitation energy = 0.0020, S^2 = 0.020 Norms: 0.38@(9, 2), 0.37@(8, 1)
+3-th state with excitation energy = 0.1715, S^2 = 0.260 Norms: 0.81@(8, 2), 0.13@(9, 4)
+converged SCF energy = -78.4401581311262  <S^2> = 2.0035045  2S+1 = 3.0023354
+50
+1-th state with excitation energy = -0.0017, S^2 = 0.043 Norms: 0.84@(9, 1), 0.07@(8, 1)
+2-th state with excitation energy = 0.0016, S^2 = 0.018 Norms: 0.40@(9, 2), 0.39@(8, 1)
+3-th state with excitation energy = 0.1714, S^2 = 0.253 Norms: 0.82@(8, 2), 0.12@(9, 4)
+converged SCF energy = -78.4401478003246  <S^2> = 2.0035033  2S+1 = 3.0023346
+50
+1-th state with excitation energy = -0.0013, S^2 = 0.046 Norms: 0.91@(9, 1), 0.04@(8, 1)
+2-th state with excitation energy = 0.0013, S^2 = 0.015 Norms: 0.43@(9, 2), 0.43@(8, 1)
+3-th state with excitation energy = 0.1713, S^2 = 0.246 Norms: 0.82@(8, 2), 0.11@(9, 4)
+converged SCF energy = -78.4401361761323  <S^2> = 2.0035021  2S+1 = 3.0023338
+50
+1-th state with excitation energy = -0.0010, S^2 = 0.049 Norms: 0.98@(9, 1), 0.01@(8, 1)
+2-th state with excitation energy = 0.0011, S^2 = 0.012 Norms: 0.46@(9, 2), 0.46@(8, 1)
+3-th state with excitation energy = 0.1712, S^2 = 0.241 Norms: 0.83@(8, 2), 0.10@(9, 4)
+converged SCF energy = -78.4401232583084  <S^2> = 2.0035009  2S+1 = 3.002333
+50
+1-th state with excitation energy = -0.0009, S^2 = 0.049 Norms: 0.98@(9, 1), 0.00@(9, 2)
+2-th state with excitation energy = 0.0011, S^2 = 0.012 Norms: 0.47@(9, 2), 0.46@(8, 1)
+3-th state with excitation energy = 0.1711, S^2 = 0.237 Norms: 0.83@(8, 2), 0.10@(9, 4)
+converged SCF energy = -78.440109046567  <S^2> = 2.0034998  2S+1 = 3.0023323
+50
+1-th state with excitation energy = -0.0010, S^2 = 0.045 Norms: 0.90@(9, 1), 0.04@(9, 2)
+2-th state with excitation energy = 0.0013, S^2 = 0.016 Norms: 0.43@(9, 2), 0.42@(8, 1)
+3-th state with excitation energy = 0.1710, S^2 = 0.233 Norms: 0.84@(8, 2), 0.09@(9, 4)
+converged SCF energy = -78.4400935405731  <S^2> = 2.0034986  2S+1 = 3.0023315
+50
+1-th state with excitation energy = -0.0013, S^2 = 0.041 Norms: 0.81@(9, 1), 0.09@(8, 1)
+2-th state with excitation energy = 0.0016, S^2 = 0.020 Norms: 0.39@(9, 2), 0.38@(8, 1)
+3-th state with excitation energy = 0.1709, S^2 = 0.231 Norms: 0.84@(8, 2), 0.08@(9, 4)
+converged SCF energy = -78.4400767399188  <S^2> = 2.0034975  2S+1 = 3.0023308
+50
+1-th state with excitation energy = -0.0016, S^2 = 0.038 Norms: 0.74@(9, 1), 0.12@(8, 1)
+2-th state with excitation energy = 0.0021, S^2 = 0.023 Norms: 0.35@(9, 2), 0.35@(8, 1)
+3-th state with excitation energy = 0.1708, S^2 = 0.229 Norms: 0.84@(8, 2), 0.08@(9, 4)
+converged SCF energy = -78.4400586441177  <S^2> = 2.0034964  2S+1 = 3.00233
+50
+1-th state with excitation energy = -0.0020, S^2 = 0.036 Norms: 0.69@(9, 1), 0.14@(8, 1)
+2-th state with excitation energy = 0.0025, S^2 = 0.025 Norms: 0.33@(9, 2), 0.33@(8, 1)
+3-th state with excitation energy = 0.1707, S^2 = 0.227 Norms: 0.84@(8, 2), 0.07@(9, 4)
+converged SCF energy = -78.4400392525953  <S^2> = 2.0034953  2S+1 = 3.0023293
+50
+1-th state with excitation energy = -0.0024, S^2 = 0.035 Norms: 0.66@(9, 1), 0.16@(8, 1)
+2-th state with excitation energy = 0.0030, S^2 = 0.027 Norms: 0.33@(9, 1), 0.32@(9, 2)
+3-th state with excitation energy = 0.1706, S^2 = 0.227 Norms: 0.84@(8, 2), 0.07@(9, 4)
+converged SCF energy = -78.4400185646961  <S^2> = 2.0034943  2S+1 = 3.0023286
+50
+1-th state with excitation energy = -0.0028, S^2 = 0.034 Norms: 0.64@(9, 1), 0.17@(8, 1)
+2-th state with excitation energy = 0.0035, S^2 = 0.028 Norms: 0.35@(9, 1), 0.31@(9, 2)
+3-th state with excitation energy = 0.1705, S^2 = 0.227 Norms: 0.84@(8, 2), 0.06@(9, 4)
+converged SCF energy = -78.4399965796668  <S^2> = 2.0034933  2S+1 = 3.0023279
+50
+1-th state with excitation energy = -0.0032, S^2 = 0.033 Norms: 0.62@(9, 1), 0.18@(8, 1)
+2-th state with excitation energy = 0.0039, S^2 = 0.029 Norms: 0.37@(9, 1), 0.30@(9, 2)
+3-th state with excitation energy = 0.1704, S^2 = 0.227 Norms: 0.84@(8, 2), 0.06@(9, 4)
+converged SCF energy = -78.4399732966767  <S^2> = 2.0034923  2S+1 = 3.0023273
+50
+1-th state with excitation energy = -0.0036, S^2 = 0.032 Norms: 0.61@(9, 1), 0.18@(8, 1)
+2-th state with excitation energy = 0.0044, S^2 = 0.030 Norms: 0.38@(9, 1), 0.29@(9, 2)
+3-th state with excitation energy = 0.1703, S^2 = 0.228 Norms: 0.84@(8, 2), 0.06@(7, 1)
+converged SCF energy = -78.439948714804  <S^2> = 2.0034913  2S+1 = 3.0023266
+50
+1-th state with excitation energy = -0.0041, S^2 = 0.031 Norms: 0.60@(9, 1), 0.18@(8, 1)
+2-th state with excitation energy = 0.0049, S^2 = 0.030 Norms: 0.39@(9, 1), 0.29@(9, 2)
+3-th state with excitation energy = 0.1702, S^2 = 0.230 Norms: 0.84@(8, 2), 0.07@(7, 1)
+converged SCF energy = -78.439922833054  <S^2> = 2.0034904  2S+1 = 3.002326
+50
+1-th state with excitation energy = -0.0045, S^2 = 0.031 Norms: 0.60@(9, 1), 0.19@(8, 1)
+2-th state with excitation energy = 0.0054, S^2 = 0.031 Norms: 0.39@(9, 1), 0.29@(9, 2)
+3-th state with excitation energy = 0.1701, S^2 = 0.231 Norms: 0.84@(8, 2), 0.07@(7, 1)
+converged SCF energy = -78.439895650361  <S^2> = 2.0034894  2S+1 = 3.0023254
+50
+1-th state with excitation energy = -0.0049, S^2 = 0.030 Norms: 0.59@(9, 1), 0.19@(8, 1)
+2-th state with excitation energy = 0.0059, S^2 = 0.032 Norms: 0.40@(9, 1), 0.29@(9, 2)
+3-th state with excitation energy = 0.1700, S^2 = 0.234 Norms: 0.83@(8, 2), 0.08@(7, 1)
+converged SCF energy = -78.4405874207834  <S^2> = 2.003505  2S+1 = 3.0023357
+50
+1-th state with excitation energy = -0.0044, S^2 = 0.034 Norms: 0.66@(9, 1), 0.16@(8, 1)
+2-th state with excitation energy = 0.0043, S^2 = 0.027 Norms: 0.33@(9, 1), 0.32@(9, 2)
+3-th state with excitation energy = 0.1718, S^2 = 0.279 Norms: 0.79@(8, 2), 0.16@(9, 4)
+converged SCF energy = -78.4405855412531  <S^2> = 2.0035036  2S+1 = 3.0023349
+50
+1-th state with excitation energy = -0.0039, S^2 = 0.035 Norms: 0.67@(9, 1), 0.15@(8, 1)
+2-th state with excitation energy = 0.0038, S^2 = 0.026 Norms: 0.32@(9, 2), 0.32@(9, 1)
+3-th state with excitation energy = 0.1717, S^2 = 0.268 Norms: 0.80@(8, 2), 0.15@(9, 4)
+converged SCF energy = -78.4405823710307  <S^2> = 2.0035023  2S+1 = 3.002334
+50
+1-th state with excitation energy = -0.0034, S^2 = 0.035 Norms: 0.68@(9, 1), 0.15@(8, 1)
+2-th state with excitation energy = 0.0034, S^2 = 0.025 Norms: 0.33@(9, 2), 0.32@(8, 1)
+3-th state with excitation energy = 0.1716, S^2 = 0.257 Norms: 0.81@(8, 2), 0.14@(9, 4)
+converged SCF energy = -78.4405779095465  <S^2> = 2.003501  2S+1 = 3.0023331
+50
+1-th state with excitation energy = -0.0029, S^2 = 0.036 Norms: 0.69@(9, 1), 0.14@(8, 1)
+2-th state with excitation energy = 0.0030, S^2 = 0.025 Norms: 0.33@(9, 2), 0.32@(8, 1)
+3-th state with excitation energy = 0.1715, S^2 = 0.249 Norms: 0.82@(8, 2), 0.13@(9, 4)
+converged SCF energy = -78.440572156322  <S^2> = 2.0034998  2S+1 = 3.0023323
+50
+1-th state with excitation energy = -0.0024, S^2 = 0.037 Norms: 0.71@(9, 1), 0.14@(8, 1)
+2-th state with excitation energy = 0.0026, S^2 = 0.024 Norms: 0.34@(9, 2), 0.33@(8, 1)
+3-th state with excitation energy = 0.1714, S^2 = 0.241 Norms: 0.83@(8, 2), 0.12@(9, 4)
+converged SCF energy = -78.4405651109668  <S^2> = 2.0034985  2S+1 = 3.0023314
+50
+1-th state with excitation energy = -0.0019, S^2 = 0.039 Norms: 0.73@(9, 1), 0.12@(8, 1)
+2-th state with excitation energy = 0.0022, S^2 = 0.022 Norms: 0.35@(9, 2), 0.34@(8, 1)
+3-th state with excitation energy = 0.1713, S^2 = 0.235 Norms: 0.83@(8, 2), 0.11@(9, 4)
+converged SCF energy = -78.4405567731299  <S^2> = 2.0034973  2S+1 = 3.0023306
+50
+1-th state with excitation energy = -0.0014, S^2 = 0.041 Norms: 0.78@(9, 1), 0.10@(8, 1)
+2-th state with excitation energy = 0.0018, S^2 = 0.020 Norms: 0.37@(9, 2), 0.36@(8, 1)
+3-th state with excitation energy = 0.1712, S^2 = 0.230 Norms: 0.84@(8, 2), 0.10@(9, 4)
+converged SCF energy = -78.4405471424913  <S^2> = 2.0034961  2S+1 = 3.0023298
+50
+1-th state with excitation energy = -0.0010, S^2 = 0.043 Norms: 0.84@(9, 1), 0.07@(8, 1)
+2-th state with excitation energy = 0.0014, S^2 = 0.018 Norms: 0.40@(9, 2), 0.40@(8, 1)
+3-th state with excitation energy = 0.1711, S^2 = 0.225 Norms: 0.84@(8, 2), 0.09@(9, 4)
+converged SCF energy = -78.4405362187312  <S^2> = 2.0034949  2S+1 = 3.002329
+50
+1-th state with excitation energy = -0.0006, S^2 = 0.047 Norms: 0.94@(9, 1), 0.03@(8, 1)
+2-th state with excitation energy = 0.0012, S^2 = 0.014 Norms: 0.45@(9, 2), 0.44@(8, 1)
+3-th state with excitation energy = 0.1710, S^2 = 0.222 Norms: 0.85@(8, 2), 0.09@(9, 4)
+converged SCF energy = -78.4405240015172  <S^2> = 2.0034938  2S+1 = 3.0023283
+50
+1-th state with excitation energy = -0.0004, S^2 = 0.049 Norms: 0.99@(9, 1), 0.00@(6, 1)
+2-th state with excitation energy = 0.0011, S^2 = 0.012 Norms: 0.47@(9, 2), 0.47@(8, 1)
+3-th state with excitation energy = 0.1709, S^2 = 0.219 Norms: 0.85@(8, 2), 0.08@(9, 4)
+converged SCF energy = -78.4405104904765  <S^2> = 2.0034926  2S+1 = 3.0023275
+50
+1-th state with excitation energy = -0.0005, S^2 = 0.045 Norms: 0.89@(9, 1), 0.05@(9, 2)
+2-th state with excitation energy = 0.0012, S^2 = 0.016 Norms: 0.42@(9, 2), 0.42@(8, 1)
+3-th state with excitation energy = 0.1708, S^2 = 0.216 Norms: 0.85@(8, 2), 0.08@(9, 4)
+converged SCF energy = -78.4404956851838  <S^2> = 2.0034915  2S+1 = 3.0023268
+50
+1-th state with excitation energy = -0.0008, S^2 = 0.040 Norms: 0.78@(9, 1), 0.10@(9, 2)
+2-th state with excitation energy = 0.0016, S^2 = 0.021 Norms: 0.37@(9, 2), 0.37@(8, 1)
+3-th state with excitation energy = 0.1707, S^2 = 0.215 Norms: 0.86@(8, 2), 0.07@(9, 4)
+converged SCF energy = -78.4404795851684  <S^2> = 2.0034904  2S+1 = 3.0023261
+50
+1-th state with excitation energy = -0.0012, S^2 = 0.037 Norms: 0.70@(9, 1), 0.14@(8, 1)
+2-th state with excitation energy = 0.0020, S^2 = 0.024 Norms: 0.33@(9, 2), 0.33@(8, 1)
+3-th state with excitation energy = 0.1706, S^2 = 0.213 Norms: 0.86@(8, 2), 0.07@(9, 4)
+converged SCF energy = -78.4404621898792  <S^2> = 2.0034894  2S+1 = 3.0023254
+50
+1-th state with excitation energy = -0.0016, S^2 = 0.035 Norms: 0.65@(9, 1), 0.16@(8, 1)
+2-th state with excitation energy = 0.0025, S^2 = 0.026 Norms: 0.34@(9, 1), 0.31@(9, 2)
+3-th state with excitation energy = 0.1705, S^2 = 0.213 Norms: 0.86@(8, 2), 0.06@(9, 4)
+converged SCF energy = -78.4404434986994  <S^2> = 2.0034884  2S+1 = 3.0023247
+50
+1-th state with excitation energy = -0.0020, S^2 = 0.034 Norms: 0.62@(9, 1), 0.17@(8, 1)
+2-th state with excitation energy = 0.0030, S^2 = 0.028 Norms: 0.37@(9, 1), 0.30@(9, 2)
+3-th state with excitation energy = 0.1704, S^2 = 0.213 Norms: 0.86@(8, 2), 0.06@(9, 4)
+converged SCF energy = -78.4404235109359  <S^2> = 2.0034873  2S+1 = 3.002324
+50
+1-th state with excitation energy = -0.0024, S^2 = 0.032 Norms: 0.61@(9, 1), 0.18@(8, 1)
+2-th state with excitation energy = 0.0035, S^2 = 0.029 Norms: 0.38@(9, 1), 0.29@(9, 2)
+3-th state with excitation energy = 0.1703, S^2 = 0.213 Norms: 0.86@(8, 2), 0.06@(9, 4)
+converged SCF energy = -78.4404022258204  <S^2> = 2.0034863  2S+1 = 3.0023233
+50
+1-th state with excitation energy = -0.0029, S^2 = 0.032 Norms: 0.59@(9, 1), 0.19@(8, 1)
+2-th state with excitation energy = 0.0040, S^2 = 0.030 Norms: 0.40@(9, 1), 0.29@(9, 2)
+3-th state with excitation energy = 0.1702, S^2 = 0.214 Norms: 0.86@(8, 2), 0.05@(9, 4)
+converged SCF energy = -78.4403796425103  <S^2> = 2.0034854  2S+1 = 3.0023227
+50
+1-th state with excitation energy = -0.0033, S^2 = 0.031 Norms: 0.58@(9, 1), 0.19@(8, 1)
+2-th state with excitation energy = 0.0045, S^2 = 0.031 Norms: 0.41@(9, 1), 0.28@(9, 2)
+3-th state with excitation energy = 0.1701, S^2 = 0.215 Norms: 0.86@(8, 2), 0.05@(7, 1)
+converged SCF energy = -78.4403557600991  <S^2> = 2.0034844  2S+1 = 3.0023221
+50
+1-th state with excitation energy = -0.0037, S^2 = 0.030 Norms: 0.58@(9, 1), 0.20@(8, 1)
+2-th state with excitation energy = 0.0050, S^2 = 0.031 Norms: 0.41@(9, 1), 0.28@(9, 2)
+3-th state with excitation energy = 0.1700, S^2 = 0.216 Norms: 0.85@(8, 2), 0.06@(7, 1)
+converged SCF energy = -78.440330577609  <S^2> = 2.0034835  2S+1 = 3.0023214
+50
+1-th state with excitation energy = -0.0042, S^2 = 0.030 Norms: 0.57@(9, 1), 0.20@(8, 1)
+2-th state with excitation energy = 0.0055, S^2 = 0.032 Norms: 0.42@(9, 1), 0.28@(9, 2)
+3-th state with excitation energy = 0.1700, S^2 = 0.218 Norms: 0.85@(8, 2), 0.06@(7, 1)
+converged SCF energy = -78.4403040940113  <S^2> = 2.0034826  2S+1 = 3.0023208
+50
+1-th state with excitation energy = -0.0046, S^2 = 0.030 Norms: 0.57@(9, 1), 0.20@(8, 1)
+2-th state with excitation energy = 0.0060, S^2 = 0.032 Norms: 0.42@(9, 1), 0.28@(9, 2)
+3-th state with excitation energy = 0.1699, S^2 = 0.220 Norms: 0.85@(8, 2), 0.07@(7, 1)
+converged SCF energy = -78.4409766840751  <S^2> = 2.0034978  2S+1 = 3.002331
+50
+1-th state with excitation energy = -0.0043, S^2 = 0.033 Norms: 0.64@(9, 1), 0.17@(8, 1)
+2-th state with excitation energy = 0.0046, S^2 = 0.028 Norms: 0.35@(9, 1), 0.31@(9, 2)
+3-th state with excitation energy = 0.1716, S^2 = 0.246 Norms: 0.82@(8, 2), 0.13@(9, 4)
+converged SCF energy = -78.4409754979505  <S^2> = 2.0034965  2S+1 = 3.0023301
+50
+1-th state with excitation energy = -0.0038, S^2 = 0.034 Norms: 0.64@(9, 1), 0.17@(8, 1)
+2-th state with excitation energy = 0.0041, S^2 = 0.027 Norms: 0.35@(9, 1), 0.31@(9, 2)
+3-th state with excitation energy = 0.1715, S^2 = 0.238 Norms: 0.83@(8, 2), 0.12@(9, 4)
+converged SCF energy = -78.4409730220021  <S^2> = 2.0034952  2S+1 = 3.0023292
+50
+1-th state with excitation energy = -0.0033, S^2 = 0.034 Norms: 0.64@(9, 1), 0.17@(8, 1)
+2-th state with excitation energy = 0.0037, S^2 = 0.027 Norms: 0.35@(9, 1), 0.31@(9, 2)
+3-th state with excitation energy = 0.1714, S^2 = 0.231 Norms: 0.84@(8, 2), 0.11@(9, 4)
+converged SCF energy = -78.4409692555633  <S^2> = 2.003494  2S+1 = 3.0023284
+50
+1-th state with excitation energy = -0.0028, S^2 = 0.035 Norms: 0.65@(9, 1), 0.16@(8, 1)
+2-th state with excitation energy = 0.0033, S^2 = 0.026 Norms: 0.34@(9, 1), 0.31@(9, 2)
+3-th state with excitation energy = 0.1713, S^2 = 0.225 Norms: 0.84@(8, 2), 0.10@(9, 4)
+converged SCF energy = -78.4409641980639  <S^2> = 2.0034927  2S+1 = 3.0023276
+50
+1-th state with excitation energy = -0.0023, S^2 = 0.035 Norms: 0.66@(9, 1), 0.16@(8, 1)
+2-th state with excitation energy = 0.0029, S^2 = 0.026 Norms: 0.33@(9, 1), 0.32@(9, 2)
+3-th state with excitation energy = 0.1712, S^2 = 0.219 Norms: 0.85@(8, 2), 0.09@(9, 4)
+converged SCF energy = -78.4409578490066  <S^2> = 2.0034915  2S+1 = 3.0023268
+50
+1-th state with excitation energy = -0.0018, S^2 = 0.036 Norms: 0.68@(9, 1), 0.15@(8, 1)
+2-th state with excitation energy = 0.0024, S^2 = 0.025 Norms: 0.33@(9, 2), 0.32@(8, 1)
+3-th state with excitation energy = 0.1711, S^2 = 0.215 Norms: 0.86@(8, 2), 0.09@(9, 4)
+converged SCF energy = -78.4409502079401  <S^2> = 2.0034903  2S+1 = 3.002326
+50
+1-th state with excitation energy = -0.0013, S^2 = 0.038 Norms: 0.71@(9, 1), 0.14@(8, 1)
+2-th state with excitation energy = 0.0020, S^2 = 0.023 Norms: 0.34@(9, 2), 0.33@(8, 1)
+3-th state with excitation energy = 0.1710, S^2 = 0.211 Norms: 0.86@(8, 2), 0.08@(9, 4)
+converged SCF energy = -78.4409412744458  <S^2> = 2.0034891  2S+1 = 3.0023252
+50
+1-th state with excitation energy = -0.0008, S^2 = 0.040 Norms: 0.76@(9, 1), 0.11@(8, 1)
+2-th state with excitation energy = 0.0016, S^2 = 0.021 Norms: 0.36@(9, 2), 0.36@(8, 1)
+3-th state with excitation energy = 0.1709, S^2 = 0.208 Norms: 0.86@(8, 2), 0.08@(9, 4)
+converged SCF energy = -78.4409310481024  <S^2> = 2.003488  2S+1 = 3.0023244
+50
+1-th state with excitation energy = -0.0003, S^2 = 0.044 Norms: 0.85@(9, 1), 0.07@(8, 1)
+2-th state with excitation energy = 0.0013, S^2 = 0.017 Norms: 0.41@(9, 2), 0.40@(8, 1)
+3-th state with excitation energy = 0.1708, S^2 = 0.206 Norms: 0.87@(8, 2), 0.07@(9, 4)
+converged SCF energy = -78.4409195284844  <S^2> = 2.0034869  2S+1 = 3.0023237
+50
+1-th state with excitation energy = -0.0000, S^2 = 0.049 Norms: 0.99@(9, 1), 0.00@(6, 1)
+2-th state with excitation energy = 0.0010, S^2 = 0.012 Norms: 0.47@(9, 2), 0.46@(8, 1)
+3-th state with excitation energy = 0.1707, S^2 = 0.204 Norms: 0.87@(8, 2), 0.07@(9, 4)
+converged SCF energy = -78.4409067151309  <S^2> = 2.0034858  2S+1 = 3.002323
+50
+1-th state with excitation energy = -0.0001, S^2 = 0.045 Norms: 0.88@(9, 1), 0.05@(8, 1)
+2-th state with excitation energy = 0.0012, S^2 = 0.016 Norms: 0.42@(9, 2), 0.42@(8, 1)
+3-th state with excitation energy = 0.1706, S^2 = 0.202 Norms: 0.87@(8, 2), 0.07@(9, 4)
+converged SCF energy = -78.4408926075443  <S^2> = 2.0034847  2S+1 = 3.0023222
+50
+1-th state with excitation energy = -0.0004, S^2 = 0.039 Norms: 0.73@(9, 1), 0.13@(9, 2)
+2-th state with excitation energy = 0.0015, S^2 = 0.023 Norms: 0.35@(9, 2), 0.34@(8, 1)
+3-th state with excitation energy = 0.1705, S^2 = 0.201 Norms: 0.87@(8, 2), 0.06@(9, 4)
+converged SCF energy = -78.4408772051736  <S^2> = 2.0034837  2S+1 = 3.0023215
+50
+1-th state with excitation energy = -0.0008, S^2 = 0.035 Norms: 0.65@(9, 1), 0.16@(8, 1)
+2-th state with excitation energy = 0.0020, S^2 = 0.026 Norms: 0.34@(9, 1), 0.31@(9, 2)
+3-th state with excitation energy = 0.1704, S^2 = 0.201 Norms: 0.87@(8, 2), 0.06@(9, 4)
+converged SCF energy = -78.4408605074186  <S^2> = 2.0034826  2S+1 = 3.0023209
+50
+1-th state with excitation energy = -0.0012, S^2 = 0.033 Norms: 0.61@(9, 1), 0.18@(8, 1)
+2-th state with excitation energy = 0.0025, S^2 = 0.028 Norms: 0.38@(9, 1), 0.29@(9, 2)
+3-th state with excitation energy = 0.1703, S^2 = 0.200 Norms: 0.87@(8, 2), 0.06@(9, 4)
+converged SCF energy = -78.4408425136113  <S^2> = 2.0034816  2S+1 = 3.0023202
+50
+1-th state with excitation energy = -0.0016, S^2 = 0.032 Norms: 0.58@(9, 1), 0.19@(8, 1)
+2-th state with excitation energy = 0.0030, S^2 = 0.029 Norms: 0.41@(9, 1), 0.28@(9, 2)
+3-th state with excitation energy = 0.1702, S^2 = 0.201 Norms: 0.87@(8, 2), 0.05@(9, 4)
+converged SCF energy = -78.4408232230281  <S^2> = 2.0034806  2S+1 = 3.0023195
+50
+1-th state with excitation energy = -0.0021, S^2 = 0.031 Norms: 0.57@(9, 1), 0.20@(8, 1)
+2-th state with excitation energy = 0.0035, S^2 = 0.030 Norms: 0.42@(9, 1), 0.27@(9, 2)
+3-th state with excitation energy = 0.1701, S^2 = 0.201 Norms: 0.87@(8, 2), 0.05@(9, 4)
+converged SCF energy = -78.4408026348787  <S^2> = 2.0034797  2S+1 = 3.0023189
+50
+1-th state with excitation energy = -0.0025, S^2 = 0.031 Norms: 0.56@(9, 1), 0.20@(8, 1)
+2-th state with excitation energy = 0.0040, S^2 = 0.031 Norms: 0.43@(9, 1), 0.27@(9, 2)
+3-th state with excitation energy = 0.1700, S^2 = 0.202 Norms: 0.87@(8, 2), 0.05@(9, 4)
+converged SCF energy = -78.4407807483114  <S^2> = 2.0034787  2S+1 = 3.0023183
+50
+1-th state with excitation energy = -0.0029, S^2 = 0.030 Norms: 0.56@(9, 1), 0.21@(8, 1)
+2-th state with excitation energy = 0.0045, S^2 = 0.032 Norms: 0.43@(9, 1), 0.27@(9, 2)
+3-th state with excitation energy = 0.1699, S^2 = 0.203 Norms: 0.87@(8, 2), 0.05@(7, 1)
+converged SCF energy = -78.4407575624215  <S^2> = 2.0034778  2S+1 = 3.0023177
+50
+1-th state with excitation energy = -0.0034, S^2 = 0.030 Norms: 0.55@(9, 1), 0.21@(8, 1)
+2-th state with excitation energy = 0.0050, S^2 = 0.032 Norms: 0.44@(9, 1), 0.27@(9, 2)
+3-th state with excitation energy = 0.1698, S^2 = 0.205 Norms: 0.87@(8, 2), 0.05@(7, 1)
+converged SCF energy = -78.4407330762586  <S^2> = 2.0034769  2S+1 = 3.0023171
+50
+1-th state with excitation energy = -0.0038, S^2 = 0.029 Norms: 0.55@(9, 1), 0.21@(8, 1)
+2-th state with excitation energy = 0.0055, S^2 = 0.033 Norms: 0.44@(9, 1), 0.27@(9, 2)
+3-th state with excitation energy = 0.1698, S^2 = 0.206 Norms: 0.86@(8, 2), 0.05@(7, 1)
+converged SCF energy = -78.4407072888175  <S^2> = 2.0034761  2S+1 = 3.0023165
+50
+1-th state with excitation energy = -0.0043, S^2 = 0.029 Norms: 0.55@(9, 1), 0.21@(8, 1)
+2-th state with excitation energy = 0.0060, S^2 = 0.033 Norms: 0.44@(9, 1), 0.27@(9, 2)
+3-th state with excitation energy = 0.1697, S^2 = 0.209 Norms: 0.86@(8, 2), 0.06@(7, 1)
+converged SCF energy = -78.4413607482563  <S^2> = 2.0034909  2S+1 = 3.0023264
+50
+1-th state with excitation energy = -0.0042, S^2 = 0.032 Norms: 0.61@(9, 1), 0.18@(8, 1)
+2-th state with excitation energy = 0.0049, S^2 = 0.029 Norms: 0.38@(9, 1), 0.30@(9, 2)
+3-th state with excitation energy = 0.1713, S^2 = 0.222 Norms: 0.85@(8, 2), 0.10@(9, 4)
+converged SCF energy = -78.4413602527287  <S^2> = 2.0034897  2S+1 = 3.0023255
+50
+1-th state with excitation energy = -0.0037, S^2 = 0.032 Norms: 0.61@(9, 1), 0.18@(8, 1)
+2-th state with excitation energy = 0.0044, S^2 = 0.029 Norms: 0.38@(9, 1), 0.30@(9, 2)
+3-th state with excitation energy = 0.1712, S^2 = 0.216 Norms: 0.85@(8, 2), 0.10@(9, 4)
+converged SCF energy = -78.4413584682164  <S^2> = 2.0034884  2S+1 = 3.0023247
+50
+1-th state with excitation energy = -0.0032, S^2 = 0.033 Norms: 0.61@(9, 1), 0.18@(8, 1)
+2-th state with excitation energy = 0.0040, S^2 = 0.028 Norms: 0.38@(9, 1), 0.30@(9, 2)
+3-th state with excitation energy = 0.1711, S^2 = 0.211 Norms: 0.86@(8, 2), 0.09@(9, 4)
+converged SCF energy = -78.4413553939627  <S^2> = 2.0034872  2S+1 = 3.0023239
+50
+1-th state with excitation energy = -0.0027, S^2 = 0.033 Norms: 0.61@(9, 1), 0.18@(8, 1)
+2-th state with excitation energy = 0.0036, S^2 = 0.028 Norms: 0.38@(9, 1), 0.30@(9, 2)
+3-th state with excitation energy = 0.1710, S^2 = 0.206 Norms: 0.86@(8, 2), 0.08@(9, 4)
+converged SCF energy = -78.4413510293054  <S^2> = 2.003486  2S+1 = 3.0023231
+50
+1-th state with excitation energy = -0.0021, S^2 = 0.034 Norms: 0.61@(9, 1), 0.18@(8, 1)
+2-th state with excitation energy = 0.0031, S^2 = 0.028 Norms: 0.38@(9, 1), 0.30@(9, 2)
+3-th state with excitation energy = 0.1710, S^2 = 0.203 Norms: 0.87@(8, 2), 0.08@(9, 4)
+converged SCF energy = -78.4413453736547  <S^2> = 2.0034848  2S+1 = 3.0023223
+50
+1-th state with excitation energy = -0.0016, S^2 = 0.034 Norms: 0.62@(9, 1), 0.18@(8, 1)
+2-th state with excitation energy = 0.0027, S^2 = 0.027 Norms: 0.37@(9, 1), 0.30@(9, 2)
+3-th state with excitation energy = 0.1709, S^2 = 0.199 Norms: 0.87@(8, 2), 0.07@(9, 4)
+converged SCF energy = -78.441338426456  <S^2> = 2.0034836  2S+1 = 3.0023215
+50
+1-th state with excitation energy = -0.0011, S^2 = 0.035 Norms: 0.63@(9, 1), 0.17@(8, 1)
+2-th state with excitation energy = 0.0023, S^2 = 0.026 Norms: 0.36@(9, 1), 0.30@(9, 2)
+3-th state with excitation energy = 0.1708, S^2 = 0.197 Norms: 0.87@(8, 2), 0.07@(9, 4)
+converged SCF energy = -78.4413301871965  <S^2> = 2.0034825  2S+1 = 3.0023207
+50
+1-th state with excitation energy = -0.0006, S^2 = 0.036 Norms: 0.66@(9, 1), 0.16@(8, 1)
+2-th state with excitation energy = 0.0018, S^2 = 0.025 Norms: 0.33@(9, 1), 0.32@(9, 2)
+3-th state with excitation energy = 0.1707, S^2 = 0.195 Norms: 0.88@(8, 2), 0.07@(9, 4)
+converged SCF energy = -78.4413206553604  <S^2> = 2.0034813  2S+1 = 3.00232
+50
+1-th state with excitation energy = -0.0001, S^2 = 0.039 Norms: 0.72@(9, 1), 0.13@(8, 1)
+2-th state with excitation energy = 0.0014, S^2 = 0.022 Norms: 0.34@(9, 2), 0.34@(8, 1)
+3-th state with excitation energy = 0.1706, S^2 = 0.193 Norms: 0.88@(8, 2), 0.06@(9, 4)
+converged SCF energy = -78.4413098304312  <S^2> = 2.0034803  2S+1 = 3.0023193
+50
+1-th state with excitation energy = 0.0003, S^2 = 0.046 Norms: 0.89@(9, 1), 0.05@(8, 1)
+2-th state with excitation energy = 0.0011, S^2 = 0.015 Norms: 0.43@(9, 2), 0.42@(8, 1)
+3-th state with excitation energy = 0.1705, S^2 = 0.192 Norms: 0.88@(8, 2), 0.06@(9, 4)
+converged SCF energy = -78.441297711864  <S^2> = 2.0034792  2S+1 = 3.0023186
+50
+1-th state with excitation energy = 0.0004, S^2 = 0.044 Norms: 0.85@(9, 1), 0.07@(9, 2)
+2-th state with excitation energy = 0.0011, S^2 = 0.018 Norms: 0.40@(9, 2), 0.40@(8, 1)
+3-th state with excitation energy = 0.1704, S^2 = 0.191 Norms: 0.88@(8, 2), 0.06@(9, 4)
+converged SCF energy = -78.4412842990875  <S^2> = 2.0034781  2S+1 = 3.0023179
+50
+1-th state with excitation energy = 0.0000, S^2 = 0.037 Norms: 0.64@(9, 1), 0.18@(9, 2)
+2-th state with excitation energy = 0.0015, S^2 = 0.026 Norms: 0.35@(9, 1), 0.31@(9, 2)
+3-th state with excitation energy = 0.1703, S^2 = 0.190 Norms: 0.88@(8, 2), 0.05@(9, 4)
+converged SCF energy = -78.4412695914814  <S^2> = 2.0034771  2S+1 = 3.0023172
+50
+1-th state with excitation energy = -0.0004, S^2 = 0.033 Norms: 0.58@(9, 1), 0.20@(9, 2)
+2-th state with excitation energy = 0.0020, S^2 = 0.029 Norms: 0.41@(9, 1), 0.28@(9, 2)
+3-th state with excitation energy = 0.1702, S^2 = 0.190 Norms: 0.88@(8, 2), 0.05@(9, 4)
+converged SCF energy = -78.4412535883872  <S^2> = 2.0034761  2S+1 = 3.0023165
+50
+1-th state with excitation energy = -0.0008, S^2 = 0.031 Norms: 0.55@(9, 1), 0.21@(8, 1)
+2-th state with excitation energy = 0.0025, S^2 = 0.030 Norms: 0.44@(9, 1), 0.26@(9, 2)
+3-th state with excitation energy = 0.1701, S^2 = 0.190 Norms: 0.88@(8, 2), 0.05@(9, 4)
+converged SCF energy = -78.4412362890934  <S^2> = 2.0034751  2S+1 = 3.0023159
+50
+1-th state with excitation energy = -0.0013, S^2 = 0.030 Norms: 0.54@(9, 1), 0.21@(8, 1)
+2-th state with excitation energy = 0.0030, S^2 = 0.031 Norms: 0.45@(9, 1), 0.26@(9, 2)
+3-th state with excitation energy = 0.1700, S^2 = 0.191 Norms: 0.88@(8, 2), 0.05@(9, 4)
+converged SCF energy = -78.4412176928404  <S^2> = 2.0034742  2S+1 = 3.0023152
+50
+1-th state with excitation energy = -0.0017, S^2 = 0.030 Norms: 0.53@(9, 1), 0.22@(8, 1)
+2-th state with excitation energy = 0.0035, S^2 = 0.032 Norms: 0.46@(9, 1), 0.25@(9, 2)
+3-th state with excitation energy = 0.1699, S^2 = 0.191 Norms: 0.88@(8, 2), 0.05@(9, 4)
+converged SCF energy = -78.441197798816  <S^2> = 2.0034732  2S+1 = 3.0023146
+50
+1-th state with excitation energy = -0.0022, S^2 = 0.029 Norms: 0.53@(9, 1), 0.22@(8, 1)
+2-th state with excitation energy = 0.0040, S^2 = 0.032 Norms: 0.46@(9, 1), 0.25@(9, 2)
+3-th state with excitation energy = 0.1698, S^2 = 0.192 Norms: 0.88@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4411766061636  <S^2> = 2.0034723  2S+1 = 3.002314
+50
+1-th state with excitation energy = -0.0026, S^2 = 0.029 Norms: 0.53@(9, 1), 0.22@(8, 1)
+2-th state with excitation energy = 0.0045, S^2 = 0.033 Norms: 0.47@(9, 1), 0.25@(9, 2)
+3-th state with excitation energy = 0.1697, S^2 = 0.193 Norms: 0.88@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4411541139787  <S^2> = 2.0034715  2S+1 = 3.0023134
+50
+1-th state with excitation energy = -0.0031, S^2 = 0.029 Norms: 0.53@(9, 1), 0.22@(8, 1)
+2-th state with excitation energy = 0.0051, S^2 = 0.033 Norms: 0.46@(9, 1), 0.25@(9, 2)
+3-th state with excitation energy = 0.1696, S^2 = 0.195 Norms: 0.88@(8, 2), 0.04@(7, 1)
+converged SCF energy = -78.4411303213215  <S^2> = 2.0034706  2S+1 = 3.0023128
+50
+1-th state with excitation energy = -0.0035, S^2 = 0.028 Norms: 0.53@(9, 1), 0.22@(8, 1)
+2-th state with excitation energy = 0.0056, S^2 = 0.033 Norms: 0.46@(9, 1), 0.26@(9, 2)
+3-th state with excitation energy = 0.1695, S^2 = 0.197 Norms: 0.87@(8, 2), 0.05@(7, 1)
+converged SCF energy = -78.4411052272205  <S^2> = 2.0034697  2S+1 = 3.0023123
+50
+1-th state with excitation energy = -0.0040, S^2 = 0.028 Norms: 0.53@(9, 1), 0.22@(8, 1)
+2-th state with excitation energy = 0.0061, S^2 = 0.034 Norms: 0.46@(9, 1), 0.26@(9, 2)
+3-th state with excitation energy = 0.1695, S^2 = 0.199 Norms: 0.87@(8, 2), 0.05@(7, 1)
+converged SCF energy = -78.4417396045228  <S^2> = 2.0034843  2S+1 = 3.002322
+50
+1-th state with excitation energy = -0.0041, S^2 = 0.031 Norms: 0.59@(9, 1), 0.19@(8, 1)
+2-th state with excitation energy = 0.0052, S^2 = 0.030 Norms: 0.40@(9, 1), 0.29@(9, 2)
+3-th state with excitation energy = 0.1711, S^2 = 0.203 Norms: 0.87@(8, 2), 0.08@(9, 4)
+converged SCF energy = -78.4417397969087  <S^2> = 2.0034831  2S+1 = 3.0023211
+50
+1-th state with excitation energy = -0.0036, S^2 = 0.031 Norms: 0.58@(9, 1), 0.20@(8, 1)
+2-th state with excitation energy = 0.0047, S^2 = 0.030 Norms: 0.41@(9, 1), 0.28@(9, 2)
+3-th state with excitation energy = 0.1710, S^2 = 0.199 Norms: 0.87@(8, 2), 0.08@(9, 4)
+converged SCF energy = -78.4417387011154  <S^2> = 2.0034818  2S+1 = 3.0023203
+50
+1-th state with excitation energy = -0.0031, S^2 = 0.031 Norms: 0.58@(9, 1), 0.20@(8, 1)
+2-th state with excitation energy = 0.0043, S^2 = 0.030 Norms: 0.41@(9, 1), 0.28@(9, 2)
+3-th state with excitation energy = 0.1709, S^2 = 0.195 Norms: 0.88@(8, 2), 0.07@(9, 4)
+converged SCF energy = -78.4417363163091  <S^2> = 2.0034806  2S+1 = 3.0023195
+50
+1-th state with excitation energy = -0.0026, S^2 = 0.032 Norms: 0.58@(9, 1), 0.20@(8, 1)
+2-th state with excitation energy = 0.0039, S^2 = 0.030 Norms: 0.42@(9, 1), 0.28@(9, 2)
+3-th state with excitation energy = 0.1708, S^2 = 0.192 Norms: 0.88@(8, 2), 0.07@(9, 4)
+converged SCF energy = -78.4417326417349  <S^2> = 2.0034794  2S+1 = 3.0023187
+50
+1-th state with excitation energy = -0.0021, S^2 = 0.032 Norms: 0.57@(9, 1), 0.20@(8, 1)
+2-th state with excitation energy = 0.0034, S^2 = 0.029 Norms: 0.42@(9, 1), 0.28@(9, 2)
+3-th state with excitation energy = 0.1707, S^2 = 0.189 Norms: 0.88@(8, 2), 0.07@(9, 4)
+converged SCF energy = -78.4417276767101  <S^2> = 2.0034783  2S+1 = 3.002318
+50
+1-th state with excitation energy = -0.0016, S^2 = 0.032 Norms: 0.57@(9, 1), 0.20@(8, 1)
+2-th state with excitation energy = 0.0030, S^2 = 0.029 Norms: 0.42@(9, 1), 0.27@(9, 2)
+3-th state with excitation energy = 0.1706, S^2 = 0.187 Norms: 0.89@(8, 2), 0.06@(9, 4)
+converged SCF energy = -78.4417214205943  <S^2> = 2.0034771  2S+1 = 3.0023172
+50
+1-th state with excitation energy = -0.0010, S^2 = 0.032 Norms: 0.57@(9, 1), 0.20@(8, 1)
+2-th state with excitation energy = 0.0026, S^2 = 0.029 Norms: 0.42@(9, 1), 0.27@(9, 2)
+3-th state with excitation energy = 0.1705, S^2 = 0.185 Norms: 0.89@(8, 2), 0.06@(9, 4)
+converged SCF energy = -78.4417138727707  <S^2> = 2.003476  2S+1 = 3.0023165
+50
+1-th state with excitation energy = -0.0005, S^2 = 0.033 Norms: 0.57@(9, 1), 0.20@(8, 1)
+2-th state with excitation energy = 0.0021, S^2 = 0.029 Norms: 0.43@(9, 1), 0.27@(9, 2)
+3-th state with excitation energy = 0.1704, S^2 = 0.184 Norms: 0.89@(8, 2), 0.06@(9, 4)
+converged SCF energy = -78.4417050326428  <S^2> = 2.0034749  2S+1 = 3.0023157
+50
+1-th state with excitation energy = -0.0000, S^2 = 0.034 Norms: 0.57@(9, 1), 0.21@(8, 1)
+2-th state with excitation energy = 0.0017, S^2 = 0.028 Norms: 0.42@(9, 1), 0.27@(9, 2)
+3-th state with excitation energy = 0.1703, S^2 = 0.183 Norms: 0.89@(8, 2), 0.05@(9, 4)
+converged SCF energy = -78.4416948996036  <S^2> = 2.0034739  2S+1 = 3.002315
+50
+1-th state with excitation energy = 0.0005, S^2 = 0.034 Norms: 0.59@(9, 1), 0.19@(8, 1)
+2-th state with excitation energy = 0.0013, S^2 = 0.027 Norms: 0.40@(9, 1), 0.28@(9, 2)
+3-th state with excitation energy = 0.1702, S^2 = 0.182 Norms: 0.89@(8, 2), 0.05@(9, 4)
+converged SCF energy = -78.441683473028  <S^2> = 2.0034728  2S+1 = 3.0023143
+50
+1-th state with excitation energy = 0.0008, S^2 = 0.035 Norms: 0.63@(9, 1), 0.17@(9, 2)
+2-th state with excitation energy = 0.0010, S^2 = 0.026 Norms: 0.36@(9, 1), 0.30@(9, 2)
+3-th state with excitation energy = 0.1701, S^2 = 0.181 Norms: 0.89@(8, 2), 0.05@(9, 4)
+converged SCF energy = -78.4416707522717  <S^2> = 2.0034718  2S+1 = 3.0023136
+50
+1-th state with excitation energy = 0.0004, S^2 = 0.030 Norms: 0.49@(9, 1), 0.24@(9, 2)
+2-th state with excitation energy = 0.0015, S^2 = 0.032 Norms: 0.50@(9, 1), 0.23@(9, 2)
+3-th state with excitation energy = 0.1700, S^2 = 0.181 Norms: 0.89@(8, 2), 0.05@(9, 4)
+converged SCF energy = -78.4416567366506  <S^2> = 2.0034708  2S+1 = 3.002313
+50
+1-th state with excitation energy = -0.0001, S^2 = 0.029 Norms: 0.48@(9, 1), 0.24@(8, 1)
+2-th state with excitation energy = 0.0021, S^2 = 0.032 Norms: 0.51@(9, 1), 0.23@(9, 2)
+3-th state with excitation energy = 0.1700, S^2 = 0.181 Norms: 0.89@(8, 2), 0.05@(9, 4)
+converged SCF energy = -78.44164142545  <S^2> = 2.0034698  2S+1 = 3.0023123
+50
+1-th state with excitation energy = -0.0005, S^2 = 0.029 Norms: 0.48@(9, 1), 0.24@(8, 1)
+2-th state with excitation energy = 0.0026, S^2 = 0.033 Norms: 0.51@(9, 1), 0.23@(9, 2)
+3-th state with excitation energy = 0.1699, S^2 = 0.182 Norms: 0.89@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4416248179139  <S^2> = 2.0034689  2S+1 = 3.0023117
+50
+1-th state with excitation energy = -0.0010, S^2 = 0.028 Norms: 0.48@(9, 1), 0.24@(8, 1)
+2-th state with excitation energy = 0.0031, S^2 = 0.033 Norms: 0.51@(9, 1), 0.23@(9, 2)
+3-th state with excitation energy = 0.1698, S^2 = 0.182 Norms: 0.89@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4416069132477  <S^2> = 2.003468  2S+1 = 3.0023111
+50
+1-th state with excitation energy = -0.0014, S^2 = 0.028 Norms: 0.49@(9, 1), 0.24@(8, 1)
+2-th state with excitation energy = 0.0036, S^2 = 0.033 Norms: 0.51@(9, 1), 0.23@(9, 2)
+3-th state with excitation energy = 0.1697, S^2 = 0.183 Norms: 0.89@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4415877106174  <S^2> = 2.0034671  2S+1 = 3.0023105
+50
+1-th state with excitation energy = -0.0018, S^2 = 0.028 Norms: 0.49@(9, 1), 0.24@(8, 1)
+2-th state with excitation energy = 0.0041, S^2 = 0.034 Norms: 0.50@(9, 1), 0.24@(9, 2)
+3-th state with excitation energy = 0.1696, S^2 = 0.184 Norms: 0.89@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4415672091563  <S^2> = 2.0034662  2S+1 = 3.0023099
+50
+1-th state with excitation energy = -0.0023, S^2 = 0.028 Norms: 0.49@(9, 1), 0.24@(8, 1)
+2-th state with excitation energy = 0.0046, S^2 = 0.034 Norms: 0.50@(9, 1), 0.24@(9, 2)
+3-th state with excitation energy = 0.1695, S^2 = 0.185 Norms: 0.89@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4415454079623  <S^2> = 2.0034653  2S+1 = 3.0023093
+50
+1-th state with excitation energy = -0.0027, S^2 = 0.028 Norms: 0.50@(9, 1), 0.23@(8, 1)
+2-th state with excitation energy = 0.0051, S^2 = 0.034 Norms: 0.49@(9, 1), 0.24@(9, 2)
+3-th state with excitation energy = 0.1694, S^2 = 0.186 Norms: 0.89@(8, 2), 0.04@(7, 1)
+converged SCF energy = -78.4415223061093  <S^2> = 2.0034645  2S+1 = 3.0023088
+50
+1-th state with excitation energy = -0.0032, S^2 = 0.028 Norms: 0.50@(9, 1), 0.23@(8, 1)
+2-th state with excitation energy = 0.0056, S^2 = 0.034 Norms: 0.49@(9, 1), 0.24@(9, 2)
+3-th state with excitation energy = 0.1693, S^2 = 0.188 Norms: 0.88@(8, 2), 0.04@(7, 1)
+converged SCF energy = -78.4414979026504  <S^2> = 2.0034637  2S+1 = 3.0023082
+50
+1-th state with excitation energy = -0.0036, S^2 = 0.027 Norms: 0.51@(9, 1), 0.23@(8, 1)
+2-th state with excitation energy = 0.0061, S^2 = 0.035 Norms: 0.49@(9, 1), 0.25@(9, 2)
+3-th state with excitation energy = 0.1692, S^2 = 0.190 Norms: 0.88@(8, 2), 0.04@(7, 1)
+converged SCF energy = -78.4421132450545  <S^2> = 2.0034779  2S+1 = 3.0023177
+50
+1-th state with excitation energy = -0.0041, S^2 = 0.030 Norms: 0.56@(9, 1), 0.20@(8, 1)
+2-th state with excitation energy = 0.0055, S^2 = 0.031 Norms: 0.43@(9, 1), 0.27@(9, 2)
+3-th state with excitation energy = 0.1709, S^2 = 0.188 Norms: 0.88@(8, 2), 0.07@(9, 4)
+converged SCF energy = -78.4421141228001  <S^2> = 2.0034767  2S+1 = 3.0023169
+50
+1-th state with excitation energy = -0.0036, S^2 = 0.030 Norms: 0.56@(9, 1), 0.21@(8, 1)
+2-th state with excitation energy = 0.0051, S^2 = 0.031 Norms: 0.43@(9, 1), 0.27@(9, 2)
+3-th state with excitation energy = 0.1708, S^2 = 0.185 Norms: 0.89@(8, 2), 0.07@(9, 4)
+converged SCF energy = -78.4421137131417  <S^2> = 2.0034755  2S+1 = 3.0023161
+50
+1-th state with excitation energy = -0.0030, S^2 = 0.030 Norms: 0.55@(9, 1), 0.21@(8, 1)
+2-th state with excitation energy = 0.0046, S^2 = 0.031 Norms: 0.44@(9, 1), 0.27@(9, 2)
+3-th state with excitation energy = 0.1707, S^2 = 0.183 Norms: 0.89@(8, 2), 0.06@(9, 4)
+converged SCF energy = -78.4421120151636  <S^2> = 2.0034743  2S+1 = 3.0023153
+50
+1-th state with excitation energy = -0.0025, S^2 = 0.030 Norms: 0.54@(9, 1), 0.21@(8, 1)
+2-th state with excitation energy = 0.0042, S^2 = 0.031 Norms: 0.45@(9, 1), 0.26@(9, 2)
+3-th state with excitation energy = 0.1706, S^2 = 0.181 Norms: 0.89@(8, 2), 0.06@(9, 4)
+converged SCF energy = -78.4421090280319  <S^2> = 2.0034732  2S+1 = 3.0023146
+50
+1-th state with excitation energy = -0.0020, S^2 = 0.030 Norms: 0.53@(9, 1), 0.22@(8, 1)
+2-th state with excitation energy = 0.0038, S^2 = 0.031 Norms: 0.46@(9, 1), 0.26@(9, 2)
+3-th state with excitation energy = 0.1705, S^2 = 0.179 Norms: 0.89@(8, 2), 0.06@(9, 4)
+converged SCF energy = -78.4421047509731  <S^2> = 2.003472  2S+1 = 3.0023138
+50
+1-th state with excitation energy = -0.0015, S^2 = 0.030 Norms: 0.52@(9, 1), 0.22@(8, 1)
+2-th state with excitation energy = 0.0033, S^2 = 0.031 Norms: 0.47@(9, 1), 0.25@(9, 2)
+3-th state with excitation energy = 0.1704, S^2 = 0.177 Norms: 0.90@(8, 2), 0.05@(9, 4)
+converged SCF energy = -78.4420991832619  <S^2> = 2.0034709  2S+1 = 3.0023131
+50
+1-th state with excitation energy = -0.0010, S^2 = 0.030 Norms: 0.51@(9, 1), 0.23@(8, 1)
+2-th state with excitation energy = 0.0029, S^2 = 0.031 Norms: 0.48@(9, 1), 0.24@(9, 2)
+3-th state with excitation energy = 0.1703, S^2 = 0.176 Norms: 0.90@(8, 2), 0.05@(9, 4)
+converged SCF energy = -78.4420923241923  <S^2> = 2.0034698  2S+1 = 3.0023123
+50
+1-th state with excitation energy = -0.0005, S^2 = 0.029 Norms: 0.49@(9, 1), 0.24@(8, 1)
+2-th state with excitation energy = 0.0025, S^2 = 0.032 Norms: 0.51@(9, 1), 0.23@(9, 2)
+3-th state with excitation energy = 0.1702, S^2 = 0.175 Norms: 0.90@(8, 2), 0.05@(9, 4)
+converged SCF energy = -78.4420841730793  <S^2> = 2.0034688  2S+1 = 3.0023116
+50
+1-th state with excitation energy = 0.0000, S^2 = 0.028 Norms: 0.45@(9, 1), 0.26@(9, 2)
+2-th state with excitation energy = 0.0020, S^2 = 0.033 Norms: 0.54@(9, 1), 0.22@(9, 2)
+3-th state with excitation energy = 0.1701, S^2 = 0.174 Norms: 0.90@(8, 2), 0.05@(9, 4)
+converged SCF energy = -78.442074729239  <S^2> = 2.0034677  2S+1 = 3.0023109
+50
+1-th state with excitation energy = 0.0005, S^2 = 0.025 Norms: 0.36@(9, 1), 0.30@(9, 2)
+2-th state with excitation energy = 0.0016, S^2 = 0.036 Norms: 0.63@(9, 1), 0.17@(9, 2)
+3-th state with excitation energy = 0.1700, S^2 = 0.174 Norms: 0.90@(8, 2), 0.05@(9, 4)
+converged SCF energy = -78.4420639919656  <S^2> = 2.0034667  2S+1 = 3.0023103
+50
+1-th state with excitation energy = 0.0009, S^2 = 0.012 Norms: 0.47@(9, 2), 0.46@(8, 1)
+2-th state with excitation energy = 0.0013, S^2 = 0.049 Norms: 0.98@(9, 1), 0.01@(9, 2)
+3-th state with excitation energy = 0.1699, S^2 = 0.174 Norms: 0.90@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4420519605432  <S^2> = 2.0034657  2S+1 = 3.0023096
+50
+1-th state with excitation energy = 0.0007, S^2 = 0.021 Norms: 0.35@(9, 2), 0.34@(8, 1)
+2-th state with excitation energy = 0.0016, S^2 = 0.040 Norms: 0.73@(9, 1), 0.13@(9, 2)
+3-th state with excitation energy = 0.1698, S^2 = 0.174 Norms: 0.90@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4420386342336  <S^2> = 2.0034647  2S+1 = 3.0023089
+50
+1-th state with excitation energy = 0.0002, S^2 = 0.025 Norms: 0.36@(9, 1), 0.30@(9, 2)
+2-th state with excitation energy = 0.0021, S^2 = 0.037 Norms: 0.63@(9, 1), 0.17@(9, 2)
+3-th state with excitation energy = 0.1697, S^2 = 0.174 Norms: 0.90@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4420240122619  <S^2> = 2.0034638  2S+1 = 3.0023083
+50
+1-th state with excitation energy = -0.0002, S^2 = 0.026 Norms: 0.40@(9, 1), 0.28@(8, 1)
+2-th state with excitation energy = 0.0026, S^2 = 0.036 Norms: 0.59@(9, 1), 0.19@(9, 2)
+3-th state with excitation energy = 0.1696, S^2 = 0.174 Norms: 0.90@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4420080938277  <S^2> = 2.0034629  2S+1 = 3.0023077
+50
+1-th state with excitation energy = -0.0007, S^2 = 0.026 Norms: 0.42@(9, 1), 0.27@(8, 1)
+2-th state with excitation energy = 0.0031, S^2 = 0.035 Norms: 0.57@(9, 1), 0.20@(9, 2)
+3-th state with excitation energy = 0.1695, S^2 = 0.175 Norms: 0.90@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4419908781094  <S^2> = 2.003462  2S+1 = 3.0023071
+50
+1-th state with excitation energy = -0.0011, S^2 = 0.027 Norms: 0.44@(9, 1), 0.26@(8, 1)
+2-th state with excitation energy = 0.0037, S^2 = 0.035 Norms: 0.55@(9, 1), 0.21@(9, 2)
+3-th state with excitation energy = 0.1695, S^2 = 0.176 Norms: 0.90@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4419723642465  <S^2> = 2.0034611  2S+1 = 3.0023065
+50
+1-th state with excitation energy = -0.0015, S^2 = 0.027 Norms: 0.45@(9, 1), 0.26@(8, 1)
+2-th state with excitation energy = 0.0042, S^2 = 0.035 Norms: 0.54@(9, 1), 0.22@(9, 2)
+3-th state with excitation energy = 0.1694, S^2 = 0.177 Norms: 0.90@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4419525513602  <S^2> = 2.0034602  2S+1 = 3.0023059
+50
+1-th state with excitation energy = -0.0020, S^2 = 0.027 Norms: 0.46@(9, 1), 0.25@(8, 1)
+2-th state with excitation energy = 0.0047, S^2 = 0.035 Norms: 0.53@(9, 1), 0.22@(9, 2)
+3-th state with excitation energy = 0.1693, S^2 = 0.178 Norms: 0.89@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4419314385552  <S^2> = 2.0034594  2S+1 = 3.0023054
+50
+1-th state with excitation energy = -0.0024, S^2 = 0.027 Norms: 0.47@(9, 1), 0.25@(8, 1)
+2-th state with excitation energy = 0.0052, S^2 = 0.035 Norms: 0.52@(9, 1), 0.23@(9, 2)
+3-th state with excitation energy = 0.1692, S^2 = 0.179 Norms: 0.89@(8, 2), 0.03@(7, 1)
+converged SCF energy = -78.4419090249104  <S^2> = 2.0034586  2S+1 = 3.0023048
+50
+1-th state with excitation energy = -0.0029, S^2 = 0.027 Norms: 0.47@(9, 1), 0.25@(8, 1)
+2-th state with excitation energy = 0.0057, S^2 = 0.035 Norms: 0.52@(9, 1), 0.23@(9, 2)
+3-th state with excitation energy = 0.1691, S^2 = 0.181 Norms: 0.89@(8, 2), 0.04@(7, 1)
+converged SCF energy = -78.4418853095019  <S^2> = 2.0034578  2S+1 = 3.0023043
+50
+1-th state with excitation energy = -0.0033, S^2 = 0.027 Norms: 0.48@(9, 1), 0.24@(8, 1)
+2-th state with excitation energy = 0.0062, S^2 = 0.035 Norms: 0.51@(9, 1), 0.23@(9, 2)
+3-th state with excitation energy = 0.1690, S^2 = 0.183 Norms: 0.89@(8, 2), 0.04@(7, 1)
+converged SCF energy = -78.4424816630038  <S^2> = 2.0034718  2S+1 = 3.0023137
+50
+1-th state with excitation energy = -0.0040, S^2 = 0.029 Norms: 0.54@(9, 1), 0.22@(8, 1)
+2-th state with excitation energy = 0.0059, S^2 = 0.032 Norms: 0.45@(9, 1), 0.26@(9, 2)
+3-th state with excitation energy = 0.1706, S^2 = 0.177 Norms: 0.89@(8, 2), 0.06@(9, 4)
+converged SCF energy = -78.4424832236833  <S^2> = 2.0034706  2S+1 = 3.0023129
+50
+1-th state with excitation energy = -0.0035, S^2 = 0.029 Norms: 0.53@(9, 1), 0.22@(8, 1)
+2-th state with excitation energy = 0.0054, S^2 = 0.032 Norms: 0.46@(9, 1), 0.26@(9, 2)
+3-th state with excitation energy = 0.1705, S^2 = 0.175 Norms: 0.90@(8, 2), 0.06@(9, 4)
+converged SCF energy = -78.4424834976969  <S^2> = 2.0034694  2S+1 = 3.0023121
+50
+1-th state with excitation energy = -0.0030, S^2 = 0.029 Norms: 0.52@(9, 1), 0.22@(8, 1)
+2-th state with excitation energy = 0.0050, S^2 = 0.032 Norms: 0.47@(9, 1), 0.25@(9, 2)
+3-th state with excitation energy = 0.1704, S^2 = 0.173 Norms: 0.90@(8, 2), 0.05@(9, 4)
+converged SCF energy = -78.4424824840539  <S^2> = 2.0034683  2S+1 = 3.0023113
+50
+1-th state with excitation energy = -0.0025, S^2 = 0.029 Norms: 0.51@(9, 1), 0.23@(8, 1)
+2-th state with excitation energy = 0.0046, S^2 = 0.032 Norms: 0.48@(9, 1), 0.25@(9, 2)
+3-th state with excitation energy = 0.1703, S^2 = 0.171 Norms: 0.90@(8, 2), 0.05@(9, 4)
+converged SCF energy = -78.4424801818417  <S^2> = 2.0034671  2S+1 = 3.0023105
+50
+1-th state with excitation energy = -0.0020, S^2 = 0.029 Norms: 0.50@(9, 1), 0.24@(8, 1)
+2-th state with excitation energy = 0.0041, S^2 = 0.033 Norms: 0.49@(9, 1), 0.24@(9, 2)
+3-th state with excitation energy = 0.1702, S^2 = 0.170 Norms: 0.90@(8, 2), 0.05@(9, 4)
+converged SCF energy = -78.4424765902081  <S^2> = 2.003466  2S+1 = 3.0023098
+50
+1-th state with excitation energy = -0.0015, S^2 = 0.028 Norms: 0.48@(9, 1), 0.24@(8, 1)
+2-th state with excitation energy = 0.0037, S^2 = 0.033 Norms: 0.51@(9, 1), 0.23@(9, 2)
+3-th state with excitation energy = 0.1701, S^2 = 0.169 Norms: 0.90@(8, 2), 0.05@(9, 4)
+converged SCF energy = -78.4424717083391  <S^2> = 2.0034649  2S+1 = 3.0023091
+50
+1-th state with excitation energy = -0.0010, S^2 = 0.028 Norms: 0.46@(9, 1), 0.25@(8, 1)
+2-th state with excitation energy = 0.0033, S^2 = 0.033 Norms: 0.53@(9, 1), 0.22@(9, 2)
+3-th state with excitation energy = 0.1700, S^2 = 0.168 Norms: 0.91@(8, 2), 0.05@(9, 4)
+converged SCF energy = -78.4424655354485  <S^2> = 2.0034639  2S+1 = 3.0023084
+50
+1-th state with excitation energy = -0.0005, S^2 = 0.027 Norms: 0.42@(9, 1), 0.27@(8, 1)
+2-th state with excitation energy = 0.0028, S^2 = 0.034 Norms: 0.57@(9, 1), 0.20@(9, 2)
+3-th state with excitation energy = 0.1699, S^2 = 0.168 Norms: 0.91@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4424580707716  <S^2> = 2.0034628  2S+1 = 3.0023077
+50
+1-th state with excitation energy = 0.0000, S^2 = 0.025 Norms: 0.37@(9, 1), 0.30@(9, 2)
+2-th state with excitation energy = 0.0024, S^2 = 0.036 Norms: 0.62@(9, 1), 0.18@(9, 2)
+3-th state with excitation energy = 0.1698, S^2 = 0.167 Norms: 0.91@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4424493135407  <S^2> = 2.0034618  2S+1 = 3.002307
+50
+1-th state with excitation energy = 0.0005, S^2 = 0.021 Norms: 0.35@(9, 2), 0.35@(8, 1)
+2-th state with excitation energy = 0.0020, S^2 = 0.040 Norms: 0.73@(9, 1), 0.12@(9, 2)
+3-th state with excitation energy = 0.1697, S^2 = 0.167 Norms: 0.91@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4424392629868  <S^2> = 2.0034608  2S+1 = 3.0023063
+50
+1-th state with excitation energy = 0.0008, S^2 = 0.014 Norms: 0.45@(9, 2), 0.45@(8, 1)
+2-th state with excitation energy = 0.0018, S^2 = 0.048 Norms: 0.94@(9, 1), 0.02@(9, 2)
+3-th state with excitation energy = 0.1696, S^2 = 0.167 Norms: 0.91@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4424279183206  <S^2> = 2.0034599  2S+1 = 3.0023057
+50
+1-th state with excitation energy = 0.0008, S^2 = 0.014 Norms: 0.43@(9, 2), 0.43@(8, 1)
+2-th state with excitation energy = 0.0019, S^2 = 0.047 Norms: 0.91@(9, 1), 0.04@(8, 1)
+3-th state with excitation energy = 0.1696, S^2 = 0.167 Norms: 0.91@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4424152787458  <S^2> = 2.0034589  2S+1 = 3.0023051
+50
+1-th state with excitation energy = 0.0005, S^2 = 0.020 Norms: 0.36@(9, 2), 0.36@(8, 1)
+2-th state with excitation energy = 0.0023, S^2 = 0.042 Norms: 0.76@(9, 1), 0.11@(9, 2)
+3-th state with excitation energy = 0.1695, S^2 = 0.168 Norms: 0.91@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4424013434379  <S^2> = 2.003458  2S+1 = 3.0023044
+50
+1-th state with excitation energy = 0.0001, S^2 = 0.023 Norms: 0.33@(9, 2), 0.32@(8, 1)
+2-th state with excitation energy = 0.0028, S^2 = 0.039 Norms: 0.68@(9, 1), 0.15@(9, 2)
+3-th state with excitation energy = 0.1694, S^2 = 0.168 Norms: 0.91@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4423861115574  <S^2> = 2.0034571  2S+1 = 3.0023038
+50
+1-th state with excitation energy = -0.0004, S^2 = 0.024 Norms: 0.36@(9, 1), 0.30@(8, 1)
+2-th state with excitation energy = 0.0032, S^2 = 0.038 Norms: 0.63@(9, 1), 0.17@(9, 2)
+3-th state with excitation energy = 0.1693, S^2 = 0.169 Norms: 0.90@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4423695822468  <S^2> = 2.0034562  2S+1 = 3.0023033
+50
+1-th state with excitation energy = -0.0008, S^2 = 0.025 Norms: 0.38@(9, 1), 0.29@(8, 1)
+2-th state with excitation energy = 0.0037, S^2 = 0.037 Norms: 0.61@(9, 1), 0.18@(9, 2)
+3-th state with excitation energy = 0.1692, S^2 = 0.170 Norms: 0.90@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4423517546265  <S^2> = 2.0034553  2S+1 = 3.0023027
+50
+1-th state with excitation energy = -0.0013, S^2 = 0.025 Norms: 0.40@(9, 1), 0.28@(8, 1)
+2-th state with excitation energy = 0.0042, S^2 = 0.037 Norms: 0.59@(9, 1), 0.20@(9, 2)
+3-th state with excitation energy = 0.1691, S^2 = 0.171 Norms: 0.90@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4423326278063  <S^2> = 2.0034545  2S+1 = 3.0023021
+50
+1-th state with excitation energy = -0.0017, S^2 = 0.025 Norms: 0.42@(9, 1), 0.27@(8, 1)
+2-th state with excitation energy = 0.0048, S^2 = 0.036 Norms: 0.57@(9, 1), 0.20@(9, 2)
+3-th state with excitation energy = 0.1690, S^2 = 0.172 Norms: 0.90@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4423122008884  <S^2> = 2.0034537  2S+1 = 3.0023016
+50
+1-th state with excitation energy = -0.0021, S^2 = 0.026 Norms: 0.43@(9, 1), 0.26@(8, 1)
+2-th state with excitation energy = 0.0053, S^2 = 0.036 Norms: 0.56@(9, 1), 0.21@(9, 2)
+3-th state with excitation energy = 0.1690, S^2 = 0.173 Norms: 0.90@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.442290472962  <S^2> = 2.0034529  2S+1 = 3.0023011
+50
+1-th state with excitation energy = -0.0026, S^2 = 0.026 Norms: 0.45@(9, 1), 0.26@(8, 1)
+2-th state with excitation energy = 0.0058, S^2 = 0.036 Norms: 0.55@(9, 1), 0.22@(9, 2)
+3-th state with excitation energy = 0.1689, S^2 = 0.175 Norms: 0.90@(8, 2), 0.03@(7, 1)
+converged SCF energy = -78.4422674431251  <S^2> = 2.0034521  2S+1 = 3.0023005
+50
+1-th state with excitation energy = -0.0030, S^2 = 0.026 Norms: 0.46@(9, 1), 0.25@(8, 1)
+2-th state with excitation energy = 0.0063, S^2 = 0.036 Norms: 0.54@(9, 1), 0.22@(9, 2)
+3-th state with excitation energy = 0.1688, S^2 = 0.177 Norms: 0.90@(8, 2), 0.03@(7, 1)
+converged SCF energy = -78.4428448524607  <S^2> = 2.0034659  2S+1 = 3.0023097
+50
+1-th state with excitation energy = -0.0040, S^2 = 0.028 Norms: 0.52@(9, 1), 0.22@(8, 1)
+2-th state with excitation energy = 0.0062, S^2 = 0.033 Norms: 0.47@(9, 1), 0.26@(9, 2)
+3-th state with excitation energy = 0.1703, S^2 = 0.168 Norms: 0.90@(8, 2), 0.05@(9, 4)
+converged SCF energy = -78.4428470937788  <S^2> = 2.0034647  2S+1 = 3.0023089
+50
+1-th state with excitation energy = -0.0035, S^2 = 0.028 Norms: 0.51@(9, 1), 0.23@(8, 1)
+2-th state with excitation energy = 0.0058, S^2 = 0.033 Norms: 0.48@(9, 1), 0.25@(9, 2)
+3-th state with excitation energy = 0.1702, S^2 = 0.167 Norms: 0.91@(8, 2), 0.05@(9, 4)
+converged SCF energy = -78.4428480491284  <S^2> = 2.0034636  2S+1 = 3.0023082
+50
+1-th state with excitation energy = -0.0030, S^2 = 0.028 Norms: 0.50@(9, 1), 0.24@(8, 1)
+2-th state with excitation energy = 0.0053, S^2 = 0.033 Norms: 0.49@(9, 1), 0.24@(9, 2)
+3-th state with excitation energy = 0.1701, S^2 = 0.165 Norms: 0.91@(8, 2), 0.05@(9, 4)
+converged SCF energy = -78.4428477174516  <S^2> = 2.0034625  2S+1 = 3.0023074
+50
+1-th state with excitation energy = -0.0025, S^2 = 0.028 Norms: 0.48@(9, 1), 0.24@(8, 1)
+2-th state with excitation energy = 0.0049, S^2 = 0.034 Norms: 0.51@(9, 1), 0.24@(9, 2)
+3-th state with excitation energy = 0.1700, S^2 = 0.164 Norms: 0.91@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4428460977581  <S^2> = 2.0034613  2S+1 = 3.0023067
+50
+1-th state with excitation energy = -0.0020, S^2 = 0.027 Norms: 0.47@(9, 1), 0.25@(8, 1)
+2-th state with excitation energy = 0.0045, S^2 = 0.034 Norms: 0.53@(9, 1), 0.23@(9, 2)
+3-th state with excitation energy = 0.1699, S^2 = 0.163 Norms: 0.91@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4428431891199  <S^2> = 2.0034603  2S+1 = 3.002306
+50
+1-th state with excitation energy = -0.0015, S^2 = 0.027 Norms: 0.44@(9, 1), 0.26@(8, 1)
+2-th state with excitation energy = 0.0041, S^2 = 0.034 Norms: 0.55@(9, 1), 0.22@(9, 2)
+3-th state with excitation energy = 0.1699, S^2 = 0.163 Norms: 0.91@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4428389906463  <S^2> = 2.0034592  2S+1 = 3.0023052
+50
+1-th state with excitation energy = -0.0010, S^2 = 0.026 Norms: 0.41@(9, 1), 0.27@(8, 1)
+2-th state with excitation energy = 0.0036, S^2 = 0.035 Norms: 0.58@(9, 1), 0.20@(9, 2)
+3-th state with excitation energy = 0.1698, S^2 = 0.162 Norms: 0.91@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.442833501474  <S^2> = 2.0034582  2S+1 = 3.0023045
+50
+1-th state with excitation energy = -0.0005, S^2 = 0.025 Norms: 0.37@(9, 1), 0.29@(8, 1)
+2-th state with excitation energy = 0.0032, S^2 = 0.036 Norms: 0.62@(9, 1), 0.18@(9, 2)
+3-th state with excitation energy = 0.1697, S^2 = 0.162 Norms: 0.91@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4428267207587  <S^2> = 2.0034571  2S+1 = 3.0023039
+50
+1-th state with excitation energy = 0.0000, S^2 = 0.031 Norms: 0.37@(9, 2), 0.31@(9, 1)
+2-th state with excitation energy = 0.0028, S^2 = 0.038 Norms: 0.68@(9, 1), 0.15@(9, 2)
+3-th state with excitation energy = 0.1696, S^2 = 0.162 Norms: 0.91@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4428186476606  <S^2> = 2.0034561  2S+1 = 3.0023032
+50
+1-th state with excitation energy = 0.0004, S^2 = 0.020 Norms: 0.37@(9, 2), 0.37@(8, 1)
+2-th state with excitation energy = 0.0025, S^2 = 0.042 Norms: 0.78@(9, 1), 0.10@(9, 2)
+3-th state with excitation energy = 0.1695, S^2 = 0.162 Norms: 0.91@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4428092813432  <S^2> = 2.0034552  2S+1 = 3.0023026
+50
+1-th state with excitation energy = 0.0008, S^2 = 0.014 Norms: 0.44@(9, 2), 0.44@(8, 1)
+2-th state with excitation energy = 0.0022, S^2 = 0.047 Norms: 0.93@(9, 1), 0.03@(9, 2)
+3-th state with excitation energy = 0.1694, S^2 = 0.162 Norms: 0.91@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4427986209569  <S^2> = 2.0034542  2S+1 = 3.0023019
+50
+1-th state with excitation energy = 0.0008, S^2 = 0.012 Norms: 0.47@(9, 2), 0.46@(8, 1)
+2-th state with excitation energy = 0.0022, S^2 = 0.050 Norms: 0.98@(9, 1), 0.00@(8, 1)
+3-th state with excitation energy = 0.1693, S^2 = 0.162 Norms: 0.91@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4427866656447  <S^2> = 2.0034533  2S+1 = 3.0023013
+50
+1-th state with excitation energy = 0.0006, S^2 = 0.016 Norms: 0.41@(9, 2), 0.41@(8, 1)
+2-th state with excitation energy = 0.0025, S^2 = 0.046 Norms: 0.87@(9, 1), 0.06@(9, 2)
+3-th state with excitation energy = 0.1692, S^2 = 0.163 Norms: 0.91@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4427734145393  <S^2> = 2.0034524  2S+1 = 3.0023007
+50
+1-th state with excitation energy = 0.0003, S^2 = 0.020 Norms: 0.36@(9, 2), 0.36@(8, 1)
+2-th state with excitation energy = 0.0029, S^2 = 0.042 Norms: 0.77@(9, 1), 0.11@(9, 2)
+3-th state with excitation energy = 0.1691, S^2 = 0.163 Norms: 0.91@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4427588667611  <S^2> = 2.0034515  2S+1 = 3.0023001
+50
+1-th state with excitation energy = -0.0001, S^2 = 0.022 Norms: 0.33@(8, 1), 0.33@(9, 2)
+2-th state with excitation energy = 0.0034, S^2 = 0.040 Norms: 0.70@(9, 1), 0.14@(9, 2)
+3-th state with excitation energy = 0.1691, S^2 = 0.164 Norms: 0.91@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4427430214215  <S^2> = 2.0034506  2S+1 = 3.0022996
+50
+1-th state with excitation energy = -0.0006, S^2 = 0.023 Norms: 0.33@(9, 1), 0.31@(8, 1)
+2-th state with excitation energy = 0.0039, S^2 = 0.039 Norms: 0.66@(9, 1), 0.16@(9, 2)
+3-th state with excitation energy = 0.1690, S^2 = 0.165 Norms: 0.91@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4427258776189  <S^2> = 2.0034498  2S+1 = 3.002299
+50
+1-th state with excitation energy = -0.0010, S^2 = 0.024 Norms: 0.36@(9, 1), 0.30@(8, 1)
+2-th state with excitation energy = 0.0043, S^2 = 0.038 Norms: 0.63@(9, 1), 0.17@(9, 2)
+3-th state with excitation energy = 0.1689, S^2 = 0.166 Norms: 0.91@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.442707434454  <S^2> = 2.003449  2S+1 = 3.0022985
+50
+1-th state with excitation energy = -0.0014, S^2 = 0.024 Norms: 0.38@(9, 1), 0.29@(8, 1)
+2-th state with excitation energy = 0.0048, S^2 = 0.038 Norms: 0.61@(9, 1), 0.19@(9, 2)
+3-th state with excitation energy = 0.1688, S^2 = 0.167 Norms: 0.91@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4426876910267  <S^2> = 2.0034482  2S+1 = 3.0022979
+50
+1-th state with excitation energy = -0.0019, S^2 = 0.025 Norms: 0.40@(9, 1), 0.28@(8, 1)
+2-th state with excitation energy = 0.0053, S^2 = 0.037 Norms: 0.59@(9, 1), 0.19@(9, 2)
+3-th state with excitation energy = 0.1687, S^2 = 0.169 Norms: 0.90@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4426666464368  <S^2> = 2.0034474  2S+1 = 3.0022974
+50
+1-th state with excitation energy = -0.0023, S^2 = 0.025 Norms: 0.42@(9, 1), 0.27@(8, 1)
+2-th state with excitation energy = 0.0058, S^2 = 0.037 Norms: 0.57@(9, 1), 0.20@(9, 2)
+3-th state with excitation energy = 0.1686, S^2 = 0.170 Norms: 0.90@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4426442997965  <S^2> = 2.0034467  2S+1 = 3.0022969
+50
+1-th state with excitation energy = -0.0028, S^2 = 0.025 Norms: 0.43@(9, 1), 0.27@(8, 1)
+2-th state with excitation energy = 0.0063, S^2 = 0.037 Norms: 0.56@(9, 1), 0.21@(9, 2)
+3-th state with excitation energy = 0.1686, S^2 = 0.172 Norms: 0.90@(8, 2), 0.03@(7, 1)
+converged SCF energy = -78.4432028084331  <S^2> = 2.0034603  2S+1 = 3.002306
+50
+1-th state with excitation energy = -0.0040, S^2 = 0.027 Norms: 0.50@(9, 1), 0.23@(8, 1)
+2-th state with excitation energy = 0.0066, S^2 = 0.034 Norms: 0.49@(9, 1), 0.25@(9, 2)
+3-th state with excitation energy = 0.1701, S^2 = 0.161 Norms: 0.91@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4432057282227  <S^2> = 2.0034591  2S+1 = 3.0023052
+50
+1-th state with excitation energy = -0.0035, S^2 = 0.027 Norms: 0.49@(9, 1), 0.24@(8, 1)
+2-th state with excitation energy = 0.0061, S^2 = 0.034 Norms: 0.50@(9, 1), 0.24@(9, 2)
+3-th state with excitation energy = 0.1700, S^2 = 0.160 Norms: 0.91@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4432073626995  <S^2> = 2.003458  2S+1 = 3.0023044
+50
+1-th state with excitation energy = -0.0030, S^2 = 0.027 Norms: 0.48@(9, 1), 0.25@(8, 1)
+2-th state with excitation energy = 0.0057, S^2 = 0.034 Norms: 0.51@(9, 1), 0.23@(9, 2)
+3-th state with excitation energy = 0.1699, S^2 = 0.159 Norms: 0.91@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4432077107373  <S^2> = 2.0034569  2S+1 = 3.0023037
+50
+1-th state with excitation energy = -0.0025, S^2 = 0.027 Norms: 0.46@(9, 1), 0.25@(8, 1)
+2-th state with excitation energy = 0.0053, S^2 = 0.035 Norms: 0.53@(9, 1), 0.22@(9, 2)
+3-th state with excitation energy = 0.1698, S^2 = 0.158 Norms: 0.91@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.443206771283  <S^2> = 2.0034558  2S+1 = 3.002303
+50
+1-th state with excitation energy = -0.0020, S^2 = 0.026 Norms: 0.44@(9, 1), 0.26@(8, 1)
+2-th state with excitation energy = 0.0049, S^2 = 0.035 Norms: 0.55@(9, 1), 0.21@(9, 2)
+3-th state with excitation energy = 0.1697, S^2 = 0.158 Norms: 0.92@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4432045433323  <S^2> = 2.0034547  2S+1 = 3.0023023
+50
+1-th state with excitation energy = -0.0015, S^2 = 0.026 Norms: 0.41@(9, 1), 0.28@(8, 1)
+2-th state with excitation energy = 0.0044, S^2 = 0.036 Norms: 0.58@(9, 1), 0.20@(9, 2)
+3-th state with excitation energy = 0.1696, S^2 = 0.157 Norms: 0.92@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4432010259207  <S^2> = 2.0034537  2S+1 = 3.0023016
+50
+1-th state with excitation energy = -0.0010, S^2 = 0.025 Norms: 0.38@(9, 1), 0.29@(8, 1)
+2-th state with excitation energy = 0.0040, S^2 = 0.037 Norms: 0.61@(9, 1), 0.19@(9, 2)
+3-th state with excitation energy = 0.1695, S^2 = 0.157 Norms: 0.92@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4431962181151  <S^2> = 2.0034526  2S+1 = 3.0023009
+50
+1-th state with excitation energy = -0.0005, S^2 = 0.024 Norms: 0.34@(9, 1), 0.31@(8, 1)
+2-th state with excitation energy = 0.0036, S^2 = 0.038 Norms: 0.65@(9, 1), 0.16@(9, 2)
+3-th state with excitation energy = 0.1694, S^2 = 0.157 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.443190118998  <S^2> = 2.0034516  2S+1 = 3.0023002
+50
+1-th state with excitation energy = -0.0000, S^2 = 0.022 Norms: 0.34@(8, 1), 0.33@(9, 2)
+2-th state with excitation energy = 0.0032, S^2 = 0.040 Norms: 0.72@(9, 1), 0.13@(9, 2)
+3-th state with excitation energy = 0.1693, S^2 = 0.157 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4431827276647  <S^2> = 2.0034507  2S+1 = 3.0022996
+50
+1-th state with excitation energy = 0.0004, S^2 = 0.018 Norms: 0.38@(9, 2), 0.38@(8, 1)
+2-th state with excitation energy = 0.0029, S^2 = 0.043 Norms: 0.80@(9, 1), 0.09@(9, 2)
+3-th state with excitation energy = 0.1692, S^2 = 0.157 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4431740432076  <S^2> = 2.0034497  2S+1 = 3.0022989
+50
+1-th state with excitation energy = 0.0007, S^2 = 0.014 Norms: 0.44@(9, 2), 0.43@(8, 1)
+2-th state with excitation energy = 0.0027, S^2 = 0.047 Norms: 0.92@(9, 1), 0.03@(9, 2)
+3-th state with excitation energy = 0.1691, S^2 = 0.157 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4431640647256  <S^2> = 2.0034488  2S+1 = 3.0022983
+50
+1-th state with excitation energy = 0.0008, S^2 = 0.012 Norms: 0.47@(9, 2), 0.47@(8, 1)
+2-th state with excitation energy = 0.0026, S^2 = 0.050 Norms: 0.99@(9, 1), 0.00@(6, 1)
+3-th state with excitation energy = 0.1690, S^2 = 0.158 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4431527913073  <S^2> = 2.0034479  2S+1 = 3.0022977
+50
+1-th state with excitation energy = 0.0007, S^2 = 0.014 Norms: 0.45@(9, 2), 0.44@(8, 1)
+2-th state with excitation energy = 0.0028, S^2 = 0.048 Norms: 0.94@(9, 1), 0.03@(8, 1)
+3-th state with excitation energy = 0.1690, S^2 = 0.158 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4431402220421  <S^2> = 2.003447  2S+1 = 3.0022971
+50
+1-th state with excitation energy = 0.0004, S^2 = 0.017 Norms: 0.40@(9, 2), 0.40@(8, 1)
+2-th state with excitation energy = 0.0031, S^2 = 0.045 Norms: 0.84@(9, 1), 0.07@(9, 2)
+3-th state with excitation energy = 0.1689, S^2 = 0.159 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4431263560139  <S^2> = 2.0034461  2S+1 = 3.0022965
+50
+1-th state with excitation energy = 0.0001, S^2 = 0.019 Norms: 0.37@(9, 2), 0.36@(8, 1)
+2-th state with excitation energy = 0.0035, S^2 = 0.043 Norms: 0.77@(9, 1), 0.11@(9, 2)
+3-th state with excitation energy = 0.1688, S^2 = 0.160 Norms: 0.91@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4431111923066  <S^2> = 2.0034453  2S+1 = 3.002296
+50
+1-th state with excitation energy = -0.0003, S^2 = 0.021 Norms: 0.34@(8, 1), 0.34@(9, 2)
+2-th state with excitation energy = 0.0040, S^2 = 0.041 Norms: 0.72@(9, 1), 0.13@(9, 2)
+3-th state with excitation energy = 0.1687, S^2 = 0.161 Norms: 0.91@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4430947299985  <S^2> = 2.0034445  2S+1 = 3.0022954
+50
+1-th state with excitation energy = -0.0007, S^2 = 0.022 Norms: 0.32@(8, 1), 0.32@(9, 2)
+2-th state with excitation energy = 0.0045, S^2 = 0.040 Norms: 0.68@(9, 1), 0.15@(9, 2)
+3-th state with excitation energy = 0.1686, S^2 = 0.162 Norms: 0.91@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4430769681799  <S^2> = 2.0034437  2S+1 = 3.0022949
+50
+1-th state with excitation energy = -0.0012, S^2 = 0.023 Norms: 0.34@(9, 1), 0.31@(8, 1)
+2-th state with excitation energy = 0.0050, S^2 = 0.039 Norms: 0.65@(9, 1), 0.17@(9, 2)
+3-th state with excitation energy = 0.1686, S^2 = 0.163 Norms: 0.91@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4430579059474  <S^2> = 2.0034429  2S+1 = 3.0022944
+50
+1-th state with excitation energy = -0.0016, S^2 = 0.023 Norms: 0.37@(9, 1), 0.30@(8, 1)
+2-th state with excitation energy = 0.0054, S^2 = 0.039 Norms: 0.62@(9, 1), 0.18@(9, 2)
+3-th state with excitation energy = 0.1685, S^2 = 0.164 Norms: 0.91@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4430375424111  <S^2> = 2.0034422  2S+1 = 3.0022939
+50
+1-th state with excitation energy = -0.0020, S^2 = 0.024 Norms: 0.39@(9, 1), 0.29@(8, 1)
+2-th state with excitation energy = 0.0059, S^2 = 0.038 Norms: 0.60@(9, 1), 0.19@(9, 2)
+3-th state with excitation energy = 0.1684, S^2 = 0.166 Norms: 0.91@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4430158766946  <S^2> = 2.0034415  2S+1 = 3.0022934
+50
+1-th state with excitation energy = -0.0025, S^2 = 0.024 Norms: 0.40@(9, 1), 0.28@(8, 1)
+2-th state with excitation energy = 0.0064, S^2 = 0.038 Norms: 0.59@(9, 1), 0.20@(9, 2)
+3-th state with excitation energy = 0.1683, S^2 = 0.168 Norms: 0.91@(8, 2), 0.03@(7, 1)
+converged SCF energy = -78.4435555268146  <S^2> = 2.0034548  2S+1 = 3.0023023
+50
+1-th state with excitation energy = -0.0040, S^2 = 0.027 Norms: 0.49@(9, 1), 0.24@(8, 1)
+2-th state with excitation energy = 0.0069, S^2 = 0.035 Norms: 0.50@(9, 1), 0.24@(9, 2)
+3-th state with excitation energy = 0.1698, S^2 = 0.156 Norms: 0.92@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4435591230371  <S^2> = 2.0034537  2S+1 = 3.0023016
+50
+1-th state with excitation energy = -0.0035, S^2 = 0.026 Norms: 0.47@(9, 1), 0.25@(8, 1)
+2-th state with excitation energy = 0.0065, S^2 = 0.035 Norms: 0.52@(9, 1), 0.23@(9, 2)
+3-th state with excitation energy = 0.1697, S^2 = 0.155 Norms: 0.92@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.443561434556  <S^2> = 2.0034526  2S+1 = 3.0023008
+50
+1-th state with excitation energy = -0.0030, S^2 = 0.026 Norms: 0.46@(9, 1), 0.26@(8, 1)
+2-th state with excitation energy = 0.0061, S^2 = 0.035 Norms: 0.53@(9, 1), 0.22@(9, 2)
+3-th state with excitation energy = 0.1696, S^2 = 0.154 Norms: 0.92@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4435624601886  <S^2> = 2.0034515  2S+1 = 3.0023001
+50
+1-th state with excitation energy = -0.0025, S^2 = 0.026 Norms: 0.44@(9, 1), 0.26@(8, 1)
+2-th state with excitation energy = 0.0057, S^2 = 0.036 Norms: 0.55@(9, 1), 0.21@(9, 2)
+3-th state with excitation energy = 0.1695, S^2 = 0.154 Norms: 0.92@(8, 2), 0.04@(9, 4)
+converged SCF energy = -78.4435621988111  <S^2> = 2.0034504  2S+1 = 3.0022994
+50
+1-th state with excitation energy = -0.0020, S^2 = 0.025 Norms: 0.41@(9, 1), 0.27@(8, 1)
+2-th state with excitation energy = 0.0053, S^2 = 0.036 Norms: 0.58@(9, 1), 0.20@(9, 2)
+3-th state with excitation energy = 0.1694, S^2 = 0.153 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4435606493558  <S^2> = 2.0034494  2S+1 = 3.0022987
+50
+1-th state with excitation energy = -0.0015, S^2 = 0.025 Norms: 0.39@(9, 1), 0.29@(8, 1)
+2-th state with excitation energy = 0.0048, S^2 = 0.037 Norms: 0.60@(9, 1), 0.19@(9, 2)
+3-th state with excitation energy = 0.1693, S^2 = 0.153 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4435578107909  <S^2> = 2.0034483  2S+1 = 3.002298
+50
+1-th state with excitation energy = -0.0010, S^2 = 0.024 Norms: 0.35@(9, 1), 0.30@(8, 1)
+2-th state with excitation energy = 0.0044, S^2 = 0.038 Norms: 0.64@(9, 1), 0.17@(9, 2)
+3-th state with excitation energy = 0.1692, S^2 = 0.153 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4435536821128  <S^2> = 2.0034473  2S+1 = 3.0022973
+50
+1-th state with excitation energy = -0.0005, S^2 = 0.022 Norms: 0.32@(8, 1), 0.32@(9, 2)
+2-th state with excitation energy = 0.0040, S^2 = 0.039 Norms: 0.68@(9, 1), 0.15@(9, 2)
+3-th state with excitation energy = 0.1691, S^2 = 0.153 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.44354826234  <S^2> = 2.0034464  2S+1 = 3.0022967
+50
+1-th state with excitation energy = -0.0001, S^2 = 0.020 Norms: 0.35@(8, 1), 0.35@(9, 2)
+2-th state with excitation energy = 0.0037, S^2 = 0.041 Norms: 0.74@(9, 1), 0.12@(9, 2)
+3-th state with excitation energy = 0.1690, S^2 = 0.153 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4435415505052  <S^2> = 2.0034454  2S+1 = 3.0022961
+50
+1-th state with excitation energy = 0.0003, S^2 = 0.018 Norms: 0.39@(9, 2), 0.39@(8, 1)
+2-th state with excitation energy = 0.0033, S^2 = 0.044 Norms: 0.82@(9, 1), 0.08@(9, 2)
+3-th state with excitation energy = 0.1690, S^2 = 0.153 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.443533545642  <S^2> = 2.0034445  2S+1 = 3.0022954
+50
+1-th state with excitation energy = 0.0006, S^2 = 0.015 Norms: 0.43@(9, 2), 0.43@(8, 1)
+2-th state with excitation energy = 0.0031, S^2 = 0.047 Norms: 0.91@(9, 1), 0.04@(9, 2)
+3-th state with excitation energy = 0.1689, S^2 = 0.154 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4435242467916  <S^2> = 2.0034436  2S+1 = 3.0022948
+50
+1-th state with excitation energy = 0.0008, S^2 = 0.012 Norms: 0.47@(9, 2), 0.46@(8, 1)
+2-th state with excitation energy = 0.0030, S^2 = 0.050 Norms: 0.98@(9, 1), 0.00@(9, 2)
+3-th state with excitation energy = 0.1688, S^2 = 0.154 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4435136529993  <S^2> = 2.0034427  2S+1 = 3.0022942
+50
+1-th state with excitation energy = 0.0007, S^2 = 0.012 Norms: 0.46@(9, 2), 0.46@(8, 1)
+2-th state with excitation energy = 0.0031, S^2 = 0.049 Norms: 0.97@(9, 1), 0.01@(8, 1)
+3-th state with excitation energy = 0.1687, S^2 = 0.155 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4435017633128  <S^2> = 2.0034418  2S+1 = 3.0022937
+50
+1-th state with excitation energy = 0.0005, S^2 = 0.015 Norms: 0.43@(9, 2), 0.43@(8, 1)
+2-th state with excitation energy = 0.0034, S^2 = 0.047 Norms: 0.90@(9, 1), 0.04@(9, 2)
+3-th state with excitation energy = 0.1686, S^2 = 0.156 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4434885767828  <S^2> = 2.003441  2S+1 = 3.0022931
+50
+1-th state with excitation energy = 0.0002, S^2 = 0.017 Norms: 0.39@(9, 2), 0.39@(8, 1)
+2-th state with excitation energy = 0.0037, S^2 = 0.045 Norms: 0.83@(9, 1), 0.08@(9, 2)
+3-th state with excitation energy = 0.1685, S^2 = 0.156 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4434740924667  <S^2> = 2.0034402  2S+1 = 3.0022926
+50
+1-th state with excitation energy = -0.0001, S^2 = 0.019 Norms: 0.36@(8, 1), 0.36@(9, 2)
+2-th state with excitation energy = 0.0042, S^2 = 0.043 Norms: 0.77@(9, 1), 0.11@(9, 2)
+3-th state with excitation energy = 0.1685, S^2 = 0.157 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4434583094272  <S^2> = 2.0034394  2S+1 = 3.002292
+50
+1-th state with excitation energy = -0.0005, S^2 = 0.020 Norms: 0.34@(8, 1), 0.34@(9, 2)
+2-th state with excitation energy = 0.0046, S^2 = 0.041 Norms: 0.72@(9, 1), 0.13@(9, 2)
+3-th state with excitation energy = 0.1684, S^2 = 0.159 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4434412267424  <S^2> = 2.0034386  2S+1 = 3.0022915
+50
+1-th state with excitation energy = -0.0009, S^2 = 0.021 Norms: 0.33@(8, 1), 0.32@(9, 2)
+2-th state with excitation energy = 0.0051, S^2 = 0.041 Norms: 0.69@(9, 1), 0.15@(9, 2)
+3-th state with excitation energy = 0.1683, S^2 = 0.160 Norms: 0.91@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4434228435092  <S^2> = 2.0034378  2S+1 = 3.002291
+50
+1-th state with excitation energy = -0.0014, S^2 = 0.022 Norms: 0.33@(9, 1), 0.31@(8, 1)
+2-th state with excitation energy = 0.0056, S^2 = 0.040 Norms: 0.66@(9, 1), 0.16@(9, 2)
+3-th state with excitation energy = 0.1682, S^2 = 0.161 Norms: 0.91@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4434031588426  <S^2> = 2.0034371  2S+1 = 3.0022905
+50
+1-th state with excitation energy = -0.0018, S^2 = 0.023 Norms: 0.35@(9, 1), 0.30@(8, 1)
+2-th state with excitation energy = 0.0060, S^2 = 0.039 Norms: 0.64@(9, 1), 0.17@(9, 2)
+3-th state with excitation energy = 0.1682, S^2 = 0.163 Norms: 0.91@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4433821718849  <S^2> = 2.0034364  2S+1 = 3.0022901
+50
+1-th state with excitation energy = -0.0022, S^2 = 0.023 Norms: 0.37@(9, 1), 0.29@(8, 1)
+2-th state with excitation energy = 0.0065, S^2 = 0.039 Norms: 0.62@(9, 1), 0.18@(9, 2)
+3-th state with excitation energy = 0.1681, S^2 = 0.164 Norms: 0.91@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4439030043626  <S^2> = 2.0034496  2S+1 = 3.0022989
+50
+1-th state with excitation energy = -0.0040, S^2 = 0.026 Norms: 0.47@(9, 1), 0.25@(8, 1)
+2-th state with excitation energy = 0.0073, S^2 = 0.036 Norms: 0.52@(9, 1), 0.23@(9, 2)
+3-th state with excitation energy = 0.1695, S^2 = 0.151 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4439072751066  <S^2> = 2.0034485  2S+1 = 3.0022981
+50
+1-th state with excitation energy = -0.0035, S^2 = 0.026 Norms: 0.46@(9, 1), 0.26@(8, 1)
+2-th state with excitation energy = 0.0069, S^2 = 0.036 Norms: 0.54@(9, 1), 0.22@(9, 2)
+3-th state with excitation energy = 0.1694, S^2 = 0.151 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4439102617112  <S^2> = 2.0034474  2S+1 = 3.0022974
+50
+1-th state with excitation energy = -0.0030, S^2 = 0.025 Norms: 0.44@(9, 1), 0.26@(8, 1)
+2-th state with excitation energy = 0.0065, S^2 = 0.036 Norms: 0.55@(9, 1), 0.22@(9, 2)
+3-th state with excitation energy = 0.1693, S^2 = 0.150 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4439119629349  <S^2> = 2.0034463  2S+1 = 3.0022967
+50
+1-th state with excitation energy = -0.0025, S^2 = 0.025 Norms: 0.42@(9, 1), 0.27@(8, 1)
+2-th state with excitation energy = 0.0061, S^2 = 0.037 Norms: 0.57@(9, 1), 0.21@(9, 2)
+3-th state with excitation energy = 0.1692, S^2 = 0.150 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4439123775948  <S^2> = 2.0034453  2S+1 = 3.002296
+50
+1-th state with excitation energy = -0.0020, S^2 = 0.024 Norms: 0.39@(9, 1), 0.28@(8, 1)
+2-th state with excitation energy = 0.0057, S^2 = 0.037 Norms: 0.60@(9, 1), 0.19@(9, 2)
+3-th state with excitation energy = 0.1691, S^2 = 0.150 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4439115045634  <S^2> = 2.0034442  2S+1 = 3.0022953
+50
+1-th state with excitation energy = -0.0015, S^2 = 0.024 Norms: 0.37@(9, 1), 0.30@(8, 1)
+2-th state with excitation energy = 0.0052, S^2 = 0.038 Norms: 0.62@(9, 1), 0.18@(9, 2)
+3-th state with excitation energy = 0.1690, S^2 = 0.150 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4439093427443  <S^2> = 2.0034432  2S+1 = 3.0022946
+50
+1-th state with excitation energy = -0.0011, S^2 = 0.023 Norms: 0.33@(9, 1), 0.31@(8, 1)
+2-th state with excitation energy = 0.0048, S^2 = 0.039 Norms: 0.66@(9, 1), 0.16@(9, 2)
+3-th state with excitation energy = 0.1690, S^2 = 0.150 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4439058910689  <S^2> = 2.0034422  2S+1 = 3.002294
+50
+1-th state with excitation energy = -0.0006, S^2 = 0.021 Norms: 0.33@(8, 1), 0.33@(9, 2)
+2-th state with excitation energy = 0.0045, S^2 = 0.040 Norms: 0.70@(9, 1), 0.14@(9, 2)
+3-th state with excitation energy = 0.1689, S^2 = 0.150 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4439011484976  <S^2> = 2.0034413  2S+1 = 3.0022933
+50
+1-th state with excitation energy = -0.0002, S^2 = 0.020 Norms: 0.36@(8, 1), 0.36@(9, 2)
+2-th state with excitation energy = 0.0041, S^2 = 0.042 Norms: 0.76@(9, 1), 0.11@(9, 2)
+3-th state with excitation energy = 0.1688, S^2 = 0.150 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4438951140042  <S^2> = 2.0034403  2S+1 = 3.0022927
+50
+1-th state with excitation energy = 0.0002, S^2 = 0.017 Norms: 0.39@(9, 2), 0.39@(8, 1)
+2-th state with excitation energy = 0.0038, S^2 = 0.044 Norms: 0.83@(9, 1), 0.08@(9, 2)
+3-th state with excitation energy = 0.1687, S^2 = 0.150 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4438877865697  <S^2> = 2.0034394  2S+1 = 3.0022921
+50
+1-th state with excitation energy = 0.0005, S^2 = 0.015 Norms: 0.43@(9, 2), 0.43@(8, 1)
+2-th state with excitation energy = 0.0035, S^2 = 0.047 Norms: 0.91@(9, 1), 0.04@(9, 2)
+3-th state with excitation energy = 0.1686, S^2 = 0.151 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4438791651855  <S^2> = 2.0034385  2S+1 = 3.0022915
+50
+1-th state with excitation energy = 0.0007, S^2 = 0.012 Norms: 0.46@(9, 2), 0.46@(8, 1)
+2-th state with excitation energy = 0.0034, S^2 = 0.049 Norms: 0.98@(9, 1), 0.01@(9, 2)
+3-th state with excitation energy = 0.1685, S^2 = 0.151 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4438692488532  <S^2> = 2.0034377  2S+1 = 3.0022909
+50
+1-th state with excitation energy = 0.0007, S^2 = 0.012 Norms: 0.47@(9, 2), 0.47@(8, 1)
+2-th state with excitation energy = 0.0035, S^2 = 0.050 Norms: 0.99@(9, 1), 0.00@(6, 1)
+3-th state with excitation energy = 0.1684, S^2 = 0.152 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4438580365847  <S^2> = 2.0034368  2S+1 = 3.0022903
+50
+1-th state with excitation energy = 0.0006, S^2 = 0.013 Norms: 0.45@(9, 2), 0.44@(8, 1)
+2-th state with excitation energy = 0.0037, S^2 = 0.049 Norms: 0.94@(9, 1), 0.02@(8, 1)
+3-th state with excitation energy = 0.1684, S^2 = 0.153 Norms: 0.92@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4438455273984  <S^2> = 2.003436  2S+1 = 3.0022898
+50
+1-th state with excitation energy = 0.0004, S^2 = 0.015 Norms: 0.42@(9, 2), 0.41@(8, 1)
+2-th state with excitation energy = 0.0040, S^2 = 0.046 Norms: 0.88@(9, 1), 0.05@(9, 2)
+3-th state with excitation energy = 0.1683, S^2 = 0.154 Norms: 0.92@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4438317203304  <S^2> = 2.0034352  2S+1 = 3.0022893
+50
+1-th state with excitation energy = 0.0000, S^2 = 0.018 Norms: 0.39@(9, 2), 0.38@(8, 1)
+2-th state with excitation energy = 0.0043, S^2 = 0.045 Norms: 0.82@(9, 1), 0.08@(9, 2)
+3-th state with excitation energy = 0.1682, S^2 = 0.155 Norms: 0.92@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4438166144305  <S^2> = 2.0034344  2S+1 = 3.0022887
+50
+1-th state with excitation energy = -0.0003, S^2 = 0.019 Norms: 0.36@(8, 1), 0.36@(9, 2)
+2-th state with excitation energy = 0.0048, S^2 = 0.043 Norms: 0.77@(9, 1), 0.11@(9, 2)
+3-th state with excitation energy = 0.1681, S^2 = 0.156 Norms: 0.92@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4438002087652  <S^2> = 2.0034337  2S+1 = 3.0022882
+50
+1-th state with excitation energy = -0.0007, S^2 = 0.020 Norms: 0.34@(8, 1), 0.34@(9, 2)
+2-th state with excitation energy = 0.0052, S^2 = 0.042 Norms: 0.73@(9, 1), 0.13@(9, 2)
+3-th state with excitation energy = 0.1681, S^2 = 0.157 Norms: 0.92@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4437825024301  <S^2> = 2.0034329  2S+1 = 3.0022878
+50
+1-th state with excitation energy = -0.0011, S^2 = 0.021 Norms: 0.33@(8, 1), 0.33@(9, 2)
+2-th state with excitation energy = 0.0057, S^2 = 0.041 Norms: 0.69@(9, 1), 0.14@(9, 2)
+3-th state with excitation energy = 0.1680, S^2 = 0.159 Norms: 0.91@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4437634945496  <S^2> = 2.0034322  2S+1 = 3.0022873
+50
+1-th state with excitation energy = -0.0016, S^2 = 0.022 Norms: 0.32@(9, 1), 0.32@(8, 1)
+2-th state with excitation energy = 0.0062, S^2 = 0.040 Norms: 0.67@(9, 1), 0.16@(9, 2)
+3-th state with excitation energy = 0.1679, S^2 = 0.160 Norms: 0.91@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4437431842775  <S^2> = 2.0034315  2S+1 = 3.0022868
+50
+1-th state with excitation energy = -0.0020, S^2 = 0.022 Norms: 0.35@(9, 1), 0.31@(8, 1)
+2-th state with excitation energy = 0.0066, S^2 = 0.040 Norms: 0.64@(9, 1), 0.17@(9, 2)
+3-th state with excitation energy = 0.1678, S^2 = 0.162 Norms: 0.91@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4442452386642  <S^2> = 2.0034446  2S+1 = 3.0022955
+50
+1-th state with excitation energy = -0.0040, S^2 = 0.025 Norms: 0.46@(9, 1), 0.26@(8, 1)
+2-th state with excitation energy = 0.0077, S^2 = 0.036 Norms: 0.53@(9, 1), 0.23@(9, 2)
+3-th state with excitation energy = 0.1692, S^2 = 0.148 Norms: 0.92@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4442501821515  <S^2> = 2.0034435  2S+1 = 3.0022948
+50
+1-th state with excitation energy = -0.0035, S^2 = 0.025 Norms: 0.44@(9, 1), 0.26@(8, 1)
+2-th state with excitation energy = 0.0073, S^2 = 0.037 Norms: 0.55@(9, 1), 0.22@(9, 2)
+3-th state with excitation energy = 0.1691, S^2 = 0.147 Norms: 0.93@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4442538420104  <S^2> = 2.0034424  2S+1 = 3.0022941
+50
+1-th state with excitation energy = -0.0030, S^2 = 0.025 Norms: 0.42@(9, 1), 0.27@(8, 1)
+2-th state with excitation energy = 0.0069, S^2 = 0.037 Norms: 0.57@(9, 1), 0.21@(9, 2)
+3-th state with excitation energy = 0.1691, S^2 = 0.147 Norms: 0.93@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4442562169489  <S^2> = 2.0034413  2S+1 = 3.0022933
+50
+1-th state with excitation energy = -0.0025, S^2 = 0.024 Norms: 0.40@(9, 1), 0.28@(8, 1)
+2-th state with excitation energy = 0.0065, S^2 = 0.037 Norms: 0.59@(9, 1), 0.20@(9, 2)
+3-th state with excitation energy = 0.1690, S^2 = 0.147 Norms: 0.93@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4442573057303  <S^2> = 2.0034403  2S+1 = 3.0022927
+50
+1-th state with excitation energy = -0.0020, S^2 = 0.024 Norms: 0.38@(9, 1), 0.29@(8, 1)
+2-th state with excitation energy = 0.0061, S^2 = 0.038 Norms: 0.61@(9, 1), 0.19@(9, 2)
+3-th state with excitation energy = 0.1689, S^2 = 0.147 Norms: 0.93@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4442571071681  <S^2> = 2.0034393  2S+1 = 3.002292
+50
+1-th state with excitation energy = -0.0016, S^2 = 0.023 Norms: 0.35@(9, 1), 0.31@(8, 1)
+2-th state with excitation energy = 0.0057, S^2 = 0.039 Norms: 0.64@(9, 1), 0.17@(9, 2)
+3-th state with excitation energy = 0.1688, S^2 = 0.147 Norms: 0.93@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4442556201069  <S^2> = 2.0034383  2S+1 = 3.0022913
+50
+1-th state with excitation energy = -0.0011, S^2 = 0.022 Norms: 0.32@(8, 1), 0.32@(9, 2)
+2-th state with excitation energy = 0.0053, S^2 = 0.040 Norms: 0.68@(9, 1), 0.15@(9, 2)
+3-th state with excitation energy = 0.1687, S^2 = 0.147 Norms: 0.93@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4442528434251  <S^2> = 2.0034373  2S+1 = 3.0022907
+50
+1-th state with excitation energy = -0.0007, S^2 = 0.021 Norms: 0.34@(8, 1), 0.34@(9, 2)
+2-th state with excitation energy = 0.0049, S^2 = 0.041 Norms: 0.72@(9, 1), 0.13@(9, 2)
+3-th state with excitation energy = 0.1686, S^2 = 0.147 Norms: 0.93@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4442487760226  <S^2> = 2.0034364  2S+1 = 3.0022901
+50
+1-th state with excitation energy = -0.0002, S^2 = 0.019 Norms: 0.37@(8, 1), 0.36@(9, 2)
+2-th state with excitation energy = 0.0045, S^2 = 0.043 Norms: 0.77@(9, 1), 0.11@(9, 2)
+3-th state with excitation energy = 0.1685, S^2 = 0.148 Norms: 0.93@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4442434168256  <S^2> = 2.0034355  2S+1 = 3.0022894
+50
+1-th state with excitation energy = 0.0001, S^2 = 0.017 Norms: 0.40@(9, 2), 0.39@(8, 1)
+2-th state with excitation energy = 0.0042, S^2 = 0.045 Norms: 0.84@(9, 1), 0.08@(9, 2)
+3-th state with excitation energy = 0.1684, S^2 = 0.148 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4442367647593  <S^2> = 2.0034346  2S+1 = 3.0022888
+50
+1-th state with excitation energy = 0.0004, S^2 = 0.015 Norms: 0.43@(9, 2), 0.43@(8, 1)
+2-th state with excitation energy = 0.0040, S^2 = 0.047 Norms: 0.91@(9, 1), 0.04@(9, 2)
+3-th state with excitation energy = 0.1683, S^2 = 0.149 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4442288187777  <S^2> = 2.0034337  2S+1 = 3.0022883
+50
+1-th state with excitation energy = 0.0007, S^2 = 0.013 Norms: 0.46@(9, 2), 0.46@(8, 1)
+2-th state with excitation energy = 0.0038, S^2 = 0.049 Norms: 0.97@(9, 1), 0.01@(9, 2)
+3-th state with excitation energy = 0.1683, S^2 = 0.149 Norms: 0.92@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4442195778414  <S^2> = 2.0034329  2S+1 = 3.0022877
+50
+1-th state with excitation energy = 0.0007, S^2 = 0.012 Norms: 0.47@(9, 2), 0.47@(8, 1)
+2-th state with excitation energy = 0.0038, S^2 = 0.050 Norms: 0.99@(9, 1), 0.00@(6, 1)
+3-th state with excitation energy = 0.1682, S^2 = 0.150 Norms: 0.92@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4442090409286  <S^2> = 2.003432  2S+1 = 3.0022871
+50
+1-th state with excitation energy = 0.0007, S^2 = 0.012 Norms: 0.46@(9, 2), 0.46@(8, 1)
+2-th state with excitation energy = 0.0040, S^2 = 0.050 Norms: 0.97@(9, 1), 0.01@(8, 1)
+3-th state with excitation energy = 0.1681, S^2 = 0.151 Norms: 0.92@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.444197207033  <S^2> = 2.0034312  2S+1 = 3.0022866
+50
+1-th state with excitation energy = 0.0005, S^2 = 0.014 Norms: 0.44@(9, 2), 0.43@(8, 1)
+2-th state with excitation energy = 0.0042, S^2 = 0.048 Norms: 0.92@(9, 1), 0.04@(9, 2)
+3-th state with excitation energy = 0.1680, S^2 = 0.152 Norms: 0.92@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4441840751684  <S^2> = 2.0034304  2S+1 = 3.0022861
+50
+1-th state with excitation energy = 0.0002, S^2 = 0.016 Norms: 0.41@(9, 2), 0.40@(8, 1)
+2-th state with excitation energy = 0.0046, S^2 = 0.046 Norms: 0.86@(9, 1), 0.06@(9, 2)
+3-th state with excitation energy = 0.1679, S^2 = 0.153 Norms: 0.92@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4441696443715  <S^2> = 2.0034297  2S+1 = 3.0022856
+50
+1-th state with excitation energy = -0.0002, S^2 = 0.018 Norms: 0.38@(8, 1), 0.38@(9, 2)
+2-th state with excitation energy = 0.0050, S^2 = 0.044 Norms: 0.81@(9, 1), 0.09@(9, 2)
+3-th state with excitation energy = 0.1679, S^2 = 0.154 Norms: 0.92@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4441539137068  <S^2> = 2.0034289  2S+1 = 3.0022851
+50
+1-th state with excitation energy = -0.0005, S^2 = 0.019 Norms: 0.36@(8, 1), 0.36@(9, 2)
+2-th state with excitation energy = 0.0054, S^2 = 0.043 Norms: 0.77@(9, 1), 0.11@(9, 2)
+3-th state with excitation energy = 0.1678, S^2 = 0.155 Norms: 0.92@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.444136882268  <S^2> = 2.0034282  2S+1 = 3.0022846
+50
+1-th state with excitation energy = -0.0009, S^2 = 0.020 Norms: 0.35@(8, 1), 0.34@(9, 2)
+2-th state with excitation energy = 0.0058, S^2 = 0.042 Norms: 0.73@(9, 1), 0.13@(9, 2)
+3-th state with excitation energy = 0.1677, S^2 = 0.157 Norms: 0.92@(8, 2), 0.02@(9, 3)
+converged SCF energy = -78.4441185491829  <S^2> = 2.0034275  2S+1 = 3.0022841
+50
+1-th state with excitation energy = -0.0013, S^2 = 0.021 Norms: 0.33@(8, 1), 0.33@(9, 2)
+2-th state with excitation energy = 0.0063, S^2 = 0.041 Norms: 0.70@(9, 1), 0.14@(9, 2)
+3-th state with excitation energy = 0.1677, S^2 = 0.158 Norms: 0.92@(8, 2), 0.02@(9, 3)
+converged SCF energy = -78.4440989136199  <S^2> = 2.0034269  2S+1 = 3.0022837
+50
+1-th state with excitation energy = -0.0017, S^2 = 0.021 Norms: 0.32@(8, 1), 0.32@(9, 1)
+2-th state with excitation energy = 0.0068, S^2 = 0.041 Norms: 0.67@(9, 1), 0.16@(9, 2)
+3-th state with excitation energy = 0.1676, S^2 = 0.160 Norms: 0.91@(8, 2), 0.02@(9, 3)
+converged SCF energy = -78.4445822281205  <S^2> = 2.0034397  2S+1 = 3.0022923
+50
+1-th state with excitation energy = -0.0040, S^2 = 0.025 Norms: 0.44@(9, 1), 0.26@(8, 1)
+2-th state with excitation energy = 0.0081, S^2 = 0.037 Norms: 0.55@(9, 1), 0.22@(9, 2)
+3-th state with excitation energy = 0.1690, S^2 = 0.145 Norms: 0.93@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4445878426986  <S^2> = 2.0034387  2S+1 = 3.0022916
+50
+1-th state with excitation energy = -0.0035, S^2 = 0.024 Norms: 0.43@(9, 1), 0.27@(8, 1)
+2-th state with excitation energy = 0.0077, S^2 = 0.037 Norms: 0.56@(9, 1), 0.21@(9, 2)
+3-th state with excitation energy = 0.1689, S^2 = 0.145 Norms: 0.93@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.444592174105  <S^2> = 2.0034376  2S+1 = 3.0022909
+50
+1-th state with excitation energy = -0.0031, S^2 = 0.024 Norms: 0.41@(9, 1), 0.28@(8, 1)
+2-th state with excitation energy = 0.0073, S^2 = 0.038 Norms: 0.58@(9, 1), 0.20@(9, 2)
+3-th state with excitation energy = 0.1688, S^2 = 0.145 Norms: 0.93@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4445952210097  <S^2> = 2.0034366  2S+1 = 3.0022902
+50
+1-th state with excitation energy = -0.0026, S^2 = 0.024 Norms: 0.39@(9, 1), 0.29@(8, 1)
+2-th state with excitation energy = 0.0069, S^2 = 0.038 Norms: 0.60@(9, 1), 0.19@(9, 2)
+3-th state with excitation energy = 0.1687, S^2 = 0.145 Norms: 0.93@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4445969821165  <S^2> = 2.0034355  2S+1 = 3.0022895
+50
+1-th state with excitation energy = -0.0021, S^2 = 0.023 Norms: 0.36@(9, 1), 0.30@(8, 1)
+2-th state with excitation energy = 0.0065, S^2 = 0.039 Norms: 0.63@(9, 1), 0.18@(9, 2)
+3-th state with excitation energy = 0.1686, S^2 = 0.145 Norms: 0.93@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4445974561877  <S^2> = 2.0034345  2S+1 = 3.0022888
+50
+1-th state with excitation energy = -0.0016, S^2 = 0.022 Norms: 0.33@(9, 1), 0.31@(8, 1)
+2-th state with excitation energy = 0.0061, S^2 = 0.040 Norms: 0.66@(9, 1), 0.16@(9, 2)
+3-th state with excitation energy = 0.1685, S^2 = 0.145 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4445966420169  <S^2> = 2.0034336  2S+1 = 3.0022882
+50
+1-th state with excitation energy = -0.0012, S^2 = 0.021 Norms: 0.33@(8, 1), 0.32@(9, 2)
+2-th state with excitation energy = 0.0057, S^2 = 0.040 Norms: 0.69@(9, 1), 0.15@(9, 2)
+3-th state with excitation energy = 0.1684, S^2 = 0.145 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4445945384297  <S^2> = 2.0034326  2S+1 = 3.0022875
+50
+1-th state with excitation energy = -0.0007, S^2 = 0.020 Norms: 0.35@(8, 1), 0.35@(9, 2)
+2-th state with excitation energy = 0.0053, S^2 = 0.042 Norms: 0.73@(9, 1), 0.13@(9, 2)
+3-th state with excitation energy = 0.1683, S^2 = 0.145 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4445911442789  <S^2> = 2.0034317  2S+1 = 3.0022869
+50
+1-th state with excitation energy = -0.0003, S^2 = 0.019 Norms: 0.37@(8, 1), 0.37@(9, 2)
+2-th state with excitation energy = 0.0050, S^2 = 0.043 Norms: 0.78@(9, 1), 0.10@(9, 2)
+3-th state with excitation energy = 0.1682, S^2 = 0.146 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4445864584374  <S^2> = 2.0034308  2S+1 = 3.0022863
+50
+1-th state with excitation energy = 0.0001, S^2 = 0.017 Norms: 0.40@(9, 2), 0.39@(8, 1)
+2-th state with excitation energy = 0.0047, S^2 = 0.045 Norms: 0.84@(9, 1), 0.07@(9, 2)
+3-th state with excitation energy = 0.1682, S^2 = 0.146 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.444580479789  <S^2> = 2.0034299  2S+1 = 3.0022857
+50
+1-th state with excitation energy = 0.0004, S^2 = 0.015 Norms: 0.43@(9, 2), 0.43@(8, 1)
+2-th state with excitation energy = 0.0044, S^2 = 0.047 Norms: 0.90@(9, 1), 0.04@(9, 2)
+3-th state with excitation energy = 0.1681, S^2 = 0.147 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4445732072501  <S^2> = 2.0034291  2S+1 = 3.0022852
+50
+1-th state with excitation energy = 0.0006, S^2 = 0.013 Norms: 0.46@(9, 2), 0.45@(8, 1)
+2-th state with excitation energy = 0.0043, S^2 = 0.049 Norms: 0.96@(9, 1), 0.02@(9, 2)
+3-th state with excitation energy = 0.1680, S^2 = 0.148 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4445646397465  <S^2> = 2.0034282  2S+1 = 3.0022846
+50
+1-th state with excitation energy = 0.0007, S^2 = 0.012 Norms: 0.47@(9, 2), 0.47@(8, 1)
+2-th state with excitation energy = 0.0042, S^2 = 0.050 Norms: 0.99@(9, 1), 0.00@(6, 1)
+3-th state with excitation energy = 0.1679, S^2 = 0.149 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4445547762252  <S^2> = 2.0034274  2S+1 = 3.0022841
+50
+1-th state with excitation energy = 0.0007, S^2 = 0.012 Norms: 0.47@(9, 2), 0.46@(8, 1)
+2-th state with excitation energy = 0.0043, S^2 = 0.050 Norms: 0.98@(9, 1), 0.00@(8, 1)
+3-th state with excitation energy = 0.1678, S^2 = 0.150 Norms: 0.92@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.444543615661  <S^2> = 2.0034266  2S+1 = 3.0022835
+50
+1-th state with excitation energy = 0.0005, S^2 = 0.013 Norms: 0.45@(9, 2), 0.45@(8, 1)
+2-th state with excitation energy = 0.0045, S^2 = 0.049 Norms: 0.95@(9, 1), 0.02@(9, 2)
+3-th state with excitation energy = 0.1678, S^2 = 0.151 Norms: 0.92@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.444531157053  <S^2> = 2.0034259  2S+1 = 3.002283
+50
+1-th state with excitation energy = 0.0003, S^2 = 0.015 Norms: 0.43@(9, 2), 0.42@(8, 1)
+2-th state with excitation energy = 0.0048, S^2 = 0.047 Norms: 0.90@(9, 1), 0.05@(9, 2)
+3-th state with excitation energy = 0.1677, S^2 = 0.152 Norms: 0.92@(8, 2), 0.02@(9, 3)
+converged SCF energy = -78.4445173994241  <S^2> = 2.0034251  2S+1 = 3.0022825
+50
+1-th state with excitation energy = -0.0000, S^2 = 0.019 Norms: 0.43@(8, 1), 0.37@(9, 2)
+2-th state with excitation energy = 0.0052, S^2 = 0.046 Norms: 0.85@(9, 1), 0.07@(9, 2)
+3-th state with excitation energy = 0.1676, S^2 = 0.153 Norms: 0.92@(8, 2), 0.02@(9, 3)
+converged SCF energy = -78.444502341832  <S^2> = 2.0034244  2S+1 = 3.0022821
+50
+1-th state with excitation energy = -0.0004, S^2 = 0.018 Norms: 0.38@(8, 1), 0.38@(9, 2)
+2-th state with excitation energy = 0.0056, S^2 = 0.044 Norms: 0.80@(9, 1), 0.09@(9, 2)
+3-th state with excitation energy = 0.1675, S^2 = 0.154 Norms: 0.92@(8, 2), 0.02@(9, 3)
+converged SCF energy = -78.4444859833773  <S^2> = 2.0034237  2S+1 = 3.0022816
+50
+1-th state with excitation energy = -0.0007, S^2 = 0.019 Norms: 0.36@(8, 1), 0.36@(9, 2)
+2-th state with excitation energy = 0.0060, S^2 = 0.043 Norms: 0.76@(9, 1), 0.11@(9, 2)
+3-th state with excitation energy = 0.1675, S^2 = 0.155 Norms: 0.92@(8, 2), 0.02@(9, 3)
+converged SCF energy = -78.4444683231953  <S^2> = 2.003423  2S+1 = 3.0022811
+50
+1-th state with excitation energy = -0.0011, S^2 = 0.020 Norms: 0.35@(8, 1), 0.34@(9, 2)
+2-th state with excitation energy = 0.0064, S^2 = 0.043 Norms: 0.73@(9, 1), 0.13@(9, 2)
+3-th state with excitation energy = 0.1674, S^2 = 0.157 Norms: 0.92@(8, 2), 0.03@(9, 3)
+converged SCF energy = -78.4444493604639  <S^2> = 2.0034223  2S+1 = 3.0022807
+50
+1-th state with excitation energy = -0.0015, S^2 = 0.020 Norms: 0.33@(8, 1), 0.33@(9, 2)
+2-th state with excitation energy = 0.0069, S^2 = 0.042 Norms: 0.70@(9, 1), 0.14@(9, 2)
+3-th state with excitation energy = 0.1673, S^2 = 0.158 Norms: 0.91@(8, 2), 0.03@(9, 3)
+converged SCF energy = -78.4449139719188  <S^2> = 2.0034351  2S+1 = 3.0022892
+50
+1-th state with excitation energy = -0.0041, S^2 = 0.024 Norms: 0.43@(9, 1), 0.27@(8, 1)
+2-th state with excitation energy = 0.0085, S^2 = 0.038 Norms: 0.56@(9, 1), 0.21@(9, 2)
+3-th state with excitation energy = 0.1687, S^2 = 0.143 Norms: 0.93@(8, 2), 0.03@(9, 4)
+converged SCF energy = -78.4449202560583  <S^2> = 2.003434  2S+1 = 3.0022885
+50
+1-th state with excitation energy = -0.0036, S^2 = 0.024 Norms: 0.42@(9, 1), 0.28@(8, 1)
+2-th state with excitation energy = 0.0081, S^2 = 0.038 Norms: 0.58@(9, 1), 0.21@(9, 2)
+3-th state with excitation energy = 0.1686, S^2 = 0.143 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4449252574381  <S^2> = 2.003433  2S+1 = 3.0022878
+50
+1-th state with excitation energy = -0.0031, S^2 = 0.023 Norms: 0.40@(9, 1), 0.28@(8, 1)
+2-th state with excitation energy = 0.0077, S^2 = 0.038 Norms: 0.59@(9, 1), 0.20@(9, 2)
+3-th state with excitation energy = 0.1685, S^2 = 0.143 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4449289746764  <S^2> = 2.003432  2S+1 = 3.0022871
+50
+1-th state with excitation energy = -0.0026, S^2 = 0.023 Norms: 0.37@(9, 1), 0.29@(8, 1)
+2-th state with excitation energy = 0.0073, S^2 = 0.039 Norms: 0.62@(9, 1), 0.18@(9, 2)
+3-th state with excitation energy = 0.1684, S^2 = 0.143 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4449314064339  <S^2> = 2.003431  2S+1 = 3.0022864
+50
+1-th state with excitation energy = -0.0021, S^2 = 0.022 Norms: 0.35@(9, 1), 0.31@(8, 1)
+2-th state with excitation energy = 0.0069, S^2 = 0.039 Norms: 0.64@(9, 1), 0.17@(9, 2)
+3-th state with excitation energy = 0.1683, S^2 = 0.143 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4449325514265  <S^2> = 2.00343  2S+1 = 3.0022858
+50
+1-th state with excitation energy = -0.0017, S^2 = 0.022 Norms: 0.32@(9, 1), 0.32@(8, 1)
+2-th state with excitation energy = 0.0065, S^2 = 0.040 Norms: 0.67@(9, 1), 0.16@(9, 2)
+3-th state with excitation energy = 0.1682, S^2 = 0.143 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4449324083946  <S^2> = 2.003429  2S+1 = 3.0022852
+50
+1-th state with excitation energy = -0.0012, S^2 = 0.021 Norms: 0.34@(8, 1), 0.33@(9, 2)
+2-th state with excitation energy = 0.0061, S^2 = 0.041 Norms: 0.70@(9, 1), 0.14@(9, 2)
+3-th state with excitation energy = 0.1681, S^2 = 0.144 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4449309761203  <S^2> = 2.0034281  2S+1 = 3.0022845
+50
+1-th state with excitation energy = -0.0008, S^2 = 0.020 Norms: 0.35@(8, 1), 0.35@(9, 2)
+2-th state with excitation energy = 0.0057, S^2 = 0.042 Norms: 0.74@(9, 1), 0.12@(9, 2)
+3-th state with excitation energy = 0.1680, S^2 = 0.144 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4449282534099  <S^2> = 2.0034272  2S+1 = 3.0022839
+50
+1-th state with excitation energy = -0.0004, S^2 = 0.018 Norms: 0.37@(8, 1), 0.37@(9, 2)
+2-th state with excitation energy = 0.0054, S^2 = 0.044 Norms: 0.79@(9, 1), 0.10@(9, 2)
+3-th state with excitation energy = 0.1680, S^2 = 0.145 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4449242390909  <S^2> = 2.0034263  2S+1 = 3.0022833
+50
+1-th state with excitation energy = -0.0000, S^2 = 0.017 Norms: 0.41@(8, 1), 0.39@(9, 2)
+2-th state with excitation energy = 0.0051, S^2 = 0.045 Norms: 0.84@(9, 1), 0.07@(9, 2)
+3-th state with excitation energy = 0.1679, S^2 = 0.145 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4449189320173  <S^2> = 2.0034254  2S+1 = 3.0022828
+50
+1-th state with excitation energy = 0.0003, S^2 = 0.015 Norms: 0.43@(9, 2), 0.42@(8, 1)
+2-th state with excitation energy = 0.0049, S^2 = 0.047 Norms: 0.90@(9, 1), 0.05@(9, 2)
+3-th state with excitation energy = 0.1678, S^2 = 0.146 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4449123310649  <S^2> = 2.0034246  2S+1 = 3.0022822
+50
+1-th state with excitation energy = 0.0005, S^2 = 0.013 Norms: 0.45@(9, 2), 0.45@(8, 1)
+2-th state with excitation energy = 0.0047, S^2 = 0.049 Norms: 0.95@(9, 1), 0.02@(9, 2)
+3-th state with excitation energy = 0.1677, S^2 = 0.147 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4449044351337  <S^2> = 2.0034238  2S+1 = 3.0022816
+50
+1-th state with excitation energy = 0.0006, S^2 = 0.012 Norms: 0.47@(9, 2), 0.46@(8, 1)
+2-th state with excitation energy = 0.0046, S^2 = 0.050 Norms: 0.98@(9, 1), 0.00@(9, 2)
+3-th state with excitation energy = 0.1676, S^2 = 0.148 Norms: 0.93@(8, 2), 0.02@(9, 3)
+converged SCF energy = -78.4448952431453  <S^2> = 2.003423  2S+1 = 3.0022811
+50
+1-th state with excitation energy = 0.0007, S^2 = 0.012 Norms: 0.47@(9, 2), 0.47@(8, 1)
+2-th state with excitation energy = 0.0047, S^2 = 0.050 Norms: 0.99@(9, 1), 0.00@(6, 1)
+3-th state with excitation energy = 0.1676, S^2 = 0.149 Norms: 0.93@(8, 2), 0.02@(9, 3)
+converged SCF energy = -78.4448847540563  <S^2> = 2.0034222  2S+1 = 3.0022806
+50
+1-th state with excitation energy = 0.0006, S^2 = 0.012 Norms: 0.46@(9, 2), 0.46@(8, 1)
+2-th state with excitation energy = 0.0048, S^2 = 0.050 Norms: 0.97@(9, 1), 0.01@(8, 1)
+3-th state with excitation energy = 0.1675, S^2 = 0.150 Norms: 0.92@(8, 2), 0.02@(9, 3)
+converged SCF energy = -78.4448729668493  <S^2> = 2.0034214  2S+1 = 3.0022801
+50
+1-th state with excitation energy = 0.0004, S^2 = 0.014 Norms: 0.44@(9, 2), 0.44@(8, 1)
+2-th state with excitation energy = 0.0051, S^2 = 0.048 Norms: 0.93@(9, 1), 0.03@(9, 2)
+3-th state with excitation energy = 0.1674, S^2 = 0.151 Norms: 0.92@(8, 2), 0.02@(9, 3)
+converged SCF energy = -78.444859880544  <S^2> = 2.0034207  2S+1 = 3.0022796
+50
+1-th state with excitation energy = 0.0001, S^2 = 0.015 Norms: 0.42@(9, 2), 0.41@(8, 1)
+2-th state with excitation energy = 0.0054, S^2 = 0.047 Norms: 0.88@(9, 1), 0.05@(9, 2)
+3-th state with excitation energy = 0.1674, S^2 = 0.152 Norms: 0.92@(8, 2), 0.02@(9, 3)
+converged SCF energy = -78.4448454941971  <S^2> = 2.00342  2S+1 = 3.0022791
+50
+1-th state with excitation energy = -0.0002, S^2 = 0.017 Norms: 0.40@(8, 1), 0.39@(9, 2)
+2-th state with excitation energy = 0.0058, S^2 = 0.046 Norms: 0.83@(9, 1), 0.08@(9, 2)
+3-th state with excitation energy = 0.1673, S^2 = 0.153 Norms: 0.92@(8, 2), 0.03@(9, 3)
+converged SCF energy = -78.4448298069097  <S^2> = 2.0034193  2S+1 = 3.0022787
+50
+1-th state with excitation energy = -0.0005, S^2 = 0.018 Norms: 0.38@(8, 1), 0.38@(9, 2)
+2-th state with excitation energy = 0.0062, S^2 = 0.045 Norms: 0.79@(9, 1), 0.10@(9, 2)
+3-th state with excitation energy = 0.1672, S^2 = 0.155 Norms: 0.92@(8, 2), 0.03@(9, 3)
+converged SCF energy = -78.4448128178212  <S^2> = 2.0034186  2S+1 = 3.0022782
+50
+1-th state with excitation energy = -0.0009, S^2 = 0.019 Norms: 0.36@(8, 1), 0.36@(9, 2)
+2-th state with excitation energy = 0.0066, S^2 = 0.044 Norms: 0.76@(9, 1), 0.11@(9, 2)
+3-th state with excitation energy = 0.1672, S^2 = 0.156 Norms: 0.92@(8, 2), 0.03@(9, 3)
+converged SCF energy = -78.4447945261325  <S^2> = 2.003418  2S+1 = 3.0022778
+50
+1-th state with excitation energy = -0.0013, S^2 = 0.020 Norms: 0.35@(8, 1), 0.34@(9, 2)
+2-th state with excitation energy = 0.0070, S^2 = 0.043 Norms: 0.73@(9, 1), 0.13@(9, 2)
+3-th state with excitation energy = 0.1671, S^2 = 0.158 Norms: 0.91@(8, 2), 0.03@(9, 3)
+converged SCF energy = -78.445240469998  <S^2> = 2.0034307  2S+1 = 3.0022862
+50
+1-th state with excitation energy = -0.0041, S^2 = 0.024 Norms: 0.42@(9, 1), 0.27@(8, 1)
+2-th state with excitation energy = 0.0089, S^2 = 0.038 Norms: 0.57@(9, 1), 0.21@(9, 2)
+3-th state with excitation energy = 0.1684, S^2 = 0.141 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4452474223045  <S^2> = 2.0034296  2S+1 = 3.0022855
+50
+1-th state with excitation energy = -0.0036, S^2 = 0.023 Norms: 0.40@(9, 1), 0.28@(8, 1)
+2-th state with excitation energy = 0.0085, S^2 = 0.039 Norms: 0.59@(9, 1), 0.20@(9, 2)
+3-th state with excitation energy = 0.1683, S^2 = 0.141 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4452530922007  <S^2> = 2.0034286  2S+1 = 3.0022848
+50
+1-th state with excitation energy = -0.0031, S^2 = 0.023 Norms: 0.38@(9, 1), 0.29@(8, 1)
+2-th state with excitation energy = 0.0081, S^2 = 0.039 Norms: 0.61@(9, 1), 0.19@(9, 2)
+3-th state with excitation energy = 0.1682, S^2 = 0.142 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4452574782688  <S^2> = 2.0034276  2S+1 = 3.0022842
+50
+1-th state with excitation energy = -0.0027, S^2 = 0.022 Norms: 0.36@(9, 1), 0.30@(8, 1)
+2-th state with excitation energy = 0.0077, S^2 = 0.039 Norms: 0.63@(9, 1), 0.18@(9, 2)
+3-th state with excitation energy = 0.1681, S^2 = 0.142 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4452605791258  <S^2> = 2.0034266  2S+1 = 3.0022835
+50
+1-th state with excitation energy = -0.0022, S^2 = 0.022 Norms: 0.34@(9, 1), 0.31@(8, 1)
+2-th state with excitation energy = 0.0073, S^2 = 0.040 Norms: 0.65@(9, 1), 0.17@(9, 2)
+3-th state with excitation energy = 0.1680, S^2 = 0.142 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4452623934405  <S^2> = 2.0034256  2S+1 = 3.0022829
+50
+1-th state with excitation energy = -0.0017, S^2 = 0.021 Norms: 0.32@(8, 1), 0.32@(9, 2)
+2-th state with excitation energy = 0.0069, S^2 = 0.041 Norms: 0.68@(9, 1), 0.15@(9, 2)
+3-th state with excitation energy = 0.1679, S^2 = 0.142 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4452629199142  <S^2> = 2.0034247  2S+1 = 3.0022822
+50
+1-th state with excitation energy = -0.0013, S^2 = 0.020 Norms: 0.34@(8, 1), 0.34@(9, 2)
+2-th state with excitation energy = 0.0065, S^2 = 0.042 Norms: 0.71@(9, 1), 0.14@(9, 2)
+3-th state with excitation energy = 0.1679, S^2 = 0.143 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4452621572804  <S^2> = 2.0034237  2S+1 = 3.0022816
+50
+1-th state with excitation energy = -0.0009, S^2 = 0.019 Norms: 0.36@(8, 1), 0.35@(9, 2)
+2-th state with excitation energy = 0.0062, S^2 = 0.043 Norms: 0.75@(9, 1), 0.12@(9, 2)
+3-th state with excitation energy = 0.1678, S^2 = 0.143 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4452601043137  <S^2> = 2.0034228  2S+1 = 3.002281
+50
+1-th state with excitation energy = -0.0005, S^2 = 0.018 Norms: 0.38@(8, 1), 0.37@(9, 2)
+2-th state with excitation energy = 0.0059, S^2 = 0.044 Norms: 0.80@(9, 1), 0.10@(9, 2)
+3-th state with excitation energy = 0.1677, S^2 = 0.144 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4452567598021  <S^2> = 2.003422  2S+1 = 3.0022804
+50
+1-th state with excitation energy = -0.0001, S^2 = 0.017 Norms: 0.40@(8, 1), 0.40@(9, 2)
+2-th state with excitation energy = 0.0056, S^2 = 0.046 Norms: 0.84@(9, 1), 0.07@(9, 2)
+3-th state with excitation energy = 0.1676, S^2 = 0.145 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.445252122565  <S^2> = 2.0034211  2S+1 = 3.0022799
+50
+1-th state with excitation energy = 0.0002, S^2 = 0.015 Norms: 0.42@(9, 2), 0.42@(8, 1)
+2-th state with excitation energy = 0.0053, S^2 = 0.047 Norms: 0.89@(9, 1), 0.05@(9, 2)
+3-th state with excitation energy = 0.1675, S^2 = 0.146 Norms: 0.93@(8, 2), 0.02@(9, 3)
+converged SCF energy = -78.4452461914483  <S^2> = 2.0034203  2S+1 = 3.0022793
+50
+1-th state with excitation energy = 0.0004, S^2 = 0.013 Norms: 0.45@(9, 2), 0.44@(8, 1)
+2-th state with excitation energy = 0.0051, S^2 = 0.049 Norms: 0.94@(9, 1), 0.02@(9, 2)
+3-th state with excitation energy = 0.1675, S^2 = 0.146 Norms: 0.93@(8, 2), 0.02@(9, 3)
+converged SCF energy = -78.4452389653288  <S^2> = 2.0034195  2S+1 = 3.0022788
+50
+1-th state with excitation energy = 0.0006, S^2 = 0.012 Norms: 0.47@(9, 2), 0.46@(8, 1)
+2-th state with excitation energy = 0.0050, S^2 = 0.050 Norms: 0.98@(9, 1), 0.01@(9, 2)
+3-th state with excitation energy = 0.1674, S^2 = 0.147 Norms: 0.93@(8, 2), 0.02@(9, 3)
+converged SCF energy = -78.4452304431118  <S^2> = 2.0034187  2S+1 = 3.0022783
+50
+1-th state with excitation energy = 0.0006, S^2 = 0.012 Norms: 0.47@(9, 2), 0.47@(8, 1)
+2-th state with excitation energy = 0.0050, S^2 = 0.050 Norms: 0.99@(9, 1), 0.00@(6, 1)
+3-th state with excitation energy = 0.1673, S^2 = 0.149 Norms: 0.93@(8, 2), 0.02@(9, 3)
+converged SCF energy = -78.4452206237346  <S^2> = 2.0034179  2S+1 = 3.0022778
+50
+1-th state with excitation energy = 0.0006, S^2 = 0.012 Norms: 0.47@(9, 2), 0.46@(8, 1)
+2-th state with excitation energy = 0.0052, S^2 = 0.050 Norms: 0.98@(9, 1), 0.01@(8, 1)
+3-th state with excitation energy = 0.1672, S^2 = 0.150 Norms: 0.92@(8, 2), 0.03@(9, 3)
+converged SCF energy = -78.4452095061735  <S^2> = 2.0034172  2S+1 = 3.0022773
+50
+1-th state with excitation energy = 0.0004, S^2 = 0.013 Norms: 0.45@(9, 2), 0.45@(8, 1)
+2-th state with excitation energy = 0.0054, S^2 = 0.049 Norms: 0.95@(9, 1), 0.02@(9, 2)
+3-th state with excitation energy = 0.1672, S^2 = 0.151 Norms: 0.92@(8, 2), 0.03@(9, 3)
+converged SCF energy = -78.4451970894423  <S^2> = 2.0034165  2S+1 = 3.0022768
+50
+1-th state with excitation energy = 0.0002, S^2 = 0.014 Norms: 0.43@(9, 2), 0.43@(8, 1)
+2-th state with excitation energy = 0.0056, S^2 = 0.048 Norms: 0.91@(9, 1), 0.04@(9, 2)
+3-th state with excitation energy = 0.1671, S^2 = 0.152 Norms: 0.92@(8, 2), 0.03@(9, 3)
+converged SCF energy = -78.4451833726021  <S^2> = 2.0034158  2S+1 = 3.0022763
+50
+1-th state with excitation energy = -0.0001, S^2 = 0.016 Norms: 0.41@(8, 1), 0.41@(9, 2)
+2-th state with excitation energy = 0.0060, S^2 = 0.047 Norms: 0.86@(9, 1), 0.06@(9, 2)
+3-th state with excitation energy = 0.1670, S^2 = 0.154 Norms: 0.92@(8, 2), 0.03@(9, 3)
+converged SCF energy = -78.4451683547554  <S^2> = 2.0034151  2S+1 = 3.0022759
+50
+1-th state with excitation energy = -0.0004, S^2 = 0.017 Norms: 0.39@(9, 2), 0.39@(8, 1)
+2-th state with excitation energy = 0.0064, S^2 = 0.046 Norms: 0.82@(9, 1), 0.08@(9, 2)
+3-th state with excitation energy = 0.1670, S^2 = 0.155 Norms: 0.92@(8, 2), 0.03@(9, 3)
+converged SCF energy = -78.4451520350569  <S^2> = 2.0034145  2S+1 = 3.0022754
+50
+1-th state with excitation energy = -0.0007, S^2 = 0.018 Norms: 0.37@(8, 1), 0.37@(9, 2)
+2-th state with excitation energy = 0.0068, S^2 = 0.045 Norms: 0.79@(9, 1), 0.10@(9, 2)
+3-th state with excitation energy = 0.1669, S^2 = 0.157 Norms: 0.92@(8, 2), 0.03@(9, 3)
+converged SCF energy = -78.4451344127102  <S^2> = 2.0034138  2S+1 = 3.002275
+50
+1-th state with excitation energy = -0.0011, S^2 = 0.019 Norms: 0.36@(8, 1), 0.36@(9, 2)
+2-th state with excitation energy = 0.0072, S^2 = 0.044 Norms: 0.76@(9, 1), 0.11@(9, 2)
+3-th state with excitation energy = 0.1668, S^2 = 0.158 Norms: 0.91@(8, 2), 0.03@(9, 3)
+converged SCF energy = -78.4455617230343  <S^2> = 2.0034264  2S+1 = 3.0022834
+50
+1-th state with excitation energy = -0.0042, S^2 = 0.023 Norms: 0.41@(9, 1), 0.28@(8, 1)
+2-th state with excitation energy = 0.0093, S^2 = 0.039 Norms: 0.58@(9, 1), 0.21@(9, 2)
+3-th state with excitation energy = 0.1681, S^2 = 0.140 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4455693422321  <S^2> = 2.0034253  2S+1 = 3.0022827
+50
+1-th state with excitation energy = -0.0037, S^2 = 0.023 Norms: 0.40@(9, 1), 0.29@(8, 1)
+2-th state with excitation energy = 0.0089, S^2 = 0.039 Norms: 0.60@(9, 1), 0.20@(9, 2)
+3-th state with excitation energy = 0.1680, S^2 = 0.141 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4455756793188  <S^2> = 2.0034243  2S+1 = 3.002282
+50
+1-th state with excitation energy = -0.0032, S^2 = 0.022 Norms: 0.38@(9, 1), 0.29@(8, 1)
+2-th state with excitation energy = 0.0085, S^2 = 0.040 Norms: 0.62@(9, 1), 0.19@(9, 2)
+3-th state with excitation energy = 0.1679, S^2 = 0.141 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4455807328335  <S^2> = 2.0034233  2S+1 = 3.0022813
+50
+1-th state with excitation energy = -0.0027, S^2 = 0.022 Norms: 0.35@(9, 1), 0.30@(8, 1)
+2-th state with excitation energy = 0.0081, S^2 = 0.040 Norms: 0.64@(9, 1), 0.18@(9, 2)
+3-th state with excitation energy = 0.1678, S^2 = 0.141 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4455845013561  <S^2> = 2.0034224  2S+1 = 3.0022807
+50
+1-th state with excitation energy = -0.0023, S^2 = 0.021 Norms: 0.33@(9, 1), 0.32@(8, 1)
+2-th state with excitation energy = 0.0077, S^2 = 0.041 Norms: 0.66@(9, 1), 0.16@(9, 2)
+3-th state with excitation energy = 0.1677, S^2 = 0.142 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4455869835143  <S^2> = 2.0034214  2S+1 = 3.0022801
+50
+1-th state with excitation energy = -0.0018, S^2 = 0.021 Norms: 0.33@(8, 1), 0.32@(9, 2)
+2-th state with excitation energy = 0.0073, S^2 = 0.041 Norms: 0.69@(9, 1), 0.15@(9, 2)
+3-th state with excitation energy = 0.1677, S^2 = 0.142 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4455881779736  <S^2> = 2.0034205  2S+1 = 3.0022794
+50
+1-th state with excitation energy = -0.0014, S^2 = 0.020 Norms: 0.34@(8, 1), 0.34@(9, 2)
+2-th state with excitation energy = 0.0070, S^2 = 0.042 Norms: 0.72@(9, 1), 0.13@(9, 2)
+3-th state with excitation energy = 0.1676, S^2 = 0.143 Norms: 0.93@(8, 2), 0.02@(9, 4)
+converged SCF energy = -78.4455880834321  <S^2> = 2.0034196  2S+1 = 3.0022788
+50
+1-th state with excitation energy = -0.0009, S^2 = 0.019 Norms: 0.36@(8, 1), 0.36@(9, 2)
+2-th state with excitation energy = 0.0066, S^2 = 0.043 Norms: 0.76@(9, 1), 0.11@(9, 2)
+3-th state with excitation energy = 0.1675, S^2 = 0.143 Norms: 0.93@(8, 2), 0.02@(9, 3)
+converged SCF energy = -78.4455866986219  <S^2> = 2.0034187  2S+1 = 3.0022783
+50
+1-th state with excitation energy = -0.0006, S^2 = 0.018 Norms: 0.38@(8, 1), 0.38@(9, 2)
+2-th state with excitation energy = 0.0063, S^2 = 0.044 Norms: 0.80@(9, 1), 0.09@(9, 2)
+3-th state with excitation energy = 0.1674, S^2 = 0.144 Norms: 0.93@(8, 2), 0.02@(9, 3)
+converged SCF energy = -78.4455840223062  <S^2> = 2.0034178  2S+1 = 3.0022777
+50
+1-th state with excitation energy = -0.0002, S^2 = 0.016 Norms: 0.40@(8, 1), 0.40@(9, 2)
+2-th state with excitation energy = 0.0060, S^2 = 0.046 Norms: 0.84@(9, 1), 0.07@(9, 2)
+3-th state with excitation energy = 0.1673, S^2 = 0.145 Norms: 0.93@(8, 2), 0.02@(9, 3)
+converged SCF energy = -78.4455800532727  <S^2> = 2.003417  2S+1 = 3.0022771
+50
+1-th state with excitation energy = 0.0001, S^2 = 0.015 Norms: 0.42@(9, 2), 0.42@(8, 1)
+2-th state with excitation energy = 0.0058, S^2 = 0.047 Norms: 0.89@(9, 1), 0.05@(9, 2)
+3-th state with excitation energy = 0.1673, S^2 = 0.146 Norms: 0.93@(8, 2), 0.02@(9, 3)
+converged SCF energy = -78.4455747903471  <S^2> = 2.0034162  2S+1 = 3.0022766
+50
+1-th state with excitation energy = 0.0004, S^2 = 0.014 Norms: 0.44@(9, 2), 0.44@(8, 1)
+2-th state with excitation energy = 0.0056, S^2 = 0.049 Norms: 0.94@(9, 1), 0.03@(9, 2)
+3-th state with excitation energy = 0.1672, S^2 = 0.147 Norms: 0.93@(8, 2), 0.02@(9, 3)
+converged SCF energy = -78.4455682323846  <S^2> = 2.0034154  2S+1 = 3.002276
+50
+1-th state with excitation energy = 0.0005, S^2 = 0.012 Norms: 0.46@(9, 2), 0.46@(8, 1)
+2-th state with excitation energy = 0.0055, S^2 = 0.050 Norms: 0.97@(9, 1), 0.01@(9, 2)
+3-th state with excitation energy = 0.1671, S^2 = 0.148 Norms: 0.93@(8, 2), 0.03@(9, 3)
+converged SCF energy = -78.4455603782754  <S^2> = 2.0034146  2S+1 = 3.0022755
+50
+1-th state with excitation energy = 0.0006, S^2 = 0.012 Norms: 0.47@(9, 2), 0.47@(8, 1)
+2-th state with excitation energy = 0.0054, S^2 = 0.050 Norms: 0.99@(9, 1), 0.00@(6, 1)
+3-th state with excitation energy = 0.1670, S^2 = 0.149 Norms: 0.92@(8, 2), 0.03@(9, 3)
+converged SCF energy = -78.4455512269462  <S^2> = 2.0034138  2S+1 = 3.002275
+50
+1-th state with excitation energy = 0.0006, S^2 = 0.012 Norms: 0.47@(9, 2), 0.47@(8, 1)
+2-th state with excitation energy = 0.0055, S^2 = 0.050 Norms: 0.99@(9, 1), 0.00@(6, 1)
+3-th state with excitation energy = 0.1670, S^2 = 0.150 Norms: 0.92@(8, 2), 0.03@(9, 3)
+converged SCF energy = -78.44554077737  <S^2> = 2.0034131  2S+1 = 3.0022745
+50
+1-th state with excitation energy = 0.0005, S^2 = 0.013 Norms: 0.46@(9, 2), 0.45@(8, 1)
+2-th state with excitation energy = 0.0057, S^2 = 0.050 Norms: 0.96@(9, 1), 0.01@(9, 2)
+3-th state with excitation energy = 0.1669, S^2 = 0.152 Norms: 0.92@(8, 2), 0.03@(9, 3)
+converged SCF energy = -78.4455290285603  <S^2> = 2.0034124  2S+1 = 3.0022741
+50
+1-th state with excitation energy = 0.0003, S^2 = 0.014 Norms: 0.44@(9, 2), 0.44@(8, 1)
+2-th state with excitation energy = 0.0059, S^2 = 0.049 Norms: 0.93@(9, 1), 0.03@(9, 2)
+3-th state with excitation energy = 0.1668, S^2 = 0.153 Norms: 0.92@(8, 2), 0.03@(9, 3)
+converged SCF energy = -78.4455159795802  <S^2> = 2.0034117  2S+1 = 3.0022736
+50
+1-th state with excitation energy = 0.0001, S^2 = 0.015 Norms: 0.43@(9, 2), 0.42@(8, 1)
+2-th state with excitation energy = 0.0062, S^2 = 0.048 Norms: 0.89@(9, 1), 0.05@(9, 2)
+3-th state with excitation energy = 0.1668, S^2 = 0.154 Norms: 0.92@(8, 2), 0.03@(9, 3)
+converged SCF energy = -78.4455016295406  <S^2> = 2.0034111  2S+1 = 3.0022732
+50
+1-th state with excitation energy = -0.0002, S^2 = 0.016 Norms: 0.40@(8, 1), 0.40@(9, 2)
+2-th state with excitation energy = 0.0066, S^2 = 0.046 Norms: 0.85@(9, 1), 0.07@(9, 2)
+3-th state with excitation energy = 0.1667, S^2 = 0.156 Norms: 0.92@(8, 2), 0.03@(9, 3)
+converged SCF energy = -78.4454859776044  <S^2> = 2.0034104  2S+1 = 3.0022728
+50
+1-th state with excitation energy = -0.0006, S^2 = 0.017 Norms: 0.39@(8, 1), 0.39@(9, 2)
+2-th state with excitation energy = 0.0069, S^2 = 0.045 Norms: 0.82@(9, 1), 0.09@(9, 2)
+3-th state with excitation energy = 0.1666, S^2 = 0.158 Norms: 0.91@(8, 2), 0.03@(9, 3)
+converged SCF energy = -78.4454690229937  <S^2> = 2.0034098  2S+1 = 3.0022723
+50
+1-th state with excitation energy = -0.0009, S^2 = 0.018 Norms: 0.37@(8, 1), 0.37@(9, 2)
+2-th state with excitation energy = 0.0073, S^2 = 0.045 Norms: 0.78@(9, 1), 0.10@(9, 2)
+3-th state with excitation energy = 0.1666, S^2 = 0.159 Norms: 0.91@(8, 2), 0.04@(9, 3)

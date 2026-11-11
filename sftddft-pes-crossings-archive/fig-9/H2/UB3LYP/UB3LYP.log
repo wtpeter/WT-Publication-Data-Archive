@@ -1,0 +1,138 @@
+/home/peter/anaconda3/envs/sftd_dev/lib/python3.10/site-packages/pyscf/dft/libxc.py:556: UserWarning: Since PySCF-2.3, B3LYP (and B3P86) are changed to the VWN-RPA variant, corresponding to the original definition by Stephens et al. (issue 1480) and the same as the B3LYP functional in Gaussian. To restore the VWN5 definition, you can put the setting "B3LYP_WITH_VWN5 = True" in pyscf_conf.py
+  warnings.warn('Since PySCF-2.3, B3LYP (and B3P86) are changed to the VWN-RPA variant, '
+R = 0.40 Angstrom
+converged SCF energy = -0.976017721548471  <S^2> = 0  2S+1 = 1
+R = 0.45 Angstrom
+converged SCF energy = -1.05200292912488  <S^2> = 8.8817842e-16  2S+1 = 1
+R = 0.50 Angstrom
+converged SCF energy = -1.10241517582967  <S^2> = 1.3322676e-15  2S+1 = 1
+R = 0.55 Angstrom
+converged SCF energy = -1.13533207022517  <S^2> = 4.4408921e-15  2S+1 = 1
+R = 0.60 Angstrom
+converged SCF energy = -1.15602835267974  <S^2> = 1.4432899e-14  2S+1 = 1
+R = 0.65 Angstrom
+converged SCF energy = -1.16804846281969  <S^2> = 0  2S+1 = 1
+R = 0.70 Angstrom
+converged SCF energy = -1.17384602617262  <S^2> = 0  2S+1 = 1
+R = 0.75 Angstrom
+converged SCF energy = -1.175150526397  <S^2> = -4.4408921e-16  2S+1 = 1
+R = 0.80 Angstrom
+converged SCF energy = -1.17320629858387  <S^2> = 0  2S+1 = 1
+R = 0.85 Angstrom
+converged SCF energy = -1.16892163129697  <S^2> = 1.3322676e-15  2S+1 = 1
+R = 0.90 Angstrom
+converged SCF energy = -1.16296635412569  <S^2> = 4.4408921e-15  2S+1 = 1
+R = 0.95 Angstrom
+converged SCF energy = -1.15583716804809  <S^2> = 2.3536728e-14  2S+1 = 1
+R = 1.00 Angstrom
+converged SCF energy = -1.14790372625481  <S^2> = 1.2168044e-13  2S+1 = 1
+R = 1.05 Angstrom
+converged SCF energy = -1.13944126943788  <S^2> = 1.5298873e-13  2S+1 = 1
+R = 1.10 Angstrom
+converged SCF energy = -1.13065749726045  <S^2> = 1.6566748e-12  2S+1 = 1
+R = 1.15 Angstrom
+converged SCF energy = -1.1217103124127  <S^2> = 3.0266167e-10  2S+1 = 1
+R = 1.20 Angstrom
+converged SCF energy = -1.11271777808114  <S^2> = 7.7848838e-13  2S+1 = 1
+R = 1.25 Angstrom
+converged SCF energy = -1.10374069217488  <S^2> = 5.7431171e-11  2S+1 = 1
+R = 1.30 Angstrom
+converged SCF energy = -1.09486460313653  <S^2> = 4.2028825e-11  2S+1 = 1
+R = 1.35 Angstrom
+converged SCF energy = -1.08616664714614  <S^2> = 3.354643e-09  2S+1 = 1
+R = 1.40 Angstrom
+converged SCF energy = -1.07766175867361  <S^2> = 7.9118267e-11  2S+1 = 1
+R = 1.45 Angstrom
+converged SCF energy = -1.06936013556189  <S^2> = 3.4846637e-10  2S+1 = 1
+R = 1.50 Angstrom
+converged SCF energy = -1.06134420996252  <S^2> = 0.030027407  2S+1 = 1.0583523
+R = 1.55 Angstrom
+converged SCF energy = -1.05401482737763  <S^2> = 0.11603287  2S+1 = 1.210013
+R = 1.60 Angstrom
+converged SCF energy = -1.0474454919532  <S^2> = 0.20019891  2S+1 = 1.3419373
+R = 1.65 Angstrom
+converged SCF energy = -1.04158746820598  <S^2> = 0.28159213  2S+1 = 1.4582073
+R = 1.70 Angstrom
+converged SCF energy = -1.03638825527554  <S^2> = 0.35931876  2S+1 = 1.5611775
+R = 1.75 Angstrom
+converged SCF energy = -1.03179446923391  <S^2> = 0.4324611  2S+1 = 1.6522241
+R = 1.80 Angstrom
+converged SCF energy = -1.02775179789958  <S^2> = 0.50043876  2S+1 = 1.7325574
+R = 1.85 Angstrom
+converged SCF energy = -1.02418630692029  <S^2> = 0.56282285  2S+1 = 1.8031338
+R = 1.90 Angstrom
+converged SCF energy = -1.02108813462417  <S^2> = 0.61923838  2S+1 = 1.8646591
+R = 1.95 Angstrom
+converged SCF energy = -1.0183860281255  <S^2> = 0.66974323  2S+1 = 1.9180649
+R = 2.00 Angstrom
+converged SCF energy = -1.01600736087913  <S^2> = 0.7146341  2S+1 = 1.9643158
+R = 2.05 Angstrom
+converged SCF energy = -1.01396339894733  <S^2> = 0.75398422  2S+1 = 2.0039803
+R = 2.10 Angstrom
+converged SCF energy = -1.01218768579888  <S^2> = 0.78833019  2S+1 = 2.0379698
+R = 2.15 Angstrom
+converged SCF energy = -1.01064532532923  <S^2> = 0.81815222  2S+1 = 2.067029
+R = 2.20 Angstrom
+converged SCF energy = -1.00930542863788  <S^2> = 0.84393633  2S+1 = 2.0918282
+R = 2.25 Angstrom
+converged SCF energy = -1.00814054681314  <S^2> = 0.86615822  2S+1 = 2.1129678
+R = 2.30 Angstrom
+converged SCF energy = -1.00709463420874  <S^2> = 0.88536309  2S+1 = 2.1310684
+R = 2.35 Angstrom
+converged SCF energy = -1.00620172748654  <S^2> = 0.90179545  2S+1 = 2.1464347
+R = 2.40 Angstrom
+converged SCF energy = -1.00543404897475  <S^2> = 0.91585241  2S+1 = 2.1594929
+R = 2.45 Angstrom
+converged SCF energy = -1.00476399755314  <S^2> = 0.92790085  2S+1 = 2.1706228
+R = 2.50 Angstrom
+converged SCF energy = -1.00417836854342  <S^2> = 0.93822537  2S+1 = 2.180115
+R = 2.55 Angstrom
+converged SCF energy = -1.00365348063932  <S^2> = 0.9470987  2S+1 = 2.1882401
+R = 2.60 Angstrom
+converged SCF energy = -1.00319408121006  <S^2> = 0.95468594  2S+1 = 2.1951637
+R = 2.65 Angstrom
+converged SCF energy = -1.00280065798041  <S^2> = 0.96118256  2S+1 = 2.2010748
+R = 2.70 Angstrom
+converged SCF energy = -1.00245501402921  <S^2> = 0.96675288  2S+1 = 2.2061304
+R = 2.75 Angstrom
+converged SCF energy = -1.00215107558127  <S^2> = 0.97153023  2S+1 = 2.2104572
+R = 2.80 Angstrom
+converged SCF energy = -1.00188331623375  <S^2> = 0.97562842  2S+1 = 2.2141621
+R = 2.85 Angstrom
+converged SCF energy = -1.00163091208703  <S^2> = 0.97916064  2S+1 = 2.2173503
+R = 2.90 Angstrom
+converged SCF energy = -1.00142358068899  <S^2> = 0.98217615  2S+1 = 2.2200686
+R = 2.95 Angstrom
+converged SCF energy = -1.00124436291636  <S^2> = 0.98476204  2S+1 = 2.2223969
+R = 3.00 Angstrom
+converged SCF energy = -1.00104504024488  <S^2> = 0.98701055  2S+1 = 2.2244195
+R = 3.20 Angstrom
+converged SCF energy = -1.00053134947137  <S^2> = 0.99315986  2S+1 = 2.2299416
+R = 3.40 Angstrom
+converged SCF energy = -1.00022275520987  <S^2> = 0.99645568  2S+1 = 2.2328956
+R = 3.60 Angstrom
+converged SCF energy = -1.00005530852752  <S^2> = 0.9981985  2S+1 = 2.2344561
+R = 3.80 Angstrom
+converged SCF energy = -0.999919381784741  <S^2> = 0.99911481  2S+1 = 2.2352761
+R = 4.00 Angstrom
+converged SCF energy = -0.999814150601582  <S^2> = 0.99958054  2S+1 = 2.2356928
+R = 4.20 Angstrom
+converged SCF energy = -0.999778275642572  <S^2> = 0.9998082  2S+1 = 2.2358964
+R = 4.40 Angstrom
+converged SCF energy = -0.99975109078958  <S^2> = 0.99991623  2S+1 = 2.2359931
+R = 4.60 Angstrom
+converged SCF energy = -0.999728022929501  <S^2> = 0.99996496  2S+1 = 2.2360366
+R = 4.80 Angstrom
+converged SCF energy = -0.999716363087445  <S^2> = 0.99998595  2S+1 = 2.2360554
+R = 5.00 Angstrom
+converged SCF energy = -0.999712334213827  <S^2> = 0.99999458  2S+1 = 2.2360631
+R = 5.20 Angstrom
+converged SCF energy = -0.999711602149074  <S^2> = 0.999998  2S+1 = 2.2360662
+R = 5.40 Angstrom
+converged SCF energy = -0.999715948718844  <S^2> = 0.9999993  2S+1 = 2.2360673
+R = 5.60 Angstrom
+converged SCF energy = -0.999702964899485  <S^2> = 0.99999977  2S+1 = 2.2360678
+R = 5.80 Angstrom
+converged SCF energy = -0.999700519049431  <S^2> = 0.99999993  2S+1 = 2.2360679
+R = 6.00 Angstrom
+converged SCF energy = -0.999701042031529  <S^2> = 0.99999998  2S+1 = 2.236068

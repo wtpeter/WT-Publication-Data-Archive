@@ -1,0 +1,109 @@
+#INFO: **** input file is /public1/home/scg0213/Jobs_WT/NCNLDFT/SpinSamplesTest1117/26/z.py ****
+#!/usr/bin/env python
+
+from pyscf import gto, dft
+import numpy as np
+from scipy.linalg import block_diag, eigh
+import sys
+sys.path.append('/public1/home/scg0213/Jobs_WT/NCNLDFT')
+sys.path.append('/public1/home/scg0213/Jobs_WT/Tools')
+sys.path.append('/home/peter/Research/Tools')
+sys.path.append('/home/peter/Research/NCNLDFT/code')
+from uks_nl_new import UKSNL
+from gks_nl_new import GKSMCNL
+from rotate import rotate_spin_dm, rotate_spatial_dm
+
+s = 26
+
+udm = np.load(r'../udmi.npy')
+
+mol = gto.M(atom='Na 0.0 0.0 0.0', charge=0, spin=1, basis='cc-pvqz', verbose=4)
+
+gdm = block_diag(udm[0], udm[1])
+gks = GKSMCNL(mol, xc='', epsilon=1e-11)
+gks.conv_tol = 1e-8
+gks.grids.atom_grid = (15, 86)
+gks.spin_samples = s
+gks.max_memory = 300000
+ge = gks.kernel(gdm)
+np.save('GMO', gks.mo_energy)
+np.save('GET', np.array([ge]))
+np.save('GDM', gks.make_rdm1())#INFO: ******************** input file end ********************
+
+
+System: uname_result(system='Linux', node='g0103.para.bscc', release='3.10.0-1160.118.1.el7.x86_64', version='#1 SMP Wed Apr 24 16:01:50 UTC 2024', machine='x86_64', processor='x86_64')  Threads 128
+Python 3.8.19 (default, Mar 20 2024, 19:58:24) 
+[GCC 11.2.0]
+numpy 1.24.4  scipy 1.10.1
+Date: Sun Nov 17 11:36:16 2024
+PySCF version 2.5.0
+PySCF path  /public1/home/scg0213/.conda/envs/pyscf-2.5/lib/python3.8/site-packages/pyscf
+
+[CONFIG] conf_file None
+[INPUT] verbose = 4
+[INPUT] num. atoms = 1
+[INPUT] num. electrons = 11
+[INPUT] charge = 0
+[INPUT] spin (= nelec alpha-beta = 2S) = 1
+[INPUT] symmetry False subgroup None
+[INPUT] Mole.unit = angstrom
+[INPUT] Symbol           X                Y                Z      unit          X                Y                Z       unit  Magmom
+[INPUT]  1 Na     0.000000000000   0.000000000000   0.000000000000 AA    0.000000000000   0.000000000000   0.000000000000 Bohr   0.0
+
+nuclear repulsion = 0
+number of shells = 14
+number of NR pGTOs = 93
+number of NR cGTOs = 59
+basis = cc-pvqz
+ecp = {}
+CPU time:        13.76
+
+
+******** <class 'gks_nl_new.GKSMCNL'> ********
+method = GKSMCNL
+initial guess = minao
+damping factor = 0
+level_shift factor = 0
+DIIS = <class 'pyscf.scf.diis.CDIIS'>
+diis_start_cycle = 1
+diis_space = 8
+diis_damp = 0
+SCF conv_tol = 1e-08
+SCF conv_tol_grad = None
+SCF max_cycles = 50
+direct_scf = True
+direct_scf_tol = 1e-13
+chkfile to save SCF result = /tmp/tmpj_33sqtw
+max_memory 300000 MB (current use 69 MB)
+XC library pyscf.dft.libxc version 6.1.0
+    S. Lehtola, C. Steigemann, M. J.T. Oliveira, and M. A.L. Marques.,  SoftwareX 7, 1–5 (2018)
+XC functionals = 
+
+radial grids: 
+    Treutler-Ahlrichs [JCP 102, 346 (1995); DOI:10.1063/1.469408] (M4) radial grids
+    
+becke partition: Becke, JCP 88, 2547 (1988); DOI:10.1063/1.454033
+pruning grids: <function nwchem_prune at 0x2b881ceb44c0>
+grids dens level: 3
+symmetrized grids: False
+atomic radii adjust function: <function treutler_atomic_radii_adjust at 0x2b881ceb43a0>
+User specified grid scheme (15, 86)
+small_rho_cutoff = 1e-07
+collinear = col
+Set gradient conv threshold to 0.0001
+tot grids = 1080
+0 1 2 3 4 5 6 7 8 9 10 11 12 
+init E= -161.751940462038
+  HOMO = -0.121259011659382  LUMO = -0.107232505165281
+0 1 2 3 4 5 6 7 8 9 10 11 12 
+cycle= 1 E= -161.751940663365  delta_E= -2.01e-07  |g|= 0.000113  |ddm|= 0.00379
+  HOMO = -0.121131523279447  LUMO = -0.107098812251309
+0 1 2 3 4 5 6 7 8 9 10 11 12 
+cycle= 2 E= -161.75194068443  delta_E= -2.11e-08  |g|= 6.11e-05  |ddm|= 0.0014
+  HOMO = -0.121158740078423  LUMO = -0.107127189190659
+0 1 2 3 4 5 6 7 8 9 10 11 12 
+cycle= 3 E= -161.751940688039  delta_E= -3.61e-09  |g|= 2.7e-06  |ddm|= 0.000397
+  HOMO = -0.121163690282428  LUMO = -0.107132392629287
+0 1 2 3 4 5 6 7 8 9 10 11 12 
+Extra cycle  E= -161.751940688067  delta_E= -2.81e-11  |g|= 1.03e-06  |ddm|= 4.27e-05
+converged SCF energy = -161.751940688067  <S^2> = 0.75000939  2S+1 = 2.0000094

@@ -1,0 +1,20 @@
+converged SCF energy = -99.7673291087023
+r = 0.60, HF energy = -99.767329, FCI energy = -99.992556
+converged SCF energy = -100.018954142109
+r = 0.80, HF energy = -100.018954, FCI energy = -100.252756
+converged SCF energy = -100.034480762603
+r = 0.90, HF energy = -100.034481, FCI energy = -100.273033
+converged SCF energy = -100.024107307067
+r = 1.00, HF energy = -100.024107, FCI energy = -100.267664
+converged SCF energy = -99.7829128129951
+r = 2.00, HF energy = -99.782913, FCI energy = -100.106585
+converged SCF energy = -99.6676870764884
+r = 3.00, HF energy = -99.667687, FCI energy = -100.085156
+converged SCF energy = -99.6223083916295
+r = 4.00, HF energy = -99.622308, FCI energy = -100.084406
+SCF not converged.
+SCF energy = -98.8908325473004
+r = 5.00, HF energy = -98.890833, FCI energy = -100.084355
+SCF not converged.
+SCF energy = -99.4277787105559
+r = 6.00, HF energy = -99.427779, FCI energy = -100.084353

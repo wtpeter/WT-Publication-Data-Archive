@@ -1,0 +1,42 @@
+converged SCF energy = -204.058811495216  <S^2> = 3.7880708  2S+1 = 4.0189903
+<class 'pyscf.scf.uhf.UHF'> wavefunction is stable in the internal stability analysis
+<class 'pyscf.scf.uhf.UHF'> wavefunction is stable in the real -> complex stability analysis
+<class 'pyscf.scf.uhf.UHF'> wavefunction has an UHF/UKS -> GHF/GKS instability
+----------
+SVWN
+converged SCF energy = -203.54137624346  <S^2> = 3.7543453  2S+1 = 4.002172
+[6.19864308e-09 1.18055474e-01 8.32465453e-01 1.41494844e+00
+ 1.49452381e+00]
+[0.04514173 0.14605682 0.87959006 1.42911534 1.52096208]
+----------
+BLYP
+converged SCF energy = -205.02314264215  <S^2> = 3.7559665  2S+1 = 4.0029821
+[1.45182992e-09 1.37750056e-01 6.37753554e-01 1.46709807e+00
+ 1.49421456e+00]
+[0.06700809 0.19230124 0.71285162 1.4980394  1.55101015]
+----------
+PBE
+converged SCF energy = -204.834217425175  <S^2> = 3.7554539  2S+1 = 4.002726
+[1.69021702e-09 1.56471973e-01 6.56601277e-01 1.48050347e+00
+ 1.54631631e+00]
+[0.06418426 0.21294371 0.73315479 1.51103359 1.60429824]
+----------
+TPSS
+converged SCF energy = -205.067638290199  <S^2> = 3.7574023  2S+1 = 4.0036994
+[1.65866450e-09 2.74850825e-01 6.10225116e-01 1.73868867e+00
+ 1.77675690e+00]
+[0.08755865 0.35775698 0.71902113 1.82149788 1.82662678]
+----------
+B3LYP
+/home/peter/anaconda3/envs/pyscfforge/lib/python3.9/site-packages/pyscf/dft/libxc.py:512: UserWarning: Since PySCF-2.3, B3LYP (and B3P86) are changed to the VWN-RPA variant, corresponding to the original definition by Stephens et al. (issue 1480) and the same as the B3LYP functional in Gaussian. To restore the VWN5 definition, you can put the setting "B3LYP_WITH_VWN5 = True" in pyscf_conf.py
+  warnings.warn('Since PySCF-2.3, B3LYP (and B3P86) are changed to the VWN-RPA variant, '
+converged SCF energy = -205.032417612291  <S^2> = 3.7605931  2S+1 = 4.0052931
+[-1.15247542e-09  3.45466098e-01  6.99873663e-01  2.07983391e+00
+  2.14727570e+00]
+[0.10819729 0.4474065  0.81544749 2.12068225 2.25269281]
+----------
+PBE0
+converged SCF energy = -204.818046014843  <S^2> = 3.7616984  2S+1 = 4.0058449
+[1.37650305e-09 4.02451353e-01 7.13312358e-01 2.29457101e+00
+ 2.37224796e+00]
+[0.12155202 0.52801839 0.84942253 2.34104863 2.50118617]

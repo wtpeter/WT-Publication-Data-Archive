@@ -1,0 +1,42 @@
+converged SCF energy = -228.78401324798  <S^2> = 4.2061112  2S+1 = 4.2219006
+<class 'pyscf.scf.uhf.UHF'> wavefunction has an internal instability
+<class 'pyscf.scf.uhf.UHF'> wavefunction has an real -> complex instability
+<class 'pyscf.scf.uhf.UHF'> wavefunction has an UHF/UKS -> GHF/GKS instability
+----------
+SVWN
+converged SCF energy = -228.105535284658  <S^2> = 3.7607743  2S+1 = 4.0053835
+[-1.02201614e-08  3.88194470e-01  6.58400626e-01  1.11407697e+00
+  1.56848567e+00]
+[0.04101645 0.3954606  0.66364184 1.13127871 1.58694459]
+----------
+BLYP
+converged SCF energy = -230.148565769126  <S^2> = 3.7589507  2S+1 = 4.0044729
+[-3.47324366e-10  3.70296713e-01  6.64426869e-01  1.32429887e+00
+  1.77504463e+00]
+[0.05339503 0.3874778  0.67708461 1.34792317 1.79720607]
+----------
+PBE
+converged SCF energy = -229.937249653258  <S^2> = 3.7614208  2S+1 = 4.0057063
+[4.07872446e-09 5.81668313e-01 8.83469641e-01 1.52467965e+00
+ 1.99119784e+00]
+[0.06363836 0.60188819 0.89866427 1.55143936 2.01730292]
+----------
+TPSS
+converged SCF energy = -230.285751697531  <S^2> = 3.7649014  2S+1 = 4.0074438
+[4.86350445e-09 7.28585010e-01 1.04430061e+00 1.82887936e+00
+ 2.30251008e+00]
+[0.07930039 0.75541142 1.06543961 1.86359132 2.33700947]
+----------
+B3LYP
+/home/peter/anaconda3/envs/pyscfforge/lib/python3.9/site-packages/pyscf/dft/libxc.py:512: UserWarning: Since PySCF-2.3, B3LYP (and B3P86) are changed to the VWN-RPA variant, corresponding to the original definition by Stephens et al. (issue 1480) and the same as the B3LYP functional in Gaussian. To restore the VWN5 definition, you can put the setting "B3LYP_WITH_VWN5 = True" in pyscf_conf.py
+  warnings.warn('Since PySCF-2.3, B3LYP (and B3P86) are changed to the VWN-RPA variant, '
+converged SCF energy = -230.223956198183  <S^2> = 3.7823612  2S+1 = 4.016148
+[-3.11685067e-10  3.79363389e-01  4.48603127e-01  6.89780365e-01
+  1.42966434e+00]
+[0.10094503 0.48092323 0.54748972 0.7543133  1.48643354]
+----------
+PBE0
+converged SCF energy = -229.937320892785  <S^2> = 3.7954354  2S+1 = 4.0226535
+[3.19258959e-09 4.25944686e-01 4.88274159e-01 7.91458042e-01
+ 1.62496337e+00]
+[0.12780116 0.5620139  0.61922106 0.87607115 1.69332226]

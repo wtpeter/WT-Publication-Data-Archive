@@ -1,0 +1,33 @@
+converged SCF energy = -613.220907013585
+Excited State energies (eV)
+[2.67224407 2.86691983 3.01468643 3.01470456 3.86308222]
+Excited State energies (eV)
+[2.48572354 2.7953749  2.91535003 2.91536985 3.2332318 ]
+converged SCF energy = -613.127404606748  <S^2> = 2.0030019  2S+1 = 3.0020006
+Overwritten attributes  positive_eig_threshold  of <class 'pyscf.sftda.uks_sf.CasidaTDDFT'>
+50
+Excited State energies (eV)
+[-2.60551241e+00 -4.29484503e-02 -1.36702412e-07  3.64366503e-01
+  4.53623753e-01]
+0-th state with excitation energy = -2.6055, S^2 = 0.0025 Norms: 1.001@(45, 1), 0.000@(43, 2)
+1-th state with excitation energy = -0.0429, S^2 = 0.0310 Norms: 0.502@(43, 1), 0.501@(45, 2)
+2-th state with excitation energy = -0.0000, S^2 = 2.0160 Norms: 0.500@(45, 2), 0.500@(43, 1)
+PBE: SC-TDDFT gap=0.187, SF-TDDFT gap=-0.043
+converged SCF energy = -613.220509288545
+TD-SCF states [4] not converged.
+Excited State energies (eV)
+[3.01376938 3.8850449  3.93133094 3.93134519 4.10929086]
+Excited State energies (eV)
+[2.76010969 3.40777792 3.40779139 3.73765275 3.76765706]
+converged SCF energy = -613.117006388994  <S^2> = 2.0130346  2S+1 = 3.0086772
+50
+TD-SCF states [0, 3] not converged.
+Excited State energies (eV)
+[-1.80870917e+00 -4.80818813e-01 -1.00086054e-06  9.74583257e-01
+  1.02628553e+00]
+1-th state with excitation energy = -0.4808, S^2 = 0.1276 Norms: 0.532@(44, 1), 0.522@(45, 2)
+2-th state with excitation energy = -0.0000, S^2 = 2.0698 Norms: 0.500@(44, 1), 0.498@(45, 2)
+Traceback (most recent call last):
+  File "1.py", line 65, in <module>
+    sftdeS1 = mfT.e_tot + sftdT.e[S[1]]
+IndexError: list index out of range

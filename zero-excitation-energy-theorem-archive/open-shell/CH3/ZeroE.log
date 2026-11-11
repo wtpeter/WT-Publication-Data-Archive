@@ -1,0 +1,42 @@
+converged SCF energy = -39.5775077912856  <S^2> = 0.7616631  2S+1 = 2.0116293
+<class 'pyscf.scf.uhf.UHF'> wavefunction is stable in the internal stability analysis
+<class 'pyscf.scf.uhf.UHF'> wavefunction is stable in the real -> complex stability analysis
+<class 'pyscf.scf.uhf.UHF'> wavefunction is stable in the UHF/UKS -> GHF/GKS stability analysis
+----------
+SVWN
+converged SCF energy = -39.4421023099371  <S^2> = 0.75242248  2S+1 = 2.002421
+[2.27174851e-09 6.14152846e+00 6.37438154e+00 6.37438961e+00
+ 7.94534615e+00]
+[0.05372861 6.15010349 6.39055714 6.39056522 7.94940526]
+----------
+BLYP
+converged SCF energy = -39.8272696588884  <S^2> = 0.75308434  2S+1 = 2.003082
+[2.45512520e-09 5.80824167e+00 6.51389727e+00 6.51390611e+00
+ 7.63364961e+00]
+[0.07956437 5.82173622 6.55043441 6.55044322 7.64121946]
+----------
+PBE
+converged SCF energy = -39.7875600715666  <S^2> = 0.75371054  2S+1 = 2.0037071
+[9.95861577e-10 6.11403428e+00 6.63538055e+00 6.63539012e+00
+ 7.93489084e+00]
+[0.09717877 6.12957657 6.67560404 6.67561356 7.94449727]
+----------
+TPSS
+converged SCF energy = -39.8633633739638  <S^2> = 0.75505659  2S+1 = 2.0050502
+[1.68532356e-09 6.48357103e+00 6.99431232e+00 6.99433406e+00
+ 8.37478218e+00]
+[0.12585958 6.50271608 7.04839351 7.04841531 8.38683088]
+----------
+B3LYP
+/home/peter/anaconda3/envs/pyscfforge/lib/python3.9/site-packages/pyscf/dft/libxc.py:512: UserWarning: Since PySCF-2.3, B3LYP (and B3P86) are changed to the VWN-RPA variant, corresponding to the original definition by Stephens et al. (issue 1480) and the same as the B3LYP functional in Gaussian. To restore the VWN5 definition, you can put the setting "B3LYP_WITH_VWN5 = True" in pyscf_conf.py
+  warnings.warn('Since PySCF-2.3, B3LYP (and B3P86) are changed to the VWN-RPA variant, '
+converged SCF energy = -39.8586717713898  <S^2> = 0.75361612  2S+1 = 2.0036129
+[6.96703182e-10 6.15252975e+00 6.64577044e+00 6.64577815e+00
+ 7.96792049e+00]
+[0.08961806 6.17071266 6.68487448 6.68488219 7.98114089]
+----------
+PBE0
+converged SCF energy = -39.7986737939472  <S^2> = 0.75463328  2S+1 = 2.0046279
+[-1.78977318e-10  6.51545901e+00  6.80128577e+00  6.80129377e+00
+  8.32486376e+00]
+[0.11612067 6.53878104 6.84892004 6.84892803 8.34340047]

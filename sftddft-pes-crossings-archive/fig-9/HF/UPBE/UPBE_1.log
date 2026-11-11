@@ -1,0 +1,21 @@
+R = 4.80 Angstrom
+converged SCF energy = -100.153005980478  <S^2> = 0.9384347  2S+1 = 2.180307
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 5.00 Angstrom
+converged SCF energy = -100.152926309883  <S^2> = 0.93986786  2S+1 = 2.1816213
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 5.20 Angstrom
+converged SCF energy = -100.152868236338  <S^2> = 0.94097822  2S+1 = 2.182639
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 5.40 Angstrom
+converged SCF energy = -100.152828428172  <S^2> = 0.94186468  2S+1 = 2.1834511
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 5.60 Angstrom
+converged SCF energy = -100.152802012496  <S^2> = 0.94256999  2S+1 = 2.1840971
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 5.80 Angstrom
+converged SCF energy = -100.152782215728  <S^2> = 0.94315119  2S+1 = 2.1846292
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 6.00 Angstrom
+converged SCF energy = -100.152767652888  <S^2> = 0.94363875  2S+1 = 2.1850755
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis

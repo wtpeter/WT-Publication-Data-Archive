@@ -1,0 +1,383 @@
+R = 0.40 Angstrom
+converged SCF energy = -98.7238751381795  <S^2> = 1.5925039e-12  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 0.45 Angstrom
+converged SCF energy = -99.2771842193578  <S^2> = 1.5694113e-12  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 0.50 Angstrom
+converged SCF energy = -99.6487154440721  <S^2> = 1.070255e-12  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 0.55 Angstrom
+converged SCF energy = -99.8993740762508  <S^2> = 6.501466e-13  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 0.60 Angstrom
+converged SCF energy = -100.068422737539  <S^2> = 4.5652371e-13  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 0.65 Angstrom
+converged SCF energy = -100.181679453165  <S^2> = 4.6451731e-13  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 0.70 Angstrom
+converged SCF energy = -100.256414698864  <S^2> = 8.189005e-13  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 0.75 Angstrom
+converged SCF energy = -100.304367603307  <S^2> = 7.1054274e-15  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 0.80 Angstrom
+converged SCF energy = -100.333631610166  <S^2> = 3.1974423e-14  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 0.85 Angstrom
+converged SCF energy = -100.34985170697  <S^2> = 2.1582736e-13  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 0.90 Angstrom
+converged SCF energy = -100.356997437364  <S^2> = 8.3932861e-13  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 0.95 Angstrom
+converged SCF energy = -100.357876738544  <S^2> = 2.3927527e-12  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 1.00 Angstrom
+converged SCF energy = -100.35448067137  <S^2> = 9.2548191e-13  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 1.05 Angstrom
+converged SCF energy = -100.348217828262  <S^2> = 1.5408119e-11  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 1.10 Angstrom
+converged SCF energy = -100.340079458056  <S^2> = 4.7961635e-12  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 1.15 Angstrom
+converged SCF energy = -100.330755672711  <S^2> = 4.3990589e-11  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 1.20 Angstrom
+converged SCF energy = -100.320724095471  <S^2> = 1.2025936e-12  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 1.25 Angstrom
+converged SCF energy = -100.310313481145  <S^2> = 1.9313529e-10  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 1.30 Angstrom
+converged SCF energy = -100.299751968302  <S^2> = 7.5046547e-10  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 1.35 Angstrom
+converged SCF energy = -100.289200133235  <S^2> = 6.3137051e-11  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 1.40 Angstrom
+converged SCF energy = -100.278773255321  <S^2> = 2.152678e-11  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 1.45 Angstrom
+converged SCF energy = -100.268556420696  <S^2> = 7.0121686e-12  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 1.50 Angstrom
+converged SCF energy = -100.258612538671  <S^2> = 3.743672e-12  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 1.55 Angstrom
+converged SCF energy = -100.248988550485  <S^2> = 2.0099478e-12  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 1.60 Angstrom
+converged SCF energy = -100.23971829562  <S^2> = 1.8811175e-10  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 1.65 Angstrom
+converged SCF energy = -100.23082464828  <S^2> = 1.1093348e-12  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 1.70 Angstrom
+converged SCF energy = -100.22232206046  <S^2> = 8.2666289e-08  2S+1 = 1.0000002
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 1.75 Angstrom
+converged SCF energy = -100.214515454734  <S^2> = 0.11425839  2S+1 = 1.2070765
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 1.80 Angstrom
+converged SCF energy = -100.207793689798  <S^2> = 0.22278035  2S+1 = 1.3751805
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 1.85 Angstrom
+converged SCF energy = -100.201962666909  <S^2> = 0.31261169  2S+1 = 1.5001489
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 1.90 Angstrom
+converged SCF energy = -100.196877024149  <S^2> = 0.3886842  2S+1 = 1.5983544
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 1.95 Angstrom
+converged SCF energy = -100.192421132101  <S^2> = 0.45340439  2S+1 = 1.6773841
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 2.00 Angstrom
+converged SCF energy = -100.188499616303  <S^2> = 0.50864726  2S+1 = 1.7420072
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 2.05 Angstrom
+converged SCF energy = -100.185033537164  <S^2> = 0.55598541  2S+1 = 1.7955338
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 2.10 Angstrom
+converged SCF energy = -100.181957856961  <S^2> = 0.59669933  2S+1 = 1.8403253
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 2.15 Angstrom
+converged SCF energy = -100.179219000097  <S^2> = 0.63192809  2S+1 = 1.8782205
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 2.20 Angstrom
+converged SCF energy = -100.176772573021  <S^2> = 0.66257757  2S+1 = 1.9105785
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 2.25 Angstrom
+converged SCF energy = -100.174581552336  <S^2> = 0.68948146  2S+1 = 1.938537
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 2.30 Angstrom
+converged SCF energy = -100.172614869351  <S^2> = 0.71315163  2S+1 = 1.9628058
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 2.35 Angstrom
+converged SCF energy = -100.170846108235  <S^2> = 0.73410967  2S+1 = 1.984046
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 2.40 Angstrom
+converged SCF energy = -100.169252445846  <S^2> = 0.75275818  2S+1 = 2.0027563
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 2.45 Angstrom
+converged SCF energy = -100.167814110797  <S^2> = 0.7693777  2S+1 = 2.0192847
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 2.50 Angstrom
+converged SCF energy = -100.16651406031  <S^2> = 0.78426751  2S+1 = 2.0339789
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 2.55 Angstrom
+converged SCF energy = -100.165337435733  <S^2> = 0.79763391  2S+1 = 2.0470798
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 2.60 Angstrom
+converged SCF energy = -100.164271057016  <S^2> = 0.80963218  2S+1 = 2.0587687
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 2.65 Angstrom
+converged SCF energy = -100.163303236902  <S^2> = 0.82047476  2S+1 = 2.069275
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 2.70 Angstrom
+converged SCF energy = -100.162423818645  <S^2> = 0.83027566  2S+1 = 2.0787262
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 2.75 Angstrom
+converged SCF energy = -100.161623903503  <S^2> = 0.83915235  2S+1 = 2.0872492
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 2.80 Angstrom
+converged SCF energy = -100.160895423659  <S^2> = 0.84721704  2S+1 = 2.0949626
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 2.85 Angstrom
+converged SCF energy = -100.160231036659  <S^2> = 0.85454783  2S+1 = 2.1019494
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 2.90 Angstrom
+converged SCF energy = -100.159624340881  <S^2> = 0.86123212  2S+1 = 2.1082999
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 2.95 Angstrom
+converged SCF energy = -100.159069850975  <S^2> = 0.86732988  2S+1 = 2.1140765
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 3.00 Angstrom
+converged SCF energy = -100.158562565087  <S^2> = 0.87292717  2S+1 = 2.1193652
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 3.20 Angstrom
+converged SCF energy = -100.156921242059  <S^2> = 0.89132285  2S+1 = 2.1366543
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 3.40 Angstrom
+converged SCF energy = -100.155746130721  <S^2> = 0.90448745  2S+1 = 2.1489416
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 3.60 Angstrom
+converged SCF energy = -100.154896812386  <S^2> = 0.91425119  2S+1 = 2.1580094
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 3.80 Angstrom
+converged SCF energy = -100.154281050475  <S^2> = 0.92141489  2S+1 = 2.1646384
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 4.00 Angstrom
+converged SCF energy = -100.15383490597  <S^2> = 0.92685357  2S+1 = 2.1696576
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 4.20 Angstrom
+converged SCF energy = -100.153513536608  <S^2> = 0.93099246  2S+1 = 2.1734695
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 4.40 Angstrom
+converged SCF energy = -100.15328435898  <S^2> = 0.93415103  2S+1 = 2.1763741
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 4.60 Angstrom
+converged SCF energy = -100.153120326433  <S^2> = 0.93657903  2S+1 = 2.1786042
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 4.80 Angstrom
+converged SCF energy = -100.153005980478  <S^2> = 0.9384347  2S+1 = 2.180307
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction is stable in the internal stability analysis
+R = 5.00 Angstrom
+
+WARN: HOMO 0.016798282414134443 > LUMO -0.5286829031603159 was found in the canonicalized orbitals.
+
+converged SCF energy = -99.8282540478446  <S^2> = 0.16620216  2S+1 = 1.2902746
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction has an internal instability
+Try to optimize orbitals until stable, attempt 0
+
+WARN: HOMO 0.08289757228995621 > LUMO -0.47493495294114546 was found in the canonicalized orbitals.
+
+converged SCF energy = -99.8231537086138  <S^2> = -4.4408921e-15  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction has an internal instability
+Try to optimize orbitals until stable, attempt 1
+
+WARN: HOMO -0.2731662025633723 > LUMO -0.3055039588261808 was found in the canonicalized orbitals.
+
+converged SCF energy = -100.090379294374  <S^2> = -8.8817842e-16  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction has an internal instability
+Try to optimize orbitals until stable, attempt 2
+
+WARN: HOMO -0.2731664310196787 > LUMO -0.30550397867610446 was found in the canonicalized orbitals.
+
+converged SCF energy = -100.090379294369  <S^2> = -2.6645353e-15  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction has an internal instability
+Try to optimize orbitals until stable, attempt 3
+
+WARN: HOMO 0.08289449436124707 > LUMO -0.4749416311162915 was found in the canonicalized orbitals.
+
+converged SCF energy = -99.8231537086004  <S^2> = -3.5527137e-15  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction has an internal instability
+Try to optimize orbitals until stable, attempt 4
+
+WARN: HOMO -0.27388030543888725 > LUMO -0.3056376921063926 was found in the canonicalized orbitals.
+
+converged SCF energy = -100.091409944726  <S^2> = -3.5527137e-15  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction has an internal instability
+Try to optimize orbitals until stable, attempt 5
+
+WARN: HOMO -0.2738743056808742 > LUMO -0.3056381318597914 was found in the canonicalized orbitals.
+
+converged SCF energy = -100.0914099448  <S^2> = 1.5987212e-14  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction has an internal instability
+Try to optimize orbitals until stable, attempt 6
+
+WARN: HOMO -0.27387430783286115 > LUMO -0.3056381398242718 was found in the canonicalized orbitals.
+
+converged SCF energy = -100.0914099448  <S^2> = 4.3520743e-14  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction has an internal instability
+Try to optimize orbitals until stable, attempt 7
+
+WARN: HOMO -0.27387430617090736 > LUMO -0.3056381320912238 was found in the canonicalized orbitals.
+
+converged SCF energy = -100.0914099448  <S^2> = 9.7699626e-15  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction has an internal instability
+Try to optimize orbitals until stable, attempt 8
+
+WARN: HOMO 0.04058064920654939 > LUMO -0.5028120638604364 was found in the canonicalized orbitals.
+
+converged SCF energy = -99.825915074007  <S^2> = 4.4620307e-11  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction has an internal instability
+Try to optimize orbitals until stable, attempt 9
+
+WARN: HOMO -0.2731678601769907 > LUMO -0.30550534065109364 was found in the canonicalized orbitals.
+
+converged SCF energy = -100.090379294328  <S^2> = 1.7690738e-11  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction has an internal instability
+Try to optimize orbitals until stable, attempt 10
+
+WARN: HOMO -0.27316641903794425 > LUMO -0.3055039780898808 was found in the canonicalized orbitals.
+
+converged SCF energy = -100.090379294369  <S^2> = -6.2172489e-15  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction has an internal instability
+Try to optimize orbitals until stable, attempt 11
+
+WARN: HOMO 0.08289754750533468 > LUMO -0.4749351059171962 was found in the canonicalized orbitals.
+
+converged SCF energy = -99.8231537086088  <S^2> = -7.1054274e-15  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction has an internal instability
+Try to optimize orbitals until stable, attempt 12
+
+WARN: HOMO -0.27388032448797095 > LUMO -0.30563769361670345 was found in the canonicalized orbitals.
+
+converged SCF energy = -100.091409944725  <S^2> = -8.8817842e-16  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction has an internal instability
+Try to optimize orbitals until stable, attempt 13
+
+WARN: HOMO 0.04058025967065427 > LUMO -0.5028126608151859 was found in the canonicalized orbitals.
+
+converged SCF energy = -99.8259150740056  <S^2> = 1.0078516e-10  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction has an internal instability
+Try to optimize orbitals until stable, attempt 14
+
+WARN: HOMO -0.27387441355296377 > LUMO -0.3056381930278075 was found in the canonicalized orbitals.
+
+converged SCF energy = -100.0914099448  <S^2> = -8.8817842e-15  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction has an internal instability
+Try to optimize orbitals until stable, attempt 15
+
+WARN: HOMO 0.040584242275324735 > LUMO -0.5028102305167818 was found in the canonicalized orbitals.
+
+converged SCF energy = -99.825915074008  <S^2> = -1.2434498e-14  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction has an internal instability
+Try to optimize orbitals until stable, attempt 16
+
+WARN: HOMO -0.2731677304274913 > LUMO -0.305505951924405 was found in the canonicalized orbitals.
+
+converged SCF energy = -100.090379294364  <S^2> = 5.9417271e-10  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction has an internal instability
+Try to optimize orbitals until stable, attempt 17
+
+WARN: HOMO 0.08289766392141487 > LUMO -0.47493497528719275 was found in the canonicalized orbitals.
+
+converged SCF energy = -99.8231537086046  <S^2> = -7.9936058e-15  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction has an internal instability
+Try to optimize orbitals until stable, attempt 18
+
+WARN: HOMO -0.27388032098681575 > LUMO -0.3056376918623623 was found in the canonicalized orbitals.
+
+converged SCF energy = -100.091409944725  <S^2> = -5.3290705e-15  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction has an internal instability
+Try to optimize orbitals until stable, attempt 19
+
+WARN: HOMO -0.2738743213514465 > LUMO -0.30563813207566715 was found in the canonicalized orbitals.
+
+converged SCF energy = -100.091409944799  <S^2> = 1.3944401e-13  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction has an internal instability
+Try to optimize orbitals until stable, attempt 20
+
+WARN: HOMO 0.040580335572613216 > LUMO -0.5028112648754105 was found in the canonicalized orbitals.
+
+converged SCF energy = -99.8259150740046  <S^2> = 7.8674844e-12  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction has an internal instability
+Try to optimize orbitals until stable, attempt 21
+
+WARN: HOMO -0.27387441424870834 > LUMO -0.30563819306076523 was found in the canonicalized orbitals.
+
+converged SCF energy = -100.091409944799  <S^2> = 0  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction has an internal instability
+Try to optimize orbitals until stable, attempt 22
+
+WARN: HOMO 0.04058024972199951 > LUMO -0.5028116362745433 was found in the canonicalized orbitals.
+
+converged SCF energy = -99.8259150740045  <S^2> = 2.4241942e-11  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction has an internal instability
+Try to optimize orbitals until stable, attempt 23
+
+WARN: HOMO -0.27316793058267774 > LUMO -0.30550525824481367 was found in the canonicalized orbitals.
+
+converged SCF energy = -100.090379294326  <S^2> = -3.5527137e-15  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction has an internal instability
+Try to optimize orbitals until stable, attempt 24
+
+WARN: HOMO -0.2731658178325481 > LUMO -0.3055042631934667 was found in the canonicalized orbitals.
+
+converged SCF energy = -100.090379294399  <S^2> = 4.9293458e-10  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction has an internal instability
+Try to optimize orbitals until stable, attempt 25
+
+WARN: HOMO 0.08290441966848709 > LUMO -0.47491774659912794 was found in the canonicalized orbitals.
+
+converged SCF energy = -99.823153708735  <S^2> = -8.8817842e-15  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction has an internal instability
+Try to optimize orbitals until stable, attempt 26
+
+WARN: HOMO -0.27388031119017925 > LUMO -0.30563769294530063 was found in the canonicalized orbitals.
+
+converged SCF energy = -100.091409944725  <S^2> = -6.2172489e-15  2S+1 = 1
+<class 'pyscf.soscf.newton_ah.SecondOrderSymAdaptedUKS'> wavefunction has an internal instability
+Try to optimize orbitals until stable, attempt 27
+Traceback (most recent call last):
+  File "/home/peter/Research/MCReview/HFDissociation/UPBE/run.py", line 30, in <module>
+    mf = stable_opt_internal(mf)
+  File "/home/peter/Research/MCReview/HFDissociation/UPBE/run.py", line 17, in stable_opt_internal
+    mf = mf.run(np.array(mo1[0]), mf.mo_occ)
+  File "/home/peter/anaconda3/envs/sftd_dev/lib/python3.10/site-packages/pyscf/lib/misc.py", line 638, in run
+    self.kernel(*args)
+  File "/home/peter/anaconda3/envs/sftd_dev/lib/python3.10/site-packages/pyscf/soscf/newton_ah.py", line 883, in kernel
+    return _CIAH_SOSCF.kernel(self, mo_coeff, mo_occ, dm0)
+  File "/home/peter/anaconda3/envs/sftd_dev/lib/python3.10/site-packages/pyscf/soscf/newton_ah.py", line 750, in kernel
+    kernel(self, mo_coeff, mo_occ, dm0, conv_tol=self.conv_tol,
+  File "/home/peter/anaconda3/envs/sftd_dev/lib/python3.10/site-packages/pyscf/soscf/newton_ah.py", line 537, in kernel
+    rotaiter.send((mo_coeff, mo_occ, dm, vhf, e_tot))
+  File "/home/peter/anaconda3/envs/sftd_dev/lib/python3.10/site-packages/pyscf/soscf/newton_ah.py", line 428, in _rotate_orb_cc
+    vhf0 = mf._scf.get_veff(mf._scf.mol, dm, dm_last=dm0, vhf_last=vhf0)
+  File "/home/peter/anaconda3/envs/sftd_dev/lib/python3.10/site-packages/pyscf/dft/uks.py", line 52, in get_veff
+    n, exc, vxc = ni.nr_uks(mol, ks.grids, ks.xc, dm, max_memory=max_memory)
+  File "/home/peter/anaconda3/envs/sftd_dev/lib/python3.10/site-packages/pyscf/dft/numint.py", line 1284, in nr_uks
+    _dot_ao_ao_sparse(ao[0], aow, None, nbins, mask, pair_mask, ao_loc,
+  File "/home/peter/anaconda3/envs/sftd_dev/lib/python3.10/site-packages/pyscf/dft/numint.py", line 843, in _dot_ao_ao_sparse
+    return _dot_ao_ao_dense(ao1, ao2, wv, out)
+  File "/home/peter/anaconda3/envs/sftd_dev/lib/python3.10/site-packages/pyscf/dft/numint.py", line 830, in _dot_ao_ao_dense
+    return lib.ddot(ao1.T, ao2, 1, out, 1)
+  File "/home/peter/anaconda3/envs/sftd_dev/lib/python3.10/site-packages/pyscf/lib/numpy_helper.py", line 774, in ddot
+    return _dgemm(trans_a, trans_b, m, n, k, a, b, c, alpha, beta)
+  File "/home/peter/anaconda3/envs/sftd_dev/lib/python3.10/site-packages/pyscf/lib/numpy_helper.py", line 909, in _dgemm
+    _np_helper.NPdgemm(ctypes.c_char(trans_b.encode('ascii')),
+KeyboardInterrupt

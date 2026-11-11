@@ -1,0 +1,9 @@
+#p opt freq b3lyp cc-pvtz
+
+Title
+
+0 4
+N 
+O 1 1.294
+O 1 1.294 2 122.8
+

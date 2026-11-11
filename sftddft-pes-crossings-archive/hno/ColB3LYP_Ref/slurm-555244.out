@@ -1,0 +1,245 @@
+
+EnvironmentNameNotFound: Could not find conda environment: Opt.py
+You can list all discoverable environments with `conda info --envs`.
+
+
+O           0.63266       -0.03759        0.00000
+N          -0.53048        0.10408        0.00000
+H          -1.34789       -0.42788        0.00000
+/data/home/db100401/db100401/pyscf/SFTD/pyscf/dft/libxc.py:1102: UserWarning: Since PySCF-2.3, B3LYP (and B3P86) are changed to the VWN-RPA variant, corresponding to the original definition by Stephens et al. (issue 1480) and the same as the B3LYP functional in Gaussian. To restore the VWN5 definition, you can put the setting "B3LYP_WITH_VWN5 = True" in pyscf_conf.py
+  warnings.warn('Since PySCF-2.3, B3LYP (and B3P86) are changed to the VWN-RPA variant, '
+converged SCF energy = -130.495192669515  <S^2> = 2.0071491  2S+1 = 3.0047623
+0-th state with excitation energy = 0.8951, S^2 = 0.0055 Norms: 0.993@(9, 1), 0.004@(8, 2)
+2-th state with excitation energy = 1.8956, S^2 = 0.0104 Norms: 0.545@(9, 2), 0.452@(8, 1)
+3-th state with excitation energy = 3.1434, S^2 = 0.0069 Norms: 0.995@(8, 2), 0.004@(9, 1)
+--------- TDA_SF gradients for state 1 ----------
+         x                y                z
+0 O    -0.0313377067     0.0590416049     0.0000000000
+1 N     0.0133782454    -0.1493132601    -0.0000000000
+2 H     0.0179575247     0.0902707555     0.0000000000
+----------------------------------------------
+
+WARN: state=0 found in the input. Gradients of ground state is computed.
+
+--------------- UKS gradients ---------------
+         x                y                z
+0 O    -0.0701923837     0.0256748541    -0.0000000000
+1 N     0.0468245650    -0.0652562613     0.0000000000
+2 H     0.0233659147     0.0395792594    -0.0000000000
+----------------------------------------------
+O           0.59785       -0.11297       -0.00000
+N          -0.49332        0.29428        0.00000
+H          -1.35024       -0.54270       -0.00000
+converged SCF energy = -130.490144435771  <S^2> = 2.0075733  2S+1 = 3.0050446
+0-th state with excitation energy = -0.2572, S^2 = 0.0056 Norms: 0.992@(9, 1), 0.006@(9, 3)
+2-th state with excitation energy = 1.8310, S^2 = 0.0693 Norms: 0.673@(9, 2), 0.324@(8, 1)
+3-th state with excitation energy = 4.2372, S^2 = 0.0076 Norms: 0.997@(8, 2), 0.001@(9, 1)
+--------- TDA_SF gradients for state 1 ----------
+         x                y                z
+0 O    -0.0165003363     0.0204143167    -0.0000000000
+1 N     0.0501562108    -0.0057461400    -0.0000000000
+2 H    -0.0336727911    -0.0146897038     0.0000000000
+----------------------------------------------
+
+WARN: state=0 found in the input. Gradients of ground state is computed.
+
+--------------- UKS gradients ---------------
+         x                y                z
+0 O    -0.0840302572     0.0253995379     0.0000000000
+1 N     0.1222601317     0.0194796917    -0.0000000000
+2 H    -0.0382499920    -0.0449030792    -0.0000000000
+----------------------------------------------
+Delta F = 7.71e-02,  Delta E = 9.45e-03.
+O           0.66263       -0.14271       -0.00000
+N          -0.57576        0.31389        0.00000
+H          -1.33258       -0.53256       -0.00000
+converged SCF energy = -130.491814216028  <S^2> = 2.0081443  2S+1 = 3.0054246
+0-th state with excitation energy = 0.1939, S^2 = 0.0168 Norms: 0.992@(9, 1), 0.003@(6, 1)
+2-th state with excitation energy = 1.9018, S^2 = 0.0150 Norms: 0.557@(9, 2), 0.436@(8, 1)
+3-th state with excitation energy = 3.9853, S^2 = 0.0307 Norms: 0.997@(8, 2), 0.001@(9, 1)
+--------- TDA_SF gradients for state 1 ----------
+         x                y                z
+0 O     0.1336421974    -0.0372071465    -0.0000000000
+1 N    -0.0974692249     0.0578610140     0.0000000000
+2 H    -0.0361861228    -0.0206715851     0.0000000000
+----------------------------------------------
+
+WARN: state=0 found in the input. Gradients of ground state is computed.
+
+--------------- UKS gradients ---------------
+         x                y                z
+0 O     0.0830015883    -0.0306746575    -0.0000000000
+1 N    -0.0458499285     0.0722819428     0.0000000000
+2 H    -0.0371665383    -0.0416253824    -0.0000000000
+----------------------------------------------
+O           0.62668       -0.12621       -0.00000
+N          -0.53001        0.30301        0.00000
+H          -1.34238       -0.53819       -0.00000
+converged SCF energy = -130.497291456159  <S^2> = 2.0077977  2S+1 = 3.005194
+0-th state with excitation energy = -0.0387, S^2 = 0.0081 Norms: 0.993@(9, 1), 0.004@(9, 3)
+2-th state with excitation energy = 1.8616, S^2 = 0.0549 Norms: 0.652@(9, 2), 0.345@(8, 1)
+3-th state with excitation energy = 4.0855, S^2 = 0.0117 Norms: 0.997@(8, 2), 0.001@(9, 1)
+--------- TDA_SF gradients for state 1 ----------
+         x                y                z
+0 O     0.0712241265    -0.0131436860    -0.0000000000
+1 N    -0.0343655673     0.0323355988    -0.0000000000
+2 H    -0.0368743886    -0.0192132155     0.0000000000
+----------------------------------------------
+
+WARN: state=0 found in the input. Gradients of ground state is computed.
+
+--------------- UKS gradients ---------------
+         x                y                z
+0 O     0.0134656763    -0.0083115776    -0.0000000000
+1 N     0.0265601692     0.0544167854     0.0000000000
+2 H    -0.0400451123    -0.0461285493    -0.0000000000
+----------------------------------------------
+Delta F = 1.60e-02,  Delta E = 1.42e-03.
+O           0.61475       -0.12066       -0.00000
+N          -0.53889        0.27429        0.00000
+H          -1.32156       -0.51500       -0.00000
+converged SCF energy = -130.503483206263  <S^2> = 2.0074418  2S+1 = 3.0049571
+0-th state with excitation energy = 0.0307, S^2 = 0.0073 Norms: 0.994@(9, 1), 0.003@(9, 3)
+2-th state with excitation energy = 1.8758, S^2 = 0.0408 Norms: 0.628@(9, 2), 0.368@(8, 1)
+3-th state with excitation energy = 4.0162, S^2 = 0.0099 Norms: 0.997@(8, 2), 0.001@(9, 1)
+--------- TDA_SF gradients for state 1 ----------
+         x                y                z
+0 O     0.0514365258     0.0004416432    -0.0000000000
+1 N    -0.0238656152     0.0006741514    -0.0000000000
+2 H    -0.0275732131    -0.0011438945     0.0000000000
+----------------------------------------------
+
+WARN: state=0 found in the input. Gradients of ground state is computed.
+
+--------------- UKS gradients ---------------
+         x                y                z
+0 O    -0.0054497636    -0.0009126100    -0.0000000000
+1 N     0.0339510076     0.0336608253    -0.0000000000
+2 H    -0.0285058710    -0.0327799319    -0.0000000000
+----------------------------------------------
+Delta F = 5.04e-03,  Delta E = 1.13e-03.
+O           0.59263       -0.12174       -0.00000
+N          -0.54467        0.26022        0.00000
+H          -1.29366       -0.49982       -0.00000
+converged SCF energy = -130.505508933789  <S^2> = 2.0071797  2S+1 = 3.0047827
+0-th state with excitation energy = 0.0337, S^2 = 0.0066 Norms: 0.995@(9, 1), 0.002@(9, 3)
+2-th state with excitation energy = 1.8843, S^2 = 0.0276 Norms: 0.601@(9, 2), 0.396@(8, 1)
+3-th state with excitation energy = 4.0178, S^2 = 0.0088 Norms: 0.997@(8, 2), 0.001@(9, 1)
+--------- TDA_SF gradients for state 1 ----------
+         x                y                z
+0 O     0.0200553269     0.0111916932    -0.0000000000
+1 N    -0.0076501662    -0.0259063028     0.0000000000
+2 H    -0.0124035150     0.0146871662    -0.0000000000
+----------------------------------------------
+
+WARN: state=0 found in the input. Gradients of ground state is computed.
+
+--------------- UKS gradients ---------------
+         x                y                z
+0 O    -0.0370121303     0.0076124242     0.0000000000
+1 N     0.0484969811     0.0112672384    -0.0000000000
+2 H    -0.0114853494    -0.0189110999    -0.0000000000
+----------------------------------------------
+Delta F = 1.93e-03,  Delta E = 1.24e-03.
+O           0.58296       -0.12885       -0.00000
+N          -0.55048        0.26725        0.00000
+H          -1.27818       -0.49972       -0.00000
+converged SCF energy = -130.505521239132  <S^2> = 2.0071637  2S+1 = 3.004772
+0-th state with excitation energy = 0.0079, S^2 = 0.0068 Norms: 0.995@(9, 1), 0.002@(9, 3)
+2-th state with excitation energy = 1.8882, S^2 = 0.0220 Norms: 0.587@(9, 2), 0.410@(8, 1)
+3-th state with excitation energy = 4.0576, S^2 = 0.0093 Norms: 0.997@(8, 2), 0.001@(9, 1)
+--------- TDA_SF gradients for state 1 ----------
+         x                y                z
+0 O     0.0172625047     0.0078406844     0.0000000000
+1 N    -0.0111120017    -0.0230444138     0.0000000000
+2 H    -0.0061560380     0.0151773854    -0.0000000000
+----------------------------------------------
+
+WARN: state=0 found in the input. Gradients of ground state is computed.
+
+--------------- UKS gradients ---------------
+         x                y                z
+0 O    -0.0393110223     0.0065334349     0.0000000000
+1 N     0.0442803510     0.0098402419    -0.0000000000
+2 H    -0.0049777335    -0.0164035500    -0.0000000000
+----------------------------------------------
+Delta F = 7.25e-04,  Delta E = 2.89e-04.
+O           0.57764       -0.13669       -0.00000
+N          -0.55872        0.27561        0.00000
+H          -1.26460       -0.50021       -0.00000
+converged SCF energy = -130.505684081021  <S^2> = 2.0072159  2S+1 = 3.0048068
+0-th state with excitation energy = 0.0009, S^2 = 0.0073 Norms: 0.995@(9, 1), 0.001@(9, 3)
+2-th state with excitation energy = 1.8942, S^2 = 0.0162 Norms: 0.569@(9, 2), 0.427@(8, 1)
+3-th state with excitation energy = 4.0867, S^2 = 0.0105 Norms: 0.997@(8, 2), 0.001@(9, 1)
+--------- TDA_SF gradients for state 1 ----------
+         x                y                z
+0 O     0.0242894809     0.0010281964     0.0000000000
+1 N    -0.0233829697    -0.0159449237    -0.0000000000
+2 H    -0.0009185939     0.0148927346    -0.0000000000
+----------------------------------------------
+
+WARN: state=0 found in the input. Gradients of ground state is computed.
+
+--------------- UKS gradients ---------------
+         x                y                z
+0 O    -0.0309076821     0.0021009726     0.0000000000
+1 N     0.0303442327     0.0118746018    -0.0000000000
+2 H     0.0005479817    -0.0140023329    -0.0000000000
+----------------------------------------------
+Delta F = 3.05e-04,  Delta E = 3.28e-05.
+O           0.57771       -0.13812       -0.00000
+N          -0.56005        0.27783        0.00000
+H          -1.26334       -0.50098       -0.00000
+converged SCF energy = -130.505688832283  <S^2> = 2.0072361  2S+1 = 3.0048202
+0-th state with excitation energy = 0.0005, S^2 = 0.0074 Norms: 0.995@(9, 1), 0.001@(9, 3)
+2-th state with excitation energy = 1.8949, S^2 = 0.0156 Norms: 0.567@(9, 2), 0.430@(8, 1)
+3-th state with excitation energy = 4.0914, S^2 = 0.0108 Norms: 0.997@(8, 2), 0.001@(9, 1)
+--------- TDA_SF gradients for state 1 ----------
+         x                y                z
+0 O     0.0271393673    -0.0007919223    -0.0000000000
+1 N    -0.0263233481    -0.0131430963     0.0000000000
+2 H    -0.0008293546     0.0139116729    -0.0000000000
+----------------------------------------------
+
+WARN: state=0 found in the input. Gradients of ground state is computed.
+
+--------------- UKS gradients ---------------
+         x                y                z
+0 O    -0.0277871173     0.0008225791    -0.0000000000
+1 N     0.0271919823     0.0135487912     0.0000000000
+2 H     0.0005783222    -0.0143972783     0.0000000000
+----------------------------------------------
+Delta F = 1.18e-05,  Delta E = 1.90e-05.
+O           0.57758       -0.13820       -0.00000
+N          -0.56017        0.27787        0.00000
+H          -1.26308       -0.50093        0.00000
+converged SCF energy = -130.505688484055  <S^2> = 2.007236  2S+1 = 3.0048201
+0-th state with excitation energy = 0.0005, S^2 = 0.0074 Norms: 0.995@(9, 1), 0.001@(9, 3)
+2-th state with excitation energy = 1.8951, S^2 = 0.0155 Norms: 0.567@(9, 2), 0.430@(8, 1)
+3-th state with excitation energy = 4.0917, S^2 = 0.0108 Norms: 0.997@(8, 2), 0.001@(9, 1)
+--------- TDA_SF gradients for state 1 ----------
+         x                y                z
+0 O     0.0271149101    -0.0008317438    -0.0000000000
+1 N    -0.0264299365    -0.0131814730     0.0000000000
+2 H    -0.0006983493     0.0139899002    -0.0000000000
+----------------------------------------------
+
+WARN: state=0 found in the input. Gradients of ground state is computed.
+
+--------------- UKS gradients ---------------
+         x                y                z
+0 O    -0.0277942004     0.0007992770     0.0000000000
+1 N     0.0270561793     0.0134681917    -0.0000000000
+2 H     0.0007211634    -0.0142933413    -0.0000000000
+----------------------------------------------
+Delta F = 4.97e-08,  Delta E = 1.82e-05.
+Traceback (most recent call last):
+  File "Opt.py", line 137, in <module>
+    minimize(fun=F, x0=R0, method='BFGS', jac=True, tol=1e-6, callback=callback)
+  File "/data/home/db100401/db100401/.conda/envs/pyscf_dev/lib/python3.8/site-packages/scipy/optimize/_minimize.py", line 691, in minimize
+    res = _minimize_bfgs(fun, x0, args, jac, callback, **options)
+  File "/data/home/db100401/db100401/.conda/envs/pyscf_dev/lib/python3.8/site-packages/scipy/optimize/_optimize.py", line 1407, in _minimize_bfgs
+    callback(xk)
+  File "Opt.py", line 131, in callback
+    raise StopIteration(f"Converged at given sigma={sigma:.2f}.")
+StopIteration: Converged at given sigma=3.50.

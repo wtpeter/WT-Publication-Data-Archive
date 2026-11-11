@@ -1,0 +1,101 @@
+#INFO: **** input file is /public1/home/scg0213/Jobs_WT/NCNLDFT/RotationSymmetryTest0104/NonSCF/x/NonSCF.py ****
+#!/usr/bin/env python
+
+from pyscf import gto, dft
+import numpy as np
+from scipy.linalg import block_diag
+import sys
+sys.path.append('/public1/home/scg0213/Jobs_WT/NCNLDFT/src')
+sys.path.append('/home/peter/Research/NCNLDFT/code/src')
+sys.path.append('/public1/home/scg0213/Jobs_WT/Tools')
+sys.path.append('/home/peter/Research/Tools')
+from gks_nl_new import GKSMCNL_nscf
+from rotate import rotate_spin_dm
+
+vec = (1, 0, 0)
+vec = (1, 0, 0)
+bas = 'cc-pvqz'
+l = 4.0
+a = l / np.sqrt(3)
+atom=f'''
+Li 0.0 {a:.10f} 0.0;
+Li {-np.sqrt(3)*a/2:.10f} {-0.5*a:.10f} 0.0;
+Li {np.sqrt(3)*a/2:.10f} {-0.5*a:.10f} 0.0;
+'''
+mol = gto.M(atom=atom, charge=0, spin=3, basis=bas, verbose=4)
+
+gwsda = GKSMCNL_nscf(mol, xc='', epsilon=1e-11)
+gwsda.spin_samples = 110
+gwsda.grids.prune = None
+gwsda.grids.atom_grid = (15, 86)
+gwsda.max_memory = 300000
+
+theta_list = np.linspace(0, 180, 13)
+energy_list = []
+for theta in theta_list:
+    ang = np.deg2rad(theta)
+    dm0 = np.load('../GHF.npy')
+    dm1 = rotate_spin_dm(dm0, vec, ang)
+    wsdae = gwsda.energy_tot(dm1)
+    print('theta:', theta, 'energy:', wsdae)
+    energy_list.append(wsdae)
+
+    np.save('energy', np.array(energy_list))
+#INFO: ******************** input file end ********************
+
+
+System: uname_result(system='Linux', node='g0306.para.bscc', release='3.10.0-1160.118.1.el7.x86_64', version='#1 SMP Wed Apr 24 16:01:50 UTC 2024', machine='x86_64', processor='x86_64')  Threads 128
+Python 3.8.19 (default, Mar 20 2024, 19:58:24) 
+[GCC 11.2.0]
+numpy 1.22.3  scipy 1.10.1
+Date: Mon Jan  6 10:42:16 2025
+PySCF version 2.5.0
+PySCF path  /public1/home/scg0213/.conda/envs/pyscf-2.5/lib/python3.8/site-packages/pyscf
+
+[CONFIG] conf_file None
+[INPUT] verbose = 4
+[INPUT] num. atoms = 3
+[INPUT] num. electrons = 9
+[INPUT] charge = 0
+[INPUT] spin (= nelec alpha-beta = 2S) = 3
+[INPUT] symmetry False subgroup None
+[INPUT] Mole.unit = angstrom
+[INPUT] Symbol           X                Y                Z      unit          X                Y                Z       unit  Magmom
+[INPUT]  1 Li     0.000000000000   2.309401076800   0.000000000000 AA    0.000000000000   4.364135546928   0.000000000000 Bohr   0.0
+[INPUT]  2 Li    -2.000000000000  -1.154700538400   0.000000000000 AA   -3.779452249130  -2.182067773464   0.000000000000 Bohr   0.0
+[INPUT]  3 Li     2.000000000000  -1.154700538400   0.000000000000 AA    3.779452249130  -2.182067773464   0.000000000000 Bohr   0.0
+
+nuclear repulsion = 3.57194617367791
+number of shells = 42
+number of NR pGTOs = 204
+number of NR cGTOs = 165
+basis = cc-pvqz
+ecp = {}
+CPU time:        20.36
+tot grids = 3872
+0 20 40 
+theta: 0.0 energy: -22.004864558629677
+0 20 40 
+theta: 15.0 energy: -22.004864558630196
+0 20 40 
+theta: 30.0 energy: -22.00486455862996
+0 20 40 
+theta: 45.0 energy: -22.004864558629976
+0 20 40 
+theta: 60.0 energy: -22.00486455863004
+0 20 40 
+theta: 75.0 energy: -22.004864558630224
+0 20 40 
+theta: 90.0 energy: -22.004864558629667
+0 20 40 
+theta: 105.0 energy: -22.00486455863022
+0 20 40 
+theta: 120.0 energy: -22.004864558630054
+0 20 40 
+theta: 135.0 energy: -22.00486455862998
+0 20 40 
+theta: 150.0 energy: -22.004864558629965
+0 20 40 
+theta: 165.0 energy: -22.00486455863018
+0 20 40 
+theta: 180.0 energy: -22.004864558629677

@@ -1,0 +1,85 @@
+converged SCF energy = -512.968328240574
+Excited State energies (eV)
+[1.18989815 3.02541725 3.02543051 4.7477058  4.74770629]
+Excited State energies (eV)
+[1.04303905 2.11282621 2.11284234 3.81570899 3.8157144 ]
+converged SCF energy = -512.926472194652  <S^2> = 2.0019478  2S+1 = 3.0012982
+Overwritten attributes  positive_eig_threshold  of <class 'pyscf.sftda.uks_sf.CasidaTDDFT'>
+50
+Excited State energies (eV)
+[-1.23403916e+00 -4.80930643e-06  4.89827520e-02  1.15902824e+00
+  1.15904653e+00]
+0-th state with excitation energy = -1.2340, S^2 = 0.0017 Norms: 1.000@(45, 1), 0.000@(44, 2)
+2-th state with excitation energy = 0.0490, S^2 = 0.0136 Norms: 0.500@(45, 2), 0.500@(44, 1)
+1-th state with excitation energy = -0.0000, S^2 = 2.0104 Norms: 0.500@(44, 1), 0.499@(45, 2)
+SVWN: SC-TDDFT gap=0.147, SF-TDDFT gap=0.049
+converged SCF energy = -517.386865738213
+Excited State energies (eV)
+[1.19795103 3.02702887 3.02706335 3.87728285 4.73379013]
+Excited State energies (eV)
+[1.03230464 2.04553534 2.04557545 3.72710387 3.72711805]
+converged SCF energy = -517.346889229917  <S^2> = 2.0039052  2S+1 = 3.0026023
+50
+Excited State energies (eV)
+[-1.14256840e+00 -2.42344582e-02  5.03101169e-07  1.18744607e+00
+  1.18747343e+00]
+0-th state with excitation energy = -1.1426, S^2 = 0.0036 Norms: 0.999@(45, 1), 0.001@(44, 2)
+1-th state with excitation energy = -0.0242, S^2 = 0.0295 Norms: 0.502@(44, 1), 0.501@(45, 2)
+2-th state with excitation energy = 0.0000, S^2 = 2.0208 Norms: 0.500@(45, 2), 0.499@(44, 1)
+BLYP: SC-TDDFT gap=0.166, SF-TDDFT gap=-0.024
+/public1/home/scg0213/.conda/envs/sftd_wt/lib/python3.8/site-packages/pyscf/dft/libxc.py:1102: UserWarning: Since PySCF-2.3, B3LYP (and B3P86) are changed to the VWN-RPA variant, corresponding to the original definition by Stephens et al. (issue 1480) and the same as the B3LYP functional in Gaussian. To restore the VWN5 definition, you can put the setting "B3LYP_WITH_VWN5 = True" in pyscf_conf.py
+  warnings.warn('Since PySCF-2.3, B3LYP (and B3P86) are changed to the VWN-RPA variant, '
+converged SCF energy = -517.599567002765
+TD-SCF states [3, 4] not converged.
+Excited State energies (eV)
+[1.24884001 3.24863275 3.24864326 4.24085447 5.17639043]
+Excited State energies (eV)
+[1.04374385 2.04562988 2.04564994 3.9243735  3.92439195]
+converged SCF energy = -517.559563480537  <S^2> = 2.0102027  2S+1 = 3.0067941
+50
+Excited State energies (eV)
+[-1.13390184e+00 -2.39567298e-01 -2.21045878e-06  1.37858096e+00
+  1.37860698e+00]
+0-th state with excitation energy = -1.1339, S^2 = 0.0124 Norms: 1.002@(45, 1), 0.002@(44, 2)
+1-th state with excitation energy = -0.2396, S^2 = 0.0844 Norms: 0.514@(44, 1), 0.509@(45, 2)
+2-th state with excitation energy = -0.0000, S^2 = 2.0546 Norms: 0.500@(44, 1), 0.497@(45, 2)
+B3LYP: SC-TDDFT gap=0.205, SF-TDDFT gap=-0.240
+converged SCF energy = -516.941852595675
+Excited State energies (eV)
+[1.21127876 3.05009331 3.05012775 4.04377356 4.76935828]
+Excited State energies (eV)
+[1.03199219 2.03886654 2.03889885 3.73472657 3.734753  ]
+converged SCF energy = -516.901871229382  <S^2> = 2.0042768  2S+1 = 3.0028499
+50
+Excited State energies (eV)
+[-1.14161860e+00 -1.93936616e-02  4.35843363e-07  1.19579669e+00
+  1.19582079e+00]
+0-th state with excitation energy = -1.1416, S^2 = 0.0039 Norms: 0.999@(45, 1), 0.001@(44, 2)
+1-th state with excitation energy = -0.0194, S^2 = 0.0326 Norms: 0.502@(44, 1), 0.501@(45, 2)
+2-th state with excitation energy = 0.0000, S^2 = 2.0228 Norms: 0.500@(45, 2), 0.499@(44, 1)
+PBE: SC-TDDFT gap=0.179, SF-TDDFT gap=-0.019
+converged SCF energy = -516.980251191867
+TD-SCF states [2, 3, 4] not converged.
+Excited State energies (eV)
+[1.27684814 3.32021786 3.32023759 4.48620013 5.08415189]
+Excited State energies (eV)
+[1.03557156 2.00688722 2.00691112 3.94315351 4.32944308]
+converged SCF energy = -516.940626964262  <S^2> = 2.0145323  2S+1 = 3.0096726
+50
+Excited State energies (eV)
+[-1.12078424e+00 -3.64536601e-01 -4.40388903e-06  1.42242940e+00
+  1.42245546e+00]
+0-th state with excitation energy = -1.1208, S^2 = 0.0177 Norms: 1.004@(45, 1), 0.003@(44, 2)
+1-th state with excitation energy = -0.3645, S^2 = 0.1230 Norms: 0.528@(44, 1), 0.518@(45, 2)
+2-th state with excitation energy = -0.0000, S^2 = 2.0778 Norms: 0.500@(44, 1), 0.496@(45, 2)
+PBE0: SC-TDDFT gap=0.241, SF-TDDFT gap=-0.365
+Traceback (most recent call last):
+  File "1.py", line 96, in <module>
+    df.to_excel('S_T_gap.xlsx', index=False)
+  File "/public1/home/scg0213/.conda/envs/sftd_wt/lib/python3.8/site-packages/pandas/core/generic.py", line 2252, in to_excel
+    formatter.write(
+  File "/public1/home/scg0213/.conda/envs/sftd_wt/lib/python3.8/site-packages/pandas/io/formats/excel.py", line 934, in write
+    writer = ExcelWriter(  # type: ignore[abstract]
+  File "/public1/home/scg0213/.conda/envs/sftd_wt/lib/python3.8/site-packages/pandas/io/excel/_openpyxl.py", line 56, in __init__
+    from openpyxl.workbook import Workbook
+ModuleNotFoundError: No module named 'openpyxl'

@@ -1,0 +1,28 @@
+CalculationMode = gs
+
+BD = 1.0*angstrom
+a = BD / sqrt(3)
+%Coordinates
+ 'H' |  0 | a | 0
+ 'H' |  -sqrt(3)*a/2 | -0.5*a | 0
+ 'H' |  sqrt(3)*a/2 | -0.5*a | 0
+%
+
+Spacing = 0.3
+Radius = 8
+
+XCFunctional = slater_x
+
+SpinComponents = non_collinear
+GuessMagnetDensity = user_defined
+%AtomsMagnetDirection
+ 0.0 | 1.0 | 0.0
+ -sqrt(3)/2 | -1/2 | 0
+  sqrt(3)/2 | -1/2 | 0
+%
+
+ExtraStates = 5
+Eigensolver = chebyshev_filter
+OptimizeChebyshevFilterDegree = no
+EigensolverTolerance = 1e-9
+Mixing = 0.1

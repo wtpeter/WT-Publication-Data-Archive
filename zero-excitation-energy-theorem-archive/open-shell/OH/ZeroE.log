@@ -1,0 +1,48 @@
+converged SCF energy = -75.4190603865196  <S^2> = 0.75611297  2S+1 = 2.0061037
+<class 'pyscf.scf.uhf.UHF'> wavefunction is stable in the internal stability analysis
+<class 'pyscf.scf.uhf.UHF'> wavefunction is stable in the real -> complex stability analysis
+<class 'pyscf.scf.uhf.UHF'> wavefunction is stable in the UHF/UKS -> GHF/GKS stability analysis
+----------
+SVWN
+SCF not converged.
+SCF energy = -75.1955185847594 after 100 cycles  <S^2> = 0.7517729  2S+1 = 2.0017721
+[1.23615970e-08 1.52434645e-01 3.79173737e+00 8.09414316e+00
+ 9.82155056e+00]
+[0.06171144 0.17685546 3.81591647 8.10859504 9.82946669]
+----------
+BLYP
+SCF not converged.
+SCF energy = -75.7500069439618 after 100 cycles  <S^2> = 0.75183876  2S+1 = 2.0018379
+[-6.77981967e-08  2.29942361e-01  3.98526040e+00  7.54297680e+00
+  9.41490368e+00]
+[0.08862792 0.28099929 4.03129986 7.56972637 9.42913479]
+----------
+PBE
+SCF not converged.
+SCF energy = -75.6772309437429 after 100 cycles  <S^2> = 0.75192812  2S+1 = 2.0019272
+[-4.20600812e-08  3.16338728e-01  4.10039265e+00  7.78929275e+00
+  9.75769319e+00]
+[0.09759628 0.36770428 4.14788226 7.81639122 9.77276151]
+----------
+TPSS
+SCF not converged.
+SCF energy = -75.7683124591749 after 100 cycles  <S^2> = 0.75232825  2S+1 = 2.0023269
+[4.64432394e-10 5.82958592e-01 4.44350669e+00 8.10043520e+00
+ 1.01618780e+01]
+[ 0.12238136  0.65479462  4.50680542  8.14083648 10.18166743]
+----------
+B3LYP
+/home/peter/anaconda3/envs/pyscfforge/lib/python3.9/site-packages/pyscf/dft/libxc.py:512: UserWarning: Since PySCF-2.3, B3LYP (and B3P86) are changed to the VWN-RPA variant, corresponding to the original definition by Stephens et al. (issue 1480) and the same as the B3LYP functional in Gaussian. To restore the VWN5 definition, you can put the setting "B3LYP_WITH_VWN5 = True" in pyscf_conf.py
+  warnings.warn('Since PySCF-2.3, B3LYP (and B3P86) are changed to the VWN-RPA variant, '
+SCF not converged.
+SCF energy = -75.7641260369519 after 100 cycles  <S^2> = 0.75221071  2S+1 = 2.0022095
+[-7.86805877e-09  1.17162751e-01  3.96411125e+00  8.09009346e+00
+  1.00226072e+01]
+[ 0.10282624  0.17638602  4.01834138  8.1251924  10.04531445]
+----------
+PBE0
+SCF not converged.
+SCF energy = -75.6816993546172 after 100 cycles  <S^2> = 0.7524889  2S+1 = 2.0024874
+[-7.37404664e-09  1.90569639e-01  4.09596835e+00  8.38782997e+00
+  1.04703255e+01]
+[ 0.12217928  0.25774003  4.15859894  8.42980901 10.49877504]

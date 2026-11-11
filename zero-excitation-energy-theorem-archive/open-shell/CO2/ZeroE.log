@@ -1,0 +1,42 @@
+converged SCF energy = -187.208848585832  <S^2> = 8.9025048  2S+1 = 6.0506214
+<class 'pyscf.scf.uhf.UHF'> wavefunction has an internal instability
+<class 'pyscf.scf.uhf.UHF'> wavefunction has an real -> complex instability
+<class 'pyscf.scf.uhf.UHF'> wavefunction has an UHF/UKS -> GHF/GKS instability
+----------
+SVWN
+converged SCF energy = -186.788120580449  <S^2> = 8.7585969  2S+1 = 6.002865
+[-1.11384806e-10  3.69181011e-01  3.69181559e-01  9.17044044e-01
+  1.37844886e+00]
+[0.04017272 0.38385498 0.38385552 0.95074784 1.40507078]
+----------
+BLYP
+converged SCF energy = -188.203804208974  <S^2> = 8.7617707  2S+1 = 6.0039223
+[1.12311596e-09 1.60679785e-01 1.60680202e-01 8.28561425e-01
+ 9.86294598e-01]
+[0.05638844 0.1854221  0.18542251 0.85935256 1.04611606]
+----------
+PBE
+converged SCF energy = -188.020422048693  <S^2> = 8.7600159  2S+1 = 6.0033377
+[-1.46726840e-10  3.14666605e-01  3.14667010e-01  8.41698265e-01
+  1.04641586e+00]
+[0.05091467 0.34306253 0.34306294 0.87396221 1.10643375]
+----------
+TPSS
+converged SCF energy = -188.249106845516  <S^2> = 8.7640037  2S+1 = 6.0046661
+[-5.72755146e-10  4.96505155e-01  4.96505497e-01  9.09822118e-01
+  1.00829270e+00]
+[0.07039868 0.53705652 0.53705686 0.95222632 1.09167538]
+----------
+B3LYP
+/home/peter/anaconda3/envs/pyscfforge/lib/python3.9/site-packages/pyscf/dft/libxc.py:512: UserWarning: Since PySCF-2.3, B3LYP (and B3P86) are changed to the VWN-RPA variant, corresponding to the original definition by Stephens et al. (issue 1480) and the same as the B3LYP functional in Gaussian. To restore the VWN5 definition, you can put the setting "B3LYP_WITH_VWN5 = True" in pyscf_conf.py
+  warnings.warn('Since PySCF-2.3, B3LYP (and B3P86) are changed to the VWN-RPA variant, '
+converged SCF energy = -188.197967881966  <S^2> = 8.7744671  2S+1 = 6.0081502
+[-2.24284494e-10  3.62099843e-01  3.62100192e-01  1.17728314e+00
+  1.17728687e+00]
+[0.10204904 0.404764   0.40476434 1.22553945 1.26878672]
+----------
+PBE0
+converged SCF energy = -187.980302716165  <S^2> = 8.7766969  2S+1 = 6.0088924
+[1.06691603e-08 5.50143076e-01 5.50143395e-01 1.26196423e+00
+ 1.26196887e+00]
+[0.11148165 0.60425385 0.60425416 1.31800921 1.37148147]

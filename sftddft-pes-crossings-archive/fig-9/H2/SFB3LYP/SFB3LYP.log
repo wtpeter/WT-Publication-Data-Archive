@@ -1,0 +1,889 @@
+/home/peter/anaconda3/envs/sftd_dev/lib/python3.10/site-packages/pyscf/dft/libxc.py:556: UserWarning: Since PySCF-2.3, B3LYP (and B3P86) are changed to the VWN-RPA variant, corresponding to the original definition by Stephens et al. (issue 1480) and the same as the B3LYP functional in Gaussian. To restore the VWN5 definition, you can put the setting "B3LYP_WITH_VWN5 = True" in pyscf_conf.py
+  warnings.warn('Since PySCF-2.3, B3LYP (and B3P86) are changed to the VWN-RPA variant, '
+converged SCF energy = -0.356034479515635  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -14.6415 eV, S^2 = 0.0346 Norms: 0.994@(2, 1), 0.003@(1, 4)
+2-th state with excitation energy = 2.6897 eV, S^2 = 0.2829 Norms: 0.819@(1, 1), 0.155@(2, 2)
+4-th state with excitation energy = 26.2402 eV, S^2 = 0.0035 Norms: 0.982@(1, 2), 0.015@(1, 4)
+Excited energy : -14.641499030862251 eV.
+<S2> value : 0.03461214676272917.
+The main and second norm:
+0.9943376248142637 0.003358902557478656
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 4.0)
+
+
+None
+converged SCF energy = -0.464846864172707  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -13.8519 eV, S^2 = 0.0325 Norms: 0.993@(2, 1), 0.004@(1, 4)
+2-th state with excitation energy = 2.8412 eV, S^2 = 0.2039 Norms: 0.771@(1, 1), 0.204@(2, 2)
+4-th state with excitation energy = 24.9025 eV, S^2 = 0.0030 Norms: 0.980@(1, 2), 0.016@(1, 4)
+Excited energy : -13.85187437566347 eV.
+<S2> value : 0.03246653837305358.
+The main and second norm:
+0.9931327313367694 0.0039050440675438263
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 4.0)
+
+
+None
+converged SCF energy = -0.547557368987023  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -13.0844 eV, S^2 = 0.0302 Norms: 0.992@(2, 1), 0.004@(1, 4)
+2-th state with excitation energy = 3.0217 eV, S^2 = 0.1445 Norms: 0.725@(1, 1), 0.251@(2, 2)
+4-th state with excitation energy = 23.6310 eV, S^2 = 0.0022 Norms: 0.978@(1, 2), 0.017@(1, 4)
+Excited energy : -13.084423679675384 eV.
+<S2> value : 0.030219771528821937.
+The main and second norm:
+0.9916829638275005 0.004436672400307939
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 4.0)
+
+
+None
+converged SCF energy = -0.612199274934193  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -12.3345 eV, S^2 = 0.0280 Norms: 0.990@(2, 1), 0.005@(1, 4)
+2-th state with excitation energy = 3.2279 eV, S^2 = 0.1025 Norms: 0.684@(1, 1), 0.294@(2, 2)
+4-th state with excitation energy = 22.4345 eV, S^2 = 0.0017 Norms: 0.976@(1, 2), 0.017@(1, 4)
+Excited energy : -12.334516248940421 eV.
+<S2> value : 0.02797224119996855.
+The main and second norm:
+0.9900459587604646 0.004911819383486288
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 4.0)
+
+
+None
+converged SCF energy = -0.66400118318018  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -11.5964 eV, S^2 = 0.0257 Norms: 0.988@(2, 1), 0.006@(1, 2)
+2-th state with excitation energy = 3.4550 eV, S^2 = 0.0743 Norms: 0.647@(1, 1), 0.332@(2, 2)
+4-th state with excitation energy = 21.3181 eV, S^2 = 0.0020 Norms: 0.974@(1, 2), 0.016@(1, 4)
+Excited energy : -11.596441063918794 eV.
+<S2> value : 0.02573942310485622.
+The main and second norm:
+0.9882704449763939 0.005648167120084105
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.706454135282965  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -10.8689 eV, S^2 = 0.0235 Norms: 0.986@(2, 1), 0.007@(1, 2)
+2-th state with excitation energy = 3.6970 eV, S^2 = 0.0561 Norms: 0.617@(1, 1), 0.364@(2, 2)
+4-th state with excitation energy = 20.2843 eV, S^2 = 0.0047 Norms: 0.970@(1, 2), 0.015@(1, 4)
+Excited energy : -10.868923615146361 eV.
+<S2> value : 0.023544987184936694.
+The main and second norm:
+0.9863675775478535 0.006870260400976217
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.741934622195312  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -10.1524 eV, S^2 = 0.0214 Norms: 0.984@(2, 1), 0.008@(1, 2)
+2-th state with excitation energy = 3.9475 eV, S^2 = 0.0448 Norms: 0.592@(1, 1), 0.392@(2, 2)
+4-th state with excitation energy = 19.3416 eV, S^2 = 0.0149 Norms: 0.960@(1, 2), 0.019@(2, 3)
+Excited energy : -10.152393427183117 eV.
+<S2> value : 0.021436842880254492.
+The main and second norm:
+0.9843547636229396 0.008256721073851699
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.772087056758039  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -9.4528 eV, S^2 = 0.0194 Norms: 0.982@(2, 1), 0.010@(1, 2)
+2-th state with excitation energy = 4.2002 eV, S^2 = 0.0381 Norms: 0.572@(1, 1), 0.414@(2, 2)
+4-th state with excitation energy = 18.5269 eV, S^2 = 0.0626 Norms: 0.916@(1, 2), 0.069@(2, 3)
+Excited energy : -9.452819659036859 eV.
+<S2> value : 0.01944728193734635.
+The main and second norm:
+0.9821907803275193 0.009830507818264491
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.79806668516906  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -8.7792 eV, S^2 = 0.0176 Norms: 0.980@(2, 1), 0.012@(1, 2)
+2-th state with excitation energy = 4.4490 eV, S^2 = 0.0343 Norms: 0.555@(1, 1), 0.433@(2, 2)
+3-th state with excitation energy = 16.5524 eV, S^2 = 0.6146 Norms: 0.592@(2, 3), 0.359@(1, 2)
+4-th state with excitation energy = 18.0845 eV, S^2 = 0.3752 Norms: 0.614@(1, 2), 0.383@(2, 3)
+Excited energy : -8.779185932994414 eV.
+<S2> value : 0.01758987863425787.
+The main and second norm:
+0.9797835066017091 0.011634842617033648
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.820697869633664  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -8.1207 eV, S^2 = 0.0159 Norms: 0.977@(2, 1), 0.014@(1, 2)
+2-th state with excitation energy = 4.6885 eV, S^2 = 0.0323 Norms: 0.542@(1, 1), 0.448@(2, 2)
+3-th state with excitation energy = 16.3502 eV, S^2 = 0.1614 Norms: 0.806@(1, 2), 0.147@(2, 3)
+4-th state with excitation energy = 18.5954 eV, S^2 = 0.8311 Norms: 0.823@(2, 3), 0.166@(1, 2)
+Excited energy : -8.120672338677185 eV.
+<S2> value : 0.015935668444627904.
+The main and second norm:
+0.9773459747606575 0.013624255452814333
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.840579405582622  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -7.5044 eV, S^2 = 0.0144 Norms: 0.974@(2, 1), 0.016@(1, 2)
+2-th state with excitation energy = 4.9146 eV, S^2 = 0.0315 Norms: 0.531@(1, 1), 0.461@(2, 2)
+3-th state with excitation energy = 15.7347 eV, S^2 = 0.0643 Norms: 0.903@(1, 2), 0.054@(2, 3)
+Excited energy : -7.504386438899992 eV.
+<S2> value : 0.014396299276703939.
+The main and second norm:
+0.9744487641536088 0.015949086869634845
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.858155529944483  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -6.8952 eV, S^2 = 0.0131 Norms: 0.972@(2, 1), 0.018@(1, 2)
+2-th state with excitation energy = 5.1238 eV, S^2 = 0.0311 Norms: 0.522@(1, 1), 0.471@(2, 2)
+3-th state with excitation energy = 15.1037 eV, S^2 = 0.0380 Norms: 0.931@(1, 2), 0.028@(2, 3)
+Excited energy : -6.895196543943744 eV.
+<S2> value : 0.013083789955183889.
+The main and second norm:
+0.9716978312296607 0.01841754758523933
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.873764007284919  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -6.3386 eV, S^2 = 0.0119 Norms: 0.968@(2, 1), 0.021@(1, 2)
+2-th state with excitation energy = 5.3154 eV, S^2 = 0.0311 Norms: 0.515@(1, 1), 0.480@(2, 2)
+3-th state with excitation energy = 14.4818 eV, S^2 = 0.0289 Norms: 0.939@(1, 2), 0.026@(2, 1)
+Excited energy : -6.338594930905763 eV.
+<S2> value : 0.01185815611872787.
+The main and second norm:
+0.9682892616703734 0.021334862848578995
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.887668678463025  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -5.7864 eV, S^2 = 0.0108 Norms: 0.965@(2, 1), 0.024@(1, 2)
+2-th state with excitation energy = 5.4881 eV, S^2 = 0.0312 Norms: 0.509@(1, 1), 0.487@(2, 2)
+3-th state with excitation energy = 13.9100 eV, S^2 = 0.0245 Norms: 0.943@(1, 2), 0.029@(2, 1)
+Excited energy : -5.786365404999475 eV.
+<S2> value : 0.010830130299214424.
+The main and second norm:
+0.9650723065807736 0.024377576946141313
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.90008119076995  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -5.2788 eV, S^2 = 0.0099 Norms: 0.961@(2, 1), 0.028@(1, 2)
+2-th state with excitation energy = 5.6434 eV, S^2 = 0.0313 Norms: 0.505@(1, 1), 0.493@(2, 2)
+3-th state with excitation energy = 13.3684 eV, S^2 = 0.0227 Norms: 0.944@(1, 2), 0.033@(2, 1)
+Excited energy : -5.278846266649248 eV.
+<S2> value : 0.00989431005095387.
+The main and second norm:
+0.9612848651853367 0.027874222832433262
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.911175637410321  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -4.8030 eV, S^2 = 0.0091 Norms: 0.957@(2, 1), 0.032@(1, 2)
+2-th state with excitation energy = 5.7822 eV, S^2 = 0.0314 Norms: 0.501@(1, 1), 0.497@(2, 2)
+3-th state with excitation energy = 12.8634 eV, S^2 = 0.0219 Norms: 0.943@(1, 2), 0.037@(2, 1)
+Excited energy : -4.802957212475112 eV.
+<S2> value : 0.009067297338995584.
+The main and second norm:
+0.9571214549377641 0.031761765320131176
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.921098269519501  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -4.3286 eV, S^2 = 0.0084 Norms: 0.953@(2, 1), 0.036@(1, 2)
+2-th state with excitation energy = 5.9062 eV, S^2 = 0.0315 Norms: 0.501@(2, 2), 0.497@(1, 1)
+3-th state with excitation energy = 12.4049 eV, S^2 = 0.0216 Norms: 0.941@(1, 2), 0.041@(2, 1)
+Excited energy : -4.328609671289318 eV.
+<S2> value : 0.008378985547759399.
+The main and second norm:
+0.9531505000130811 0.03574558922301879
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.929974157332811  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -3.9138 eV, S^2 = 0.0077 Norms: 0.948@(2, 1), 0.040@(1, 2)
+2-th state with excitation energy = 6.0178 eV, S^2 = 0.0315 Norms: 0.505@(2, 2), 0.495@(1, 1)
+3-th state with excitation energy = 11.9684 eV, S^2 = 0.0216 Norms: 0.938@(1, 2), 0.046@(2, 1)
+Excited energy : -3.9137609218848564 eV.
+<S2> value : 0.007734226653609344.
+The main and second norm:
+0.9481607806887858 0.04048336878665782
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.937911873633066  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -3.5024 eV, S^2 = 0.0072 Norms: 0.943@(2, 1), 0.045@(1, 2)
+2-th state with excitation energy = 6.1176 eV, S^2 = 0.0315 Norms: 0.507@(2, 2), 0.492@(1, 1)
+3-th state with excitation energy = 11.5719 eV, S^2 = 0.0219 Norms: 0.935@(1, 2), 0.051@(2, 1)
+Excited energy : -3.5024149804474765 eV.
+<S2> value : 0.007190981942863495.
+The main and second norm:
+0.9432412426004115 0.04537105805658159
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.945006761959409  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -3.1114 eV, S^2 = 0.0067 Norms: 0.938@(2, 1), 0.051@(1, 2)
+2-th state with excitation energy = 6.2085 eV, S^2 = 0.0314 Norms: 0.509@(2, 2), 0.491@(1, 1)
+3-th state with excitation energy = 11.2067 eV, S^2 = 0.0222 Norms: 0.931@(1, 2), 0.056@(2, 1)
+Excited energy : -3.111363972119854 eV.
+<S2> value : 0.006717303824075316.
+The main and second norm:
+0.9380177263148033 0.05061349442893701
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.951343415691019  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -2.7741 eV, S^2 = 0.0063 Norms: 0.932@(2, 1), 0.057@(1, 2)
+2-th state with excitation energy = 6.2917 eV, S^2 = 0.0314 Norms: 0.511@(2, 2), 0.489@(1, 1)
+3-th state with excitation energy = 10.8615 eV, S^2 = 0.0226 Norms: 0.926@(1, 2), 0.062@(2, 1)
+Excited energy : -2.77411310470908 eV.
+<S2> value : 0.006276922170534327.
+The main and second norm:
+0.931691733448821 0.05674856952686385
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.956997538186491  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -2.4309 eV, S^2 = 0.0059 Norms: 0.926@(2, 1), 0.063@(1, 2)
+2-th state with excitation energy = 6.3675 eV, S^2 = 0.0313 Norms: 0.512@(2, 2), 0.488@(1, 1)
+3-th state with excitation energy = 10.5506 eV, S^2 = 0.0230 Norms: 0.921@(1, 2), 0.069@(2, 1)
+Excited energy : -2.430930569479166 eV.
+<S2> value : 0.005904629656964033.
+The main and second norm:
+0.9255335074321935 0.06292330467767038
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.962037228251361  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -2.1071 eV, S^2 = 0.0056 Norms: 0.919@(2, 1), 0.070@(1, 2)
+2-th state with excitation energy = 6.4380 eV, S^2 = 0.0312 Norms: 0.513@(2, 2), 0.487@(1, 1)
+3-th state with excitation energy = 10.2647 eV, S^2 = 0.0234 Norms: 0.915@(1, 2), 0.075@(2, 1)
+Excited energy : -2.1070956697470633 eV.
+<S2> value : 0.005575421359447663.
+The main and second norm:
+0.918957631510422 0.0695231779924222
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.966524036459818  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -1.8358 eV, S^2 = 0.0053 Norms: 0.911@(2, 1), 0.077@(1, 2)
+2-th state with excitation energy = 6.5043 eV, S^2 = 0.0311 Norms: 0.514@(2, 2), 0.486@(1, 1)
+3-th state with excitation energy = 9.9953 eV, S^2 = 0.0237 Norms: 0.908@(1, 2), 0.083@(2, 1)
+Excited energy : -1.8357501781600676 eV.
+<S2> value : 0.005270284651284207.
+The main and second norm:
+0.9111273357350427 0.07719133730055484
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.970513800886579  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -1.5684 eV, S^2 = 0.0050 Norms: 0.903@(2, 1), 0.085@(1, 2)
+2-th state with excitation energy = 6.5657 eV, S^2 = 0.0310 Norms: 0.514@(2, 2), 0.486@(1, 1)
+3-th state with excitation energy = 9.7513 eV, S^2 = 0.0241 Norms: 0.901@(1, 2), 0.091@(2, 1)
+Excited energy : -1.5684446734515165 eV.
+<S2> value : 0.0050007061298273925.
+The main and second norm:
+0.9031354402673558 0.08510025418450422
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.974057148050512  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -1.2932 eV, S^2 = 0.0048 Norms: 0.895@(2, 1), 0.093@(1, 2)
+2-th state with excitation energy = 6.6236 eV, S^2 = 0.0309 Norms: 0.515@(2, 2), 0.485@(1, 1)
+3-th state with excitation energy = 9.5322 eV, S^2 = 0.0245 Norms: 0.893@(1, 2), 0.099@(2, 1)
+Excited energy : -1.2931606915789433 eV.
+<S2> value : 0.004760211947218096.
+The main and second norm:
+0.8952779966417831 0.09297715014278606
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.977200058827748  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -1.0734 eV, S^2 = 0.0045 Norms: 0.886@(2, 1), 0.102@(1, 2)
+2-th state with excitation energy = 6.6794 eV, S^2 = 0.0309 Norms: 0.515@(2, 2), 0.485@(1, 1)
+3-th state with excitation energy = 9.3259 eV, S^2 = 0.0248 Norms: 0.884@(1, 2), 0.108@(2, 1)
+Excited energy : -1.0734243243401802 eV.
+<S2> value : 0.004541855067202061.
+The main and second norm:
+0.8859715724387119 0.10213346150665396
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.979984435120891  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -0.8794 eV, S^2 = 0.0043 Norms: 0.876@(2, 1), 0.112@(1, 2)
+2-th state with excitation energy = 6.7321 eV, S^2 = 0.0308 Norms: 0.515@(2, 2), 0.485@(1, 1)
+3-th state with excitation energy = 9.1367 eV, S^2 = 0.0251 Norms: 0.875@(1, 2), 0.118@(2, 1)
+Excited energy : -0.8794399000618596 eV.
+<S2> value : 0.004345785688100623.
+The main and second norm:
+0.875912389090352 0.11201027187451103
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.982448316491913  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -0.6540 eV, S^2 = 0.0041 Norms: 0.867@(2, 1), 0.121@(1, 2)
+2-th state with excitation energy = 6.7818 eV, S^2 = 0.0308 Norms: 0.515@(2, 2), 0.485@(1, 1)
+3-th state with excitation energy = 8.9707 eV, S^2 = 0.0255 Norms: 0.866@(1, 2), 0.128@(2, 1)
+Excited energy : -0.6540364010566279 eV.
+<S2> value : 0.004148426900989932.
+The main and second norm:
+0.8665322907341654 0.121312679942683
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.984626036933305  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -0.4682 eV, S^2 = 0.0040 Norms: 0.856@(2, 1), 0.132@(1, 2)
+2-th state with excitation energy = 6.8304 eV, S^2 = 0.0308 Norms: 0.514@(2, 2), 0.485@(1, 1)
+3-th state with excitation energy = 8.8170 eV, S^2 = 0.0257 Norms: 0.856@(1, 2), 0.138@(2, 1)
+Excited energy : -0.4681616571914547 eV.
+<S2> value : 0.003974201488941453.
+The main and second norm:
+0.8560727435895099 0.13161563985113872
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.986548661169853  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -0.3197 eV, S^2 = 0.0038 Norms: 0.845@(2, 1), 0.143@(1, 2)
+2-th state with excitation energy = 6.8775 eV, S^2 = 0.0308 Norms: 0.514@(2, 2), 0.485@(1, 1)
+3-th state with excitation energy = 8.6757 eV, S^2 = 0.0260 Norms: 0.845@(1, 2), 0.150@(2, 1)
+Excited energy : -0.3196570180276558 eV.
+<S2> value : 0.003827765973704711.
+The main and second norm:
+0.844594934363058 0.14289813516397343
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.988244331236921  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -0.1804 eV, S^2 = 0.0037 Norms: 0.833@(2, 1), 0.154@(1, 2)
+2-th state with excitation energy = 6.9223 eV, S^2 = 0.0308 Norms: 0.514@(2, 2), 0.486@(1, 1)
+3-th state with excitation energy = 8.5489 eV, S^2 = 0.0262 Norms: 0.833@(1, 2), 0.162@(2, 1)
+Excited energy : -0.18041478769534025 eV.
+<S2> value : 0.003688901285048729.
+The main and second norm:
+0.8328223574821715 0.15447562088157146
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.989738346531281  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = -0.0078 eV, S^2 = 0.0035 Norms: 0.822@(2, 1), 0.165@(1, 2)
+2-th state with excitation energy = 6.9651 eV, S^2 = 0.0308 Norms: 0.514@(2, 2), 0.486@(1, 1)
+3-th state with excitation energy = 8.4387 eV, S^2 = 0.0265 Norms: 0.823@(1, 2), 0.173@(2, 1)
+Excited energy : -0.007792300403813271 eV.
+<S2> value : 0.0035083109649600708.
+The main and second norm:
+0.8218161984620861 0.1652613340079629
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.991053374940307  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 0.1183 eV, S^2 = 0.0034 Norms: 0.810@(2, 1), 0.177@(1, 2)
+2-th state with excitation energy = 7.0078 eV, S^2 = 0.0308 Norms: 0.513@(2, 2), 0.486@(1, 1)
+3-th state with excitation energy = 8.3375 eV, S^2 = 0.0267 Norms: 0.811@(1, 2), 0.185@(2, 1)
+Excited energy : 0.11831878499421737 eV.
+<S2> value : 0.003373442722733433.
+The main and second norm:
+0.8096833710922119 0.17717512399469215
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.992209883236906  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 0.2178 eV, S^2 = 0.0033 Norms: 0.797@(2, 1), 0.190@(1, 2)
+2-th state with excitation energy = 7.0491 eV, S^2 = 0.0308 Norms: 0.513@(2, 2), 0.487@(1, 1)
+3-th state with excitation energy = 8.2465 eV, S^2 = 0.0269 Norms: 0.799@(1, 2), 0.197@(2, 1)
+Excited energy : 0.21777232934567128 eV.
+<S2> value : 0.003267967124676474.
+The main and second norm:
+0.7969691068547072 0.18969356273956994
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.993226311857454  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 0.3108 eV, S^2 = 0.0032 Norms: 0.784@(2, 1), 0.202@(1, 2)
+2-th state with excitation energy = 7.0885 eV, S^2 = 0.0308 Norms: 0.512@(2, 2), 0.487@(1, 1)
+3-th state with excitation energy = 8.1662 eV, S^2 = 0.0271 Norms: 0.786@(1, 2), 0.210@(2, 1)
+Excited energy : 0.31083660419547887 eV.
+<S2> value : 0.0031632536477972373.
+The main and second norm:
+0.7842006261240162 0.20226198585864272
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.994119063816338  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 0.4365 eV, S^2 = 0.0030 Norms: 0.772@(2, 1), 0.214@(1, 2)
+2-th state with excitation energy = 7.1263 eV, S^2 = 0.0308 Norms: 0.512@(2, 2), 0.488@(1, 1)
+3-th state with excitation energy = 8.0974 eV, S^2 = 0.0274 Norms: 0.775@(1, 2), 0.222@(2, 1)
+Excited energy : 0.43649536358813357 eV.
+<S2> value : 0.0029843710478854035.
+The main and second norm:
+0.7722417890700919 0.21388224201402964
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.994902676965974  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 0.5263 eV, S^2 = 0.0029 Norms: 0.760@(2, 1), 0.226@(1, 2)
+2-th state with excitation energy = 7.1640 eV, S^2 = 0.0308 Norms: 0.511@(2, 2), 0.488@(1, 1)
+3-th state with excitation energy = 8.0359 eV, S^2 = 0.0276 Norms: 0.762@(1, 2), 0.234@(2, 1)
+Excited energy : 0.5262601046276337 eV.
+<S2> value : 0.002860777132021486.
+The main and second norm:
+0.7596744002955661 0.22619388129403434
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.995590184416759  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 0.5936 eV, S^2 = 0.0028 Norms: 0.747@(2, 1), 0.239@(1, 2)
+2-th state with excitation energy = 7.2008 eV, S^2 = 0.0308 Norms: 0.511@(2, 2), 0.489@(1, 1)
+3-th state with excitation energy = 7.9818 eV, S^2 = 0.0277 Norms: 0.750@(1, 2), 0.247@(2, 1)
+Excited energy : 0.593605353683353 eV.
+<S2> value : 0.0027734397441485648.
+The main and second norm:
+0.7468772182045587 0.23880348473996493
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.996193258401425  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 0.6500 eV, S^2 = 0.0027 Norms: 0.734@(2, 1), 0.251@(1, 2)
+2-th state with excitation energy = 7.2360 eV, S^2 = 0.0307 Norms: 0.510@(2, 2), 0.489@(1, 1)
+3-th state with excitation energy = 7.9351 eV, S^2 = 0.0279 Norms: 0.738@(1, 2), 0.260@(2, 1)
+Excited energy : 0.6499639683440351 eV.
+<S2> value : 0.0027008006631064063.
+The main and second norm:
+0.7341495153262684 0.2513750651556123
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.996722198555182  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 0.7298 eV, S^2 = 0.0026 Norms: 0.722@(2, 1), 0.263@(1, 2)
+2-th state with excitation energy = 7.2696 eV, S^2 = 0.0307 Norms: 0.510@(2, 2), 0.490@(1, 1)
+3-th state with excitation energy = 7.8960 eV, S^2 = 0.0280 Norms: 0.726@(1, 2), 0.272@(2, 1)
+Excited energy : 0.7297988344014658 eV.
+<S2> value : 0.002553725635091819.
+The main and second norm:
+0.7221195666387107 0.26307434370539357
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.997186003235718  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 0.8030 eV, S^2 = 0.0024 Norms: 0.710@(2, 1), 0.275@(1, 2)
+2-th state with excitation energy = 7.3028 eV, S^2 = 0.0307 Norms: 0.509@(2, 2), 0.490@(1, 1)
+3-th state with excitation energy = 7.8628 eV, S^2 = 0.0281 Norms: 0.714@(1, 2), 0.283@(2, 1)
+Excited energy : 0.8030432733086166 eV.
+<S2> value : 0.0024102899888425178.
+The main and second norm:
+0.7102743275552859 0.2745857360677497
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.99759262985301  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 0.8510 eV, S^2 = 0.0023 Norms: 0.698@(2, 1), 0.286@(1, 2)
+2-th state with excitation energy = 7.3358 eV, S^2 = 0.0306 Norms: 0.509@(2, 2), 0.491@(1, 1)
+3-th state with excitation energy = 7.8347 eV, S^2 = 0.0282 Norms: 0.703@(1, 2), 0.295@(2, 1)
+Excited energy : 0.8510266704873215 eV.
+<S2> value : 0.0023273068148776943.
+The main and second norm:
+0.698388278984421 0.28628541598634366
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.997949192060409  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 0.8873 eV, S^2 = 0.0023 Norms: 0.687@(2, 1), 0.298@(1, 2)
+2-th state with excitation energy = 7.3676 eV, S^2 = 0.0305 Norms: 0.508@(2, 2), 0.491@(1, 1)
+3-th state with excitation energy = 7.8114 eV, S^2 = 0.0283 Norms: 0.691@(1, 2), 0.307@(2, 1)
+Excited energy : 0.8872934974022285 eV.
+<S2> value : 0.0022696213312345392.
+The main and second norm:
+0.6867367721016174 0.29781749205923735
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.998261977837402  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 0.9211 eV, S^2 = 0.0022 Norms: 0.675@(2, 1), 0.309@(1, 2)
+2-th state with excitation energy = 7.3981 eV, S^2 = 0.0304 Norms: 0.508@(2, 2), 0.492@(1, 1)
+3-th state with excitation energy = 7.7926 eV, S^2 = 0.0284 Norms: 0.680@(1, 2), 0.318@(2, 1)
+Excited energy : 0.9210628781333551 eV.
+<S2> value : 0.002210839540222942.
+The main and second norm:
+0.675479534808634 0.3089539195070188
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.998536441159076  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 0.9793 eV, S^2 = 0.0021 Norms: 0.665@(2, 1), 0.319@(1, 2)
+2-th state with excitation energy = 7.4271 eV, S^2 = 0.0303 Norms: 0.508@(2, 2), 0.492@(1, 1)
+3-th state with excitation energy = 7.7782 eV, S^2 = 0.0285 Norms: 0.670@(1, 2), 0.328@(2, 1)
+Excited energy : 0.9792627858724409 eV.
+<S2> value : 0.0020602363869928197.
+The main and second norm:
+0.6649159678138596 0.319139081735048
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.998777274614188  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 1.0236 eV, S^2 = 0.0019 Norms: 0.655@(2, 1), 0.329@(1, 2)
+2-th state with excitation energy = 7.4557 eV, S^2 = 0.0302 Norms: 0.507@(2, 2), 0.492@(1, 1)
+3-th state with excitation energy = 7.7672 eV, S^2 = 0.0285 Norms: 0.660@(1, 2), 0.339@(2, 1)
+Excited energy : 1.0235878538838852 eV.
+<S2> value : 0.0019474686860521118.
+The main and second norm:
+0.6546078430588439 0.32916543793027664
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.998988609238094  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 1.0520 eV, S^2 = 0.0019 Norms: 0.645@(2, 1), 0.339@(1, 2)
+2-th state with excitation energy = 7.4837 eV, S^2 = 0.0301 Norms: 0.507@(2, 2), 0.493@(1, 1)
+3-th state with excitation energy = 7.7592 eV, S^2 = 0.0286 Norms: 0.650@(1, 2), 0.349@(2, 1)
+Excited energy : 1.0519569775525637 eV.
+<S2> value : 0.0018828462840811966.
+The main and second norm:
+0.6445832310854289 0.3390471495262045
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.999174138155551  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 1.0722 eV, S^2 = 0.0018 Norms: 0.635@(2, 1), 0.349@(1, 2)
+2-th state with excitation energy = 7.5106 eV, S^2 = 0.0300 Norms: 0.506@(2, 2), 0.493@(1, 1)
+3-th state with excitation energy = 7.7539 eV, S^2 = 0.0286 Norms: 0.641@(1, 2), 0.358@(2, 1)
+Excited energy : 1.0722387643018898 eV.
+<S2> value : 0.0018411797195323487.
+The main and second norm:
+0.6349473816465986 0.34860938363056837
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.999337129565161  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 1.0890 eV, S^2 = 0.0018 Norms: 0.626@(2, 1), 0.358@(1, 2)
+2-th state with excitation energy = 7.5366 eV, S^2 = 0.0299 Norms: 0.506@(2, 2), 0.494@(1, 1)
+3-th state with excitation energy = 7.7512 eV, S^2 = 0.0286 Norms: 0.632@(1, 2), 0.367@(2, 1)
+Excited energy : 1.0889875338001849 eV.
+<S2> value : 0.0018081931261892947.
+The main and second norm:
+0.6257471685695204 0.35776285707795824
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.999480413969082  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 1.1234 eV, S^2 = 0.0017 Norms: 0.617@(2, 1), 0.366@(1, 2)
+2-th state with excitation energy = 7.5616 eV, S^2 = 0.0298 Norms: 0.506@(2, 2), 0.494@(1, 1)
+3-th state with excitation energy = 7.7507 eV, S^2 = 0.0286 Norms: 0.623@(1, 2), 0.376@(2, 1)
+Excited energy : 1.1234473157937557 eV.
+<S2> value : 0.0017030690277053395.
+The main and second norm:
+0.6170992297661776 0.3661352867220381
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.99960638583352  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 1.1565 eV, S^2 = 0.0016 Norms: 0.609@(2, 1), 0.374@(1, 2)
+2-th state with excitation energy = 7.5858 eV, S^2 = 0.0297 Norms: 0.505@(2, 2), 0.494@(1, 1)
+3-th state with excitation energy = 7.7520 eV, S^2 = 0.0286 Norms: 0.615@(1, 2), 0.384@(2, 1)
+Excited energy : 1.1564811265047417 eV.
+<S2> value : 0.001598700544581444.
+The main and second norm:
+0.6088582952083204 0.37409168491094624
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -0.99971711096377  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 1.1775 eV, S^2 = 0.0015 Norms: 0.601@(2, 1), 0.382@(1, 2)
+2-th state with excitation energy = 7.6090 eV, S^2 = 0.0295 Norms: 0.505@(2, 2), 0.495@(1, 1)
+3-th state with excitation energy = 7.7549 eV, S^2 = 0.0286 Norms: 0.608@(1, 2), 0.392@(2, 1)
+Excited energy : 1.1774793660377711 eV.
+<S2> value : 0.0015358368955933344.
+The main and second norm:
+0.6009793530117602 0.3818158227484359
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -1.0000419537586  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 1.2333 eV, S^2 = 0.0014 Norms: 0.573@(2, 1), 0.409@(1, 2)
+2-th state with excitation energy = 7.6933 eV, S^2 = 0.0291 Norms: 0.504@(2, 2), 0.496@(1, 1)
+3-th state with excitation energy = 7.7782 eV, S^2 = 0.0285 Norms: 0.581@(1, 2), 0.419@(2, 1)
+Excited energy : 1.2332624692245604 eV.
+<S2> value : 0.001367938493566534.
+The main and second norm:
+0.5734435147562982 0.40897787615119247
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -1.00023739027267  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 1.2654 eV, S^2 = 0.0013 Norms: 0.552@(2, 1), 0.430@(1, 2)
+2-th state with excitation energy = 7.7645 eV, S^2 = 0.0287 Norms: 0.503@(2, 2), 0.497@(1, 1)
+3-th state with excitation energy = 7.8124 eV, S^2 = 0.0283 Norms: 0.560@(1, 2), 0.440@(2, 1)
+Excited energy : 1.2653759456467024 eV.
+<S2> value : 0.001268042588377316.
+The main and second norm:
+0.551771476440653 0.4304591551353203
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -1.00035626233219  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 1.3069 eV, S^2 = 0.0011 Norms: 0.535@(2, 1), 0.447@(1, 2)
+2-th state with excitation energy = 7.8249 eV, S^2 = 0.0284 Norms: 0.502@(2, 2), 0.498@(1, 1)
+3-th state with excitation energy = 7.8507 eV, S^2 = 0.0282 Norms: 0.543@(1, 2), 0.457@(2, 1)
+Excited energy : 1.3069261089085815 eV.
+<S2> value : 0.0011171347167202583.
+The main and second norm:
+0.5349837460517147 0.4467919602390782
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -1.00042847482408  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 1.3257 eV, S^2 = 0.0011 Norms: 0.522@(2, 1), 0.459@(1, 2)
+2-th state with excitation energy = 7.8752 eV, S^2 = 0.0282 Norms: 0.501@(2, 2), 0.498@(1, 1)
+3-th state with excitation energy = 7.8890 eV, S^2 = 0.0281 Norms: 0.531@(1, 2), 0.469@(2, 1)
+Excited energy : 1.325673297474898 eV.
+<S2> value : 0.001050758255009221.
+The main and second norm:
+0.5222553985171562 0.4593385525204523
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -1.00047391530834  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 1.3350 eV, S^2 = 0.0010 Norms: 0.513@(2, 1), 0.469@(1, 2)
+2-th state with excitation energy = 7.9184 eV, S^2 = 0.0281 Norms: 0.501@(2, 2), 0.499@(1, 1)
+3-th state with excitation energy = 7.9255 eV, S^2 = 0.0281 Norms: 0.522@(1, 2), 0.478@(2, 1)
+Excited energy : 1.3349638655282265 eV.
+<S2> value : 0.001018382555269426.
+The main and second norm:
+0.5127719092679764 0.46874285457201903
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -1.00050166034605  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 1.3397 eV, S^2 = 0.0010 Norms: 0.506@(2, 1), 0.476@(1, 2)
+2-th state with excitation energy = 7.9557 eV, S^2 = 0.0280 Norms: 0.501@(2, 2), 0.499@(1, 1)
+3-th state with excitation energy = 7.9593 eV, S^2 = 0.0280 Norms: 0.515@(1, 2), 0.485@(2, 1)
+Excited energy : 1.3396570417961322 eV.
+<S2> value : 0.001002196089319174.
+The main and second norm:
+0.5058381899110337 0.47564072532287877
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -1.00051964492738  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 1.3449 eV, S^2 = 0.0010 Norms: 0.501@(2, 1), 0.481@(1, 2)
+2-th state with excitation energy = 7.9886 eV, S^2 = 0.0280 Norms: 0.500@(2, 2), 0.500@(1, 1)
+3-th state with excitation energy = 7.9903 eV, S^2 = 0.0280 Norms: 0.510@(1, 2), 0.490@(2, 1)
+Excited energy : 1.3448535245208473 eV.
+<S2> value : 0.0009830911363790662.
+The main and second norm:
+0.5008449999396428 0.48056999635075315
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -1.00053036853839  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 1.3461 eV, S^2 = 0.0010 Norms: 0.497@(2, 1), 0.484@(1, 2)
+2-th state with excitation energy = 8.0179 eV, S^2 = 0.0280 Norms: 0.500@(2, 2), 0.500@(1, 1)
+3-th state with excitation energy = 8.0188 eV, S^2 = 0.0280 Norms: 0.507@(1, 2), 0.493@(2, 1)
+Excited energy : 1.346139608274955 eV.
+<S2> value : 0.0009786291510258671.
+The main and second norm:
+0.49735419527140584 0.48405059540171747
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -1.00053670101506  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 1.3476 eV, S^2 = 0.0010 Norms: 0.495@(2, 1), 0.486@(1, 2)
+2-th state with excitation energy = 8.0445 eV, S^2 = 0.0280 Norms: 0.500@(2, 2), 0.500@(1, 1)
+3-th state with excitation energy = 8.0449 eV, S^2 = 0.0280 Norms: 0.504@(1, 2), 0.496@(2, 1)
+Excited energy : 1.3475926244266407 eV.
+<S2> value : 0.0009732383409200018.
+The main and second norm:
+0.4949551087531543 0.48643080750642415
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -1.00054082755093  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 1.3465 eV, S^2 = 0.0010 Norms: 0.493@(2, 1), 0.488@(1, 2)
+2-th state with excitation energy = 8.0687 eV, S^2 = 0.0280 Norms: 0.500@(2, 2), 0.500@(1, 1)
+3-th state with excitation energy = 8.0689 eV, S^2 = 0.0280 Norms: 0.503@(1, 2), 0.497@(2, 1)
+Excited energy : 1.3465006058005735 eV.
+<S2> value : 0.0009775759114045712.
+The main and second norm:
+0.4933667498003355 0.48803974261874644
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -1.00054365072494  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 1.3484 eV, S^2 = 0.0010 Norms: 0.492@(2, 1), 0.489@(1, 2)
+2-th state with excitation energy = 8.0910 eV, S^2 = 0.0280 Norms: 0.500@(2, 2), 0.500@(1, 1)
+3-th state with excitation energy = 8.0910 eV, S^2 = 0.0280 Norms: 0.502@(1, 2), 0.498@(2, 1)
+Excited energy : 1.3484013409490796 eV.
+<S2> value : 0.0009702699706375384.
+The main and second norm:
+0.4923113576330045 0.48906435314929086
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -1.00054359163522  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 1.3488 eV, S^2 = 0.0010 Norms: 0.492@(2, 1), 0.490@(1, 2)
+2-th state with excitation energy = 8.1115 eV, S^2 = 0.0280 Norms: 0.500@(2, 2), 0.500@(1, 1)
+3-th state with excitation energy = 8.1115 eV, S^2 = 0.0280 Norms: 0.501@(1, 2), 0.499@(2, 1)
+Excited energy : 1.3488314778250086 eV.
+<S2> value : 0.0009685955704679117.
+The main and second norm:
+0.4916484704709401 0.48972055504572426
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -1.00054355065251  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 1.3489 eV, S^2 = 0.0010 Norms: 0.491@(2, 1), 0.490@(1, 2)
+2-th state with excitation energy = 8.1306 eV, S^2 = 0.0280 Norms: 0.500@(2, 2), 0.500@(1, 1)
+3-th state with excitation energy = 8.1306 eV, S^2 = 0.0280 Norms: 0.501@(1, 2), 0.499@(2, 1)
+Excited energy : 1.3488999550271652 eV.
+<S2> value : 0.0009683380128464592.
+The main and second norm:
+0.491241822509226 0.4901262273951337
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -1.00054505312727  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 1.3489 eV, S^2 = 0.0010 Norms: 0.491@(2, 1), 0.490@(1, 2)
+2-th state with excitation energy = 8.1483 eV, S^2 = 0.0280 Norms: 0.500@(2, 2), 0.500@(1, 1)
+3-th state with excitation energy = 8.1483 eV, S^2 = 0.0280 Norms: 0.500@(1, 2), 0.500@(2, 1)
+Excited energy : 1.3488769771597686 eV.
+<S2> value : 0.0009684635377382733.
+The main and second norm:
+0.4909986946060024 0.4903696133964878
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+converged SCF energy = -1.00054664835985  <S^2> = 2  2S+1 = 3
+0-th state with excitation energy = 1.3489 eV, S^2 = 0.0010 Norms: 0.491@(2, 1), 0.491@(1, 2)
+2-th state with excitation energy = 8.1649 eV, S^2 = 0.0280 Norms: 0.500@(2, 2), 0.500@(1, 1)
+3-th state with excitation energy = 8.1649 eV, S^2 = 0.0280 Norms: 0.500@(1, 2), 0.500@(2, 1)
+Excited energy : 1.3489458853885892 eV.
+<S2> value : 0.0009682022659314171.
+The main and second norm:
+0.4908563489112112 0.4905108872300183
+The main and second norm to orbital pair:
+(2.0, 1.0) (1.0, 2.0)
+
+
+None
+-----------------------
