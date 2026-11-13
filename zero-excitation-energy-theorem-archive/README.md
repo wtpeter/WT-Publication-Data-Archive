@@ -26,38 +26,38 @@ Wang et al., *J. Chem. Theory Comput.* **21**, 6905–6921 (2025). [Article](htt
 
 **Equation (44).** In the first integral, the term containing the gradient of the first orbital product was typeset twice. The corrected equation is
 
-$$
+```math
 \begin{aligned}
 K_{\mu\nu,\rho\sigma}^{x,x}
-&= \int \biggl\{
-   \phi_\mu^*\phi_\nu\,\phi_\sigma^*\phi_\rho
-   \frac{\partial^2\varepsilon_{\mathrm{xc}}}{\partial m_x\,\partial m_x}
+&= \int \biggl\lbrace
+   \phi_{\mu}^{*}\phi_{\nu}\,\phi_{\sigma}^{*}\phi_{\rho}
+   \frac{\partial^{2}\varepsilon_{\mathrm{xc}}}{\partial m_{x}\,\partial m_{x}}
 \\
-&\qquad + \sum_\alpha \nabla_\alpha(\phi_\mu^*\phi_\nu)\,\phi_\sigma^*\phi_\rho
-   \frac{\partial^2\varepsilon_{\mathrm{xc}}}{\partial m_x\,\partial(\nabla_\alpha m_x)}
+&\qquad + \sum_{\alpha} \nabla_{\alpha}(\phi_{\mu}^{*}\phi_{\nu})\,\phi_{\sigma}^{*}\phi_{\rho}
+   \frac{\partial^{2}\varepsilon_{\mathrm{xc}}}{\partial m_{x}\,\partial(\nabla_{\alpha} m_{x})}
 \\
-&\qquad + \sum_\alpha \phi_\mu^*\phi_\nu\,\nabla_\alpha(\phi_\sigma^*\phi_\rho)
-   \frac{\partial^2\varepsilon_{\mathrm{xc}}}{\partial m_x\,\partial(\nabla_\alpha m_x)}
+&\qquad + \sum_{\alpha} \phi_{\mu}^{*}\phi_{\nu}\,\nabla_{\alpha}(\phi_{\sigma}^{*}\phi_{\rho})
+   \frac{\partial^{2}\varepsilon_{\mathrm{xc}}}{\partial m_{x}\,\partial(\nabla_{\alpha} m_{x})}
 \\
 &\qquad + \sum_{\alpha\beta}
-   \nabla_\alpha(\phi_\mu^*\phi_\nu)\,\nabla_\beta(\phi_\sigma^*\phi_\rho)
-   \frac{\partial^2\varepsilon_{\mathrm{xc}}}{\partial(\nabla_\alpha m_x)\,\partial(\nabla_\beta m_x)}
-   \biggr\}\,\mathrm{d}\mathbf{r}
+   \nabla_{\alpha}(\phi_{\mu}^{*}\phi_{\nu})\,\nabla_{\beta}(\phi_{\sigma}^{*}\phi_{\rho})
+   \frac{\partial^{2}\varepsilon_{\mathrm{xc}}}{\partial(\nabla_{\alpha} m_{x})\,\partial(\nabla_{\beta} m_{x})}
+   \biggr\rbrace\,\mathrm{d}\mathbf{r}
 \\[4pt]
-&= \int \phi_\mu^*\phi_\nu \biggl\{
-   \frac{\partial^2\varepsilon_{\mathrm{xc}}}{\partial m_x\,\partial m_x}\,\phi_\sigma^*\phi_\rho
+&= \int \phi_{\mu}^{*}\phi_{\nu} \biggl\lbrace
+   \frac{\partial^{2}\varepsilon_{\mathrm{xc}}}{\partial m_{x}\,\partial m_{x}}\,\phi_{\sigma}^{*}\phi_{\rho}
 \\
-&\qquad - \sum_\alpha \biggl(
-   \nabla_\alpha
-   \frac{\partial^2\varepsilon_{\mathrm{xc}}}{\partial m_x\,\partial(\nabla_\alpha m_x)}
-   \biggr)\,\phi_\sigma^*\phi_\rho
+&\qquad - \sum_{\alpha} \biggl(
+   \nabla_{\alpha}
+   \frac{\partial^{2}\varepsilon_{\mathrm{xc}}}{\partial m_{x}\,\partial(\nabla_{\alpha} m_{x})}
+   \biggr)\,\phi_{\sigma}^{*}\phi_{\rho}
 \\
-&\qquad - \sum_{\alpha\beta} \nabla_\alpha \biggl[
-   \frac{\partial^2\varepsilon_{\mathrm{xc}}}{\partial(\nabla_\alpha m_x)\,\partial(\nabla_\beta m_x)}
-   \nabla_\beta(\phi_\sigma^*\phi_\rho)
-   \biggr] \biggr\}\,\mathrm{d}\mathbf{r}.
+&\qquad - \sum_{\alpha\beta} \nabla_{\alpha} \biggl[
+   \frac{\partial^{2}\varepsilon_{\mathrm{xc}}}{\partial(\nabla_{\alpha} m_{x})\,\partial(\nabla_{\beta} m_{x})}
+   \nabla_{\beta}(\phi_{\sigma}^{*}\phi_{\rho})
+   \biggr] \biggr\rbrace\,\mathrm{d}\mathbf{r}.
 \end{aligned}
-$$
+```
 
 **Nitrosomethane starting geometry (§5.1).** The S₀ starting geometry was optimized with B3LYP/6-31G(d), although the article lists B3LYP/cc-pVTZ. This difference is expected to have little effect on the main conclusions.
 
